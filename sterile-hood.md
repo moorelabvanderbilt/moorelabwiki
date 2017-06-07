@@ -4,7 +4,7 @@ The sterile hoods, or laminar flow cabinets, are two large semi-enclosed workben
 # Maintenance
 Every year, the hoods have to be inspected and recertified. Jim Llewellyn from Fil-Cert takes care of this for us. He can also do minor repairs on the hood if it needs it. 
  
-Usually, I give him a call in mid-November to schedule a date for him to come in early December.
+Usually, it's best to give him a call in mid-November to schedule a date for him to come in early December.
  
 Before he arrives, be sure to remove everything from the hoods so he has unobstructed airflow for the certification.
  
