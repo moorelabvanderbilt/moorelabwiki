@@ -11,6 +11,6 @@ Before he arrives, be sure to remove everything from the hoods so he has unobstr
 For billing, ask him to make two invoices, one for the large hood and one for the smaller hood. In the past, the Moore lab has paid for the large hood and the Jacobson lab for the small hood, but this can be renegotiated if needed. Fil-Cert is listed as Fil Cert Inc in eProcurement.
  
 Contact information:
-Jim Llewellyn
-Fil Cert, Inc.
-(615) 789-6564 
+>Jim Llewellyn  
+>Fil Cert, Inc.  
+>(615) 789-6564
