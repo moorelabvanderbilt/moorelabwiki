@@ -8,7 +8,7 @@
 3. You should be at a login screen. Log in using your VUnet ID.  
  
 ## Making a new order
-You should be a screen that looks something like this:
+You should be a screen that looks something like this:  
 ![Ordering Mice 00004](/uploads/ordering-mice-00004.png "Ordering Mice 00004")
 
 Click on “Animal Orders” under Operations, on the right. This will bring you to a screen like this:
