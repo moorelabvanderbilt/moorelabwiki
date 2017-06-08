@@ -9,7 +9,7 @@
  
 ## Making a new order
 You should be a screen that looks something like this:  
-![TOPAZ main menu](/uploads/ordering-mice-00004.png "Ordering Mice 00004")
+![TOPAZ main menu](/uploads/ordering-mice/ordering-mice-00004.png "Ordering Mice 00004")
 
 Click on **Animal Orders** under Operations, on the right. This will bring you to a screen like this:  
 ![animal orders menu](/uploads/ordering-mice/ordering-mice-00005.png "Ordering Mice 00005")
@@ -20,7 +20,8 @@ Hover over the mouse on the left and a menu should pop up as pictured. Click on 
 This will bring you to the ordering form.  
 ![Ordering Mice 00007 A](/uploads/ordering-mice/ordering-mice-00007-a.png "Ordering Mice 00007 A")
 
-Where it says “Protocol and Species”, click the **green plus button** to the right. This will bring up a dialog to select a protocol.
+Where it says “Protocol and Species”, click the **green plus button** to the right. This will bring up a dialog to select a protocol.  
+![Ordering Mice 00008](/uploads/ordering-mice/ordering-mice-00008.png "Ordering Mice 00008")
 
 Here it shows the animal protocols assigned to you and the Moore lab. Select one of them, depending on what the mice will be used for, and it will close the dialog window.
  
