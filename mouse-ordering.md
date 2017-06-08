@@ -4,7 +4,7 @@
 ## Getting to Topaz
 1. Open Firefox. It doesn’t work on Chrome.  
 2. Go to this address: <https://topazelements.mc.vanderbilt.edu/TOPAZElements/app/login/login.html>  
-... If this doesn’t work, go to the Vanderbilt DAC website (search “vanderbilt dac” on Google) and there should be a link to Topaz from there.  
+* If this doesn’t work, go to the Vanderbilt DAC website (search “vanderbilt dac” on Google) and there should be a link to Topaz from there.  
 3. You should be at a login screen. Log in using your VUnet ID.  
  
 ## Making a new order
