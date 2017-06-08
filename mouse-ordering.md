@@ -14,55 +14,55 @@ You should be a screen that looks something like this:
 
 Click on **Animal Orders** under Operations, on the right. This will bring you to a screen like this:  
 
-![animal orders menu](/uploads/ordering-mice/ordering-mice-00005.png "Ordering Mice 00005")
+![animal orders menu](/uploads/ordering-mice/ordering-mice-00005.png)
 
 Hover over the mouse on the left and a menu should pop up as pictured.  
 Click on **Create New Order**. On the next dialog that pops up, select **Create New Animal Order**.  
 
-![confirm create new order](/uploads/ordering-mice/ordering-mice-00006.png "Ordering Mice 00006")
+![confirm create new order](/uploads/ordering-mice/ordering-mice-00006.png)
 
 ## Protocol Information
 This will bring you to the ordering form.  
 Where it says “Protocol and Species”, click the **green plus button** to the right. This will bring up a dialog to select a protocol.  
 
-![order information](/uploads/ordering-mice/ordering-mice-00007-a.png "Ordering Mice 00007 A")
+![order information](/uploads/ordering-mice/ordering-mice-00007-a.png)
 
 Here it shows the animal protocols assigned to you and the Moore lab.  
 Select one of them, depending on what the mice will be used for, and it will close the dialog window.  
 
-![protocol selector](/uploads/ordering-mice/ordering-mice-00008.png "Ordering Mice 00008")
+![protocol selector](/uploads/ordering-mice/ordering-mice-00008.png)
 
 After you select a protocol, the protocol number will populate in a field on the first page.  
 After it does so, press the **Save** button up near the top of the page, and the rest of the information should now populate as well.  
 
-![populated information](/uploads/ordering-mice/ordering-mice-00009.png "Ordering Mice 00009")
+![populated information](/uploads/ordering-mice/ordering-mice-00009.png)
 
 Press **Next** at the bottom of the screen.
 
 ## Order Information
 The first field of this screen is the Vendor Catalog.  
 
-![vendor catolog field](/uploads/ordering-mice/ordering-mice-00011.png "Ordering Mice 00011")
+![vendor catolog field](/uploads/ordering-mice/ordering-mice-00011.png)
 
 Press the **green plus button** on the right of this field to bring up the Vendor selector.  
 
-![vendor selector](/uploads/ordering-mice/ordering-mice-00012.png "Ordering Mice 00012")
+![vendor selector](/uploads/ordering-mice/ordering-mice-00012.png)
 
 Select the vendor that you’ll be purchasing the mice from, and this will close the dialog box.
 
 Now the **Add Catalog Item from** button should be active, and it should list the vendor you selected next to it, as pictured.  
 Press the **Add Catalog Item from** button and another dialog box will appear.  
 
-![vendor catalog button](/uploads/ordering-mice/ordering-mice-00013.png "Ordering Mice 00013")
+![vendor catalog button](/uploads/ordering-mice/ordering-mice-00013.png)
 
 Here you will select what strain and age of mouse you want.  
 
-![vendor catalog](/uploads/ordering-mice/ordering-mice-00014-a.png "Ordering Mice 00014 A")
+![vendor catalog](/uploads/ordering-mice/ordering-mice-00014-a.png)
 
 If you already have filters set up, then great!  
 Select the strain of mouse from the **Filter dropdown** and skip the next section.  
 
-![filter list](/uploads/ordering-mice/ordering-mice-00015.png "Ordering Mice 00015")
+![filter list](/uploads/ordering-mice/ordering-mice-00015.png)
  
 If you don’t have filters set up yet, then follow along.
  
@@ -73,14 +73,14 @@ Click on the **Filter editor button** at the top right (it looks like a silver f
 It will pop out a sidebar with some filter options in it.  
 Click on the **New Filter** button (a silver funnel with a sparkle/sun).  
 
-![filter editor](/uploads/ordering-mice/ordering-mice-00016.png "Ordering Mice 00016")
+![filter editor](/uploads/ordering-mice/ordering-mice-00016.png)
  
 This will bring up a small dialog where you can add conditions to the search.  
 Usually it is sufficient to select Catalog# and put in the number of the mouse strain, as shown.  
 Give the filter a name, and then press the **save button** (floppy disk).  
 This will add this new filter to the dropdown menu above, so the next time you order mice you don’t have to do this again.  
 
-![creating a filter](/uploads/ordering-mice/ordering-mice-00018.png "Ordering Mice 00018")
+![creating a filter](/uploads/ordering-mice/ordering-mice-00018.png)
  
 However, if you don’t want to save this filter, you can just press the blue arrow to do a search with the conditions that you’ve selected. This may come in handy if it's a strain of mouse that you probably won't need to order again.
  
@@ -102,18 +102,18 @@ Once the mouse strain has been selected, go to the **Requester** section, second
 This will probably say your name here, but you’ll want to change it to Dan’s name, since this is what will be printed on the mouse room cards.  
 Press the **person with green plus** icon and select Dan’s name from the list.  
 
-![change requester](/uploads/ordering-mice/ordering-mice-00010.png "Ordering Mice 00010")
+![change requester](/uploads/ordering-mice/ordering-mice-00010.png)
  
 Press **Next** at the bottom of the screen.
 
 ## Deliveries
 Click on the **Schedule Deliveries** button at the top right.  
 
-![deliveries screen](/uploads/ordering-mice/ordering-mice-00019.png "Ordering Mice 00019")
+![deliveries screen](/uploads/ordering-mice/ordering-mice-00019.png)
 
 This will bring up a dialog with a calendar.  
 
-![delivery calendar](/uploads/ordering-mice/ordering-mice-00020.png "Ordering Mice 00020")
+![delivery calendar](/uploads/ordering-mice/ordering-mice-00020.png)
 
 Click on the date that you’d like the mice to be delivered.  
 Press **OK** and the dialog will close, and the date you selected will show up in the list.  
@@ -122,47 +122,47 @@ This will bring up a screen with options about this delivery.
 
 First input how many mice you’d like to be delivered.  
 
-![number of mice](/uploads/ordering-mice/ordering-mice-00022.png "Ordering Mice 00022")
+![number of mice](/uploads/ordering-mice/ordering-mice-00022.png)
 
 Input how many mice you’d like per cage (this is usually 5).  
 
-![mice per cage](/uploads/ordering-mice/ordering-mice-00023.png "Ordering Mice 00023")
+![mice per cage](/uploads/ordering-mice/ordering-mice-00023.png)
 
 Press the **green plus button** next to “Housing Location”. This will bring up a dialog window.  
 
-![housing location](/uploads/ordering-mice/ordering-mice-00024.png "Ordering Mice 00024")
+![housing location](/uploads/ordering-mice/ordering-mice-00024.png)
 
 Input the room number (usually it’s easier to search just by the numbers in the room, no letters), and select the room from the results that show up.  
 
-![room selector](/uploads/ordering-mice/ordering-mice-00026.png "Ordering Mice 00026")
+![room selector](/uploads/ordering-mice/ordering-mice-00026.png)
 
 Select **Medical Center North II** from the **Ship To Address** drop down menu.  
 
-![shipping location](/uploads/ordering-mice/ordering-mice-00028.png "Ordering Mice 00028")
+![shipping location](/uploads/ordering-mice/ordering-mice-00028.png)
 
 Select **Mouse (VUMC)** from the **Cage Type** drop down menu.  
 
-![cage type](/uploads/ordering-mice/ordering-mice-00029.png "Ordering Mice 00029")
+![cage type](/uploads/ordering-mice/ordering-mice-00029.png)
 
 Press the **green plus button** in the right of the **Bill To Account** section and select the center number you’d like to use to purchase the mice.  
 
-![bill to account](/uploads/ordering-mice/ordering-mice-00030.png "Ordering Mice 00030")
+![bill to account](/uploads/ordering-mice/ordering-mice-00030.png)
 
 Press the **green plus button** in the right of the **Per Diem Account** section and select the center number you’d like to use for ongoing charges related to these mice.  
 Usually this is the same center number as the Bill To Account number, but it doesn't have to be.  
 
-![per diem account](/uploads/ordering-mice/ordering-mice-00031.png "Ordering Mice 00031")
+![per diem account](/uploads/ordering-mice/ordering-mice-00031.png)
 
 Press the **Save** button at the top again.  
 The app should load for a second, and then the other buttons will become active.  
 Press the **Submit** button and a dialog will pop up.  
 
-![submit button](/uploads/ordering-mice/ordering-mice-00032.png "Ordering Mice 00032")
+![submit button](/uploads/ordering-mice/ordering-mice-00032.png)
 
 This might load for a second too.  
 When **Submitted** and a blue right-arrow shows up, press the **Set Status** button.  
 
-![set status dialog](/uploads/ordering-mice/ordering-mice-00033.png "Ordering Mice 00033")
+![set status dialog](/uploads/ordering-mice/ordering-mice-00033.png)
  
 You’re done! The mice have been ordered.
  
