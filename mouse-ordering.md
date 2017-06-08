@@ -9,7 +9,7 @@
  
 ## Making a new order
 You should be a screen that looks something like this:
-
+![Ordering Mice 00004](/uploads/ordering-mice-00004.png "Ordering Mice 00004")
 
 Click on “Animal Orders” under Operations, on the right. This will bring you to a screen like this:
 
@@ -94,4 +94,6 @@ This might load for a second too. When “Submitted” and a blue right-arrow sh
 You’re done! The mice have been ordered.
  
 ## Copying orders
-You may have noticed that “Copy” button next to the “Submit” button at the top. If you have similar orders, you can copy all the input fields from an old order to a new order. After creating the new order and selecting the protocol, save the form like usual. This should activate the “Copy” button. When you press it, it will ask you if you’re sure, and then let you pick an order to copy. Once you do it, all of the values from the old order will be input into the new order. You can then go through and change individual values like usual to fit the new order.
+You may have noticed that “Copy” button next to the “Submit” button at the top. If you have similar orders, you can copy all the input fields from an old order to a new order. 
+
+After creating the new order and selecting the protocol, save the form like usual. This should activate the “Copy” button. When you press it, it will ask you if you’re sure, and then let you pick an order to copy. Once you do it, all of the values from the old order will be input into the new order. You can then go through and change individual values like usual to fit the new order.
