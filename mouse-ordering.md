@@ -10,7 +10,7 @@
 ## Starting a new order
 You should be a screen that looks something like this:  
 
-![TOPAZ main menu](/uploads/ordering-mice/ordering-mice-00004.png "Ordering Mice 00004")
+![TOPAZ main menu](/uploads/ordering-mice/ordering-mice-00004.png)
 
 Click on **Animal Orders** under Operations, on the right. This will bring you to a screen like this:  
 
