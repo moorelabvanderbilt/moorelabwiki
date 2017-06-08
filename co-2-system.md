@@ -4,7 +4,7 @@
 When one of the tanks has run out, you'll need to order a replacement.
 
 We rely on **A&L Compressed Gas** for our CO<sub>2</sub>.  
->A&L Compressed Gas
+>A&L Compressed Gas  
 >615.254.1457
 
 Call them and tell them you are calling from Vanderbilt University and that you need to order a CO<sub>2</sub> tank.
