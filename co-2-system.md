@@ -1,3 +1,3 @@
-<!-- TITLE: CO<sub>2</sub> System -->
+<!-- TITLE: CO2 System -->
 
-# Header
+# CO<sub>2</sub>
