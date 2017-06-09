@@ -73,9 +73,24 @@ To reattach, push the tubing onto the fitting. If the tubing is too brittle to f
 
 You probably won't have to do any replacements, but just in case, here's how I put it all together.
 
+If you remove any of these fittings, you should replace the teflon tape around the threads before putting it back together. This will make it easier to tighten and prevent it from seizing so it will remain easy to remove in the future.
+
+Just take the teflon tape and stretch it once around the threads of the fitting, as pictured.
+
+![teflon tape](/uploads/co-2-system/co-2-system-00007.jpg "teflon tape")
+
 ### Tank side
+![tank side plumbing](/uploads/co-2-system/co-2-system-00012-a.jpeg "tank side plumbing")
+
+* The **tank regulator** fitting is 1/4-inch MNPT (male National Pipe Thread).
+* The [**coupling**](https://www.grainger.com/product/GRAINGER-APPROVED-Brass-Coupling-46M499) is 1/4-inch FNPT (female National Pipe Thread) on both sides.
+* The [**adapter**](https://www.grainger.com/product/SMC-1-4-Brass-Male-Adapter-36X027) is 1/4-inch MNPT on the metal side, and on the tubing side it accepts 1/4-inch OD (outer diameter) tubing.
+* The [**tubing**](https://www.grainger.com/product/GRAINGER-APPROVED-50-ft-Extruded-Polyurethane-2LZF8) is polyurethane, 1/4-inch OD, and 5/32-inch ID (inner diameter).
 
 ### Wall side
+![wall side plumbing](/uploads/co-2-system/co-2-system-00013-a.jpeg "wall side plumbing")
+
+
 
 ### Incubator
 
