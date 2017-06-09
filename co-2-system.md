@@ -17,6 +17,7 @@ The regulator has two knobs:
 
 The tanks themselves also have a knob, the **cylinder valve**, which when closed, prevents the gas from leaving the tank. If you want to turn off a tank, use this knob.
 # Tank switcher
+
 # Ordering replacement tanks
 When one of the tanks has run out, you'll need to order a replacement.
 
