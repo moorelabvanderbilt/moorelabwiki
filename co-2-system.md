@@ -1,6 +1,22 @@
 <!-- TITLE: CO2 System -->
 
-The CO<sub>2</sub> system supplies the [incubator](/incubator-system "Incubator System") with carbon dioxide. Cells grown in the incubator need the media to be kept at an optimal pH (around 7). Typically media contains dissolved bicarbonate (HCO<sub>3</sub><sup>-</sup>) in order to maintain this pH, but at normal air concentrations of CO<sub>2</sub>, the bicarbonate would dissociate to H<sub>2</sub>O and CO<sub>2</sub>, and evaporate into the air. Therefore, in order to keep the media at the correct pH, the atmosphere in the incubator is kept at 5% CO<sub>2</sub> to keep the bicarbonate in solution.
+The CO<sub>2</sub> system supplies the [incubator](/incubator-system "Incubator System") with carbon dioxide. Cells grown in the incubator need the media to be kept at an optimal pH (around 7). Typically media contains dissolved bicarbonate (HCO<sub>3</sub><sup>-</sup>) in order to maintain this pH, but at normal air concentrations of CO<sub>2</sub>, the bicarbonate would dissociate to H<sub>2</sub>O and CO<sub>2</sub> and evaporate into the air. Therefore, in order to keep the media at the correct pH, the atmosphere in the incubator is kept at 5% CO<sub>2</sub> to keep the bicarbonate in solution.
+
+# Reading the gauges
+The tanks each have a regulator on them, as pictured. The regulator controls how fast the gas is allowed to escape from the tank.
+
+![tank regulator](/uploads/co-2-system/co-2-system-00006-a.jpg "tank regulator")
+
+The regulator has two gauges:  
+* **Regulator pressure gauge**: indicates the pressure of the gas leaving the regulator, into the tank switcher. This should be around 10 psi (lbs/in). Adjust this using the pressure regulator knob.  
+* **High pressure gauge**: indicates the amount of gas remaining in the tank. When this reads zero, the tank is empty!
+
+The regulator has two knobs:  
+* **Pressure regulator knob**: controls the pressure of the gas leaving the regulator.
+* **Regulator outlet knob**: when closed, prevents gas from leaving the regulator. When open, allows gas to leave the regulator. You most likely will not have to adjust this one.
+
+The tanks themselves also have a knob, the **cylinder valve**, which when closed, prevents the gas from leaving the tank. If you want to turn off a tank, use this knob.
+# Tank switcher
 # Ordering replacement tanks
 When one of the tanks has run out, you'll need to order a replacement.
 
@@ -18,3 +34,6 @@ They commonly ask several questions, to which the answers are:
 
 They'll then confirm with an order number and tell you when to expect the tank.  
 Usually they have the tank to you within a couple days.
+
+# Plumbing
+
