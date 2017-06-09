@@ -1,5 +1,6 @@
 <!-- TITLE: CO2 System -->
 
+The CO<sub>2</sub> system supplies the [incubator](/incubator-system "Incubator System") with carbon dioxide. Cells grown in the incubator need the media to be kept at an optimal pH (around 7). Typically media contains dissolved bicarbonate (HCO<sub>3</sub><sup>-</sup>) in order to maintain this pH, but at normal air concentrations of CO<sub>2</sub>, the bicarbonate would dissociate to H<sub>2</sub>O and CO<sub>2</sub>, and evaporate into the air. Therefore, in order to keep the media at the correct pH, the atmosphere in the incubator is kept at 5% CO<sub>2</sub> to keep the bicarbonate in solution.
 # Ordering replacement tanks
 When one of the tanks has run out, you'll need to order a replacement.
 
