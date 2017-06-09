@@ -33,6 +33,8 @@ The tank switcher will sound an alarm when one tank runs out. To turn off this a
 ![tank switcher back](/uploads/co-2-system/co-2-system-00008-a.jpeg "tank switcher back")
 
 The back of the tank switcher has three quick-release ports, two for the tanks and one as the output. These are all size 1/4-inch (6mm) OD.
+
+The model of the tank switcher is [TREG-SO1 SwitchOver CO2 Cylinder Automatic Backup Switcher from Tritech Research](http://www.tritechresearch.com/TREG-SO1.html).
 # Ordering replacement tanks
 When one of the tanks has run out, you'll need to order a replacement.
 
