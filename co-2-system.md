@@ -58,7 +58,16 @@ Usually they have the tank to you within a couple days.
 ### Quick-release fittings
 The quick-release fittings are the ones with the little plastic ring around the tube. These are the ones on the tank side, connecting all the red tubing.
 
-To remove these, press and hold the plastic ring down onto the metal fitting.  
+To remove the tube, press and hold the plastic ring down onto the metal fitting. While holding it down, pull the tube out with the other hand. It may stick a little, but that's normal.
+
+To reattach the tube, just insert the tube into the fitting and press firmly in. It should go about 1/2-inch into the fitting.
+
+### Regular fittings
+The regular fittings are the ones that look like a threaded metal cone, and the tube just fits over the end of the cone part.
+
+To remove, just pull until it comes off. These can be pretty tough to remove. If it seems like it's going to be too much trouble to get it off, cut a slit in the tubing against the fitting with a razor blade until the tubing can be removed easily.
+
+To reattach, push the tubing onto the fitting. If the tubing is too brittle to fit over the fitting, replace the tubing.
 
 ## Replacing parts
 
