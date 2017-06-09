@@ -17,7 +17,22 @@ The regulator has two knobs:
 
 The tanks themselves also have a knob, the **cylinder valve**, which when closed, prevents the gas from leaving the tank. If you want to turn off a tank, use this knob.
 # Tank switcher
+The tank switcher serves as an intermediary between the tanks and the incubator. 
 
+When one of the tanks runs out, the tank switcher automatically switches to the other tank to keep the flow of CO<sub>2</sub> constant. 
+
+![tank switcher front](/uploads/co-2-system/co-2-system-00010-a.jpeg "tank switcher front")
+
+The front of the tank switcher has two sets of lights (a set for each tank) and a switch in the middle.
+* The **pressure light** blinks green when that tank is the one actively being used. It is solid green when that tank has pressure but is not currently being used.
+* The **tank empty light** is solid red when that tank is empty.
+* The **on/off switch** switches the power of the tank switcher. Turning off the switcher *does not* stop the flow of gas - it simply continues letting gas through the tank that was last selected when the switcher was powered off.
+
+The tank switcher will sound an alarm when one tank runs out. To turn off this alarm, simply switch the on/off switch off and then back on.
+
+![tank switcher back](/uploads/co-2-system/co-2-system-00008-a.jpeg "tank switcher back")
+
+The back of the tank switcher has three quick-release ports, two for the tanks and one as the output. These are all size 1/4-inch (6mm) OD.
 # Ordering replacement tanks
 When one of the tanks has run out, you'll need to order a replacement.
 
