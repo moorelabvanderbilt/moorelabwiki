@@ -54,4 +54,19 @@ They'll then confirm with an order number and tell you when to expect the tank.
 Usually they have the tank to you within a couple days.
 
 # Plumbing
+## Removing/reattaching tubing
+### Quick-release fittings
+The quick-release fittings are the ones with the little plastic ring around the tube. These are the ones on the tank side, connecting all the red tubing.
+
+To remove these, press and hold the plastic ring down onto the metal fitting.  
+
+## Replacing parts
+
+You probably won't have to do any replacements, but just in case, here's how I put it all together.
+
+### Tank side
+
+### Wall side
+
+### Incubator
 
