@@ -24,9 +24,9 @@ Again, the place is only open from 2pm-3pm on Tuesdays and Thursdays, so don't b
 
 You may want to bring a cart to transport the box. 4 gallons of ethanol weighs about 25 lbs, so you probably don't want to carry that all the way back to the lab.
 
-There are two ways to go: outside and inside.
+There are two routes to get to the vendor: outside and inside.
 
-### Outside
+### Outside route
  
 Walk out of Light Hall following the purple line:
 
@@ -44,7 +44,7 @@ Look to the right-ish direction, you’ll see some blue doors at the end of a sm
 
 ![go to door on right](/uploads/ethanol/ethanol-00004-a.jpg "go to door on right")
 
-### Inside
+### Inside route
 
 ## The actual transaction
 
