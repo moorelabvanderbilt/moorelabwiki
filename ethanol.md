@@ -1,7 +1,7 @@
 <!-- TITLE: Ethanol -->
 
 # Buying ethanol
-Buying lab-grade ethanol is extremely expensive from the normal suppliers for some reason, so we have to buy it directly from Vanderbilt Medical Center.
+For some reason, buying lab-grade ethanol is extremely expensive from the normal suppliers, so we have to buy it directly from Vanderbilt Medical Center.
 
 You can only purchase it from Vanderbilt from 2pm-3pm on Tuesdays and Thursdays, so be sure to get the 1180 before then.
  
