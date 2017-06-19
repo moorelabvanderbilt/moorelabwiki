@@ -6,14 +6,14 @@ For some reason, buying lab-grade ethanol is extremely expensive from the normal
 You can only purchase it from Vanderbilt from 2pm-3pm on Tuesdays and Thursdays, so be sure to get the 1180 before then.
  
 ## 1180 form
-The first thing you’ll need to do is get an 1180 Requisition Form from the Peds Endo administrative assistant.  Shoot him/her an email about this, including the following information:
+The first thing you’ll need to do is get an 1180 Requisition Form from the [Peds Endo administrative assistant](/admin-asst "Adminstrative Assistants").  Shoot him/her an email about this, including the following information:
 * **Units ordered**: 4
 * **Unit of issue**: gallon
 * **Description**: 100% lab-grade ethanol, 4x1 gallon bottles
 * **Amount**: the price - this fluctuates, but it's usually around 40. I think they can leave it blank and you can write it in when you get the ethanol.
 * **Center Number**: the center number you'd like to charge the purchase to.
 
-The AA will email you when the 1180 is approved and ready to pick up. Go to VAV and get it.
+The administrative assistant will email you when the 1180 is approved and ready to pick up. Go to VAV and get it.
 
 The 1180 should look something like the below picture when you get it. It will be 3 carbon copies (yellow, pink, white).
 
@@ -52,4 +52,4 @@ There should be an employee there who will accept your 1180 in exchange for the 
 
 Anyway, if you find someone, they'll have you write the price of the ethanol on the 1180 and sign it. Then they'll keep the top copy of the carbon copies, and you'll keep the other two. Take the 1180 and your ethanol and bring it back to lab.
  
-At your convenience, bring the 1180 back to the Peds Endo administrative assistant.
+At your convenience, bring the 1180 back to the [Peds Endo administrative assistant](/admin-asst "Adminstrative Assistants").
