@@ -6,7 +6,7 @@ For some reason, buying lab-grade ethanol is extremely expensive from the normal
 You can only purchase it from Vanderbilt from 2pm-3pm on Tuesdays and Thursdays, so be sure to get the 1180 before then.
  
 ## 1180 form
-The first thing you’ll need to do is get an 1180 Requisition Form from the [Peds Endo administrative assistant](/admin-asst "Adminstrative Assistants").  Shoot him/her an email about this, including the following information:
+The first thing you’ll need to do is get an 1180 Requisition Form from the [Peds Endo administrative assistant](/admin-asst "Administrative Assistants").  Shoot him/her an email about this, including the following information:
 * **Units ordered**: 4
 * **Unit of issue**: gallon
 * **Description**: 100% lab-grade ethanol, 4x1 gallon bottles
@@ -46,10 +46,54 @@ Look to the right-ish direction, you’ll see some blue doors at the end of a sm
 
 ### Inside route
 
+From the lab exit, go down the hall toward the restrooms, and turn the corner into the 7th floor atrium. Go through the double doors on the other side of the atrium into Light Hall. Go straight to the end of the hallway, following the purple line in the photos.
+
+![end of hallway](/uploads/ethanol/ethanol-00007-a.jpg "end of hallway")
+
+Turn right at the end of the hallway, and then turn left before the 3 elevators.
+
+![left before elevators](/uploads/ethanol/ethanol-00021-a.jpg "left before elevators")
+
+Continue down this hallway, around the soft right.
+
+![soft right](/uploads/ethanol/ethanol-00009-a.jpg "this right is real soft")
+
+Continue, taking the soft left.
+
+![soft left](/uploads/ethanol/ethanol-00010-a.jpg "this left's softness leaves something to be desired")
+
+Continue down this long hallway.
+
+![robinson hallway](/uploads/ethanol/ethanol-00011-a.jpg "robinson hallway")
+
+Continue through into Preston Research Building.
+
+![door to preston](/uploads/ethanol/ethanol-00012-a.jpg "I still think MRB2 is a catchier name.")
+
+Turn left at the first hallway to the left.
+
+![left hallway](/uploads/ethanol/ethanol-00013-a.jpg "this is also the way to Taco Bell")
+
+Now at this elevator bay, you need to take the elevator on the right side (MRB2 E1). If the other elevator gets called instead, just get in and press the button for 1 and then get out. Once the door closes, press the button for down again, and the right elevator should come next.
+
+![elevator](/uploads/ethanol/ethanol-00015-a.jpg "the right elevator is the right one")
+
+Once you get the correct elevator, get in and press the button for LD.
+
+![elevator buttons](/uploads/ethanol/ethanol-00016-a.jpg "LD stands for 'lackluster dungeon'")
+
+Stepping out, go to the right, through the blue double doors.
+
+![loading dock elevator opening](/uploads/ethanol/ethanol-00018-a.jpg "lackluster and dungeony")
+
+The door where the ethanol lives is right in front of you. You've arrived! Congratulations!
+
+![ethanol storage](/uploads/ethanol/ethanol-00019-a.jpg "It's a McDonald's on Mon-Wed-Fri. Closed for both alcohol and quarter pounders on weekends.")
+
 ## The actual transaction
 
 There should be an employee there who will accept your 1180 in exchange for the box of 4 gallons of 100% ethanol. If there isn't, check the small windowed room in the same area. If there isn't anyone there at all, then come back on the next Tuesday or Thursday. It's a highly refined system.
 
 Anyway, if you find someone, they'll have you write the price of the ethanol on the 1180 and sign it. Then they'll keep the top copy of the carbon copies, and you'll keep the other two. Take the 1180 and your ethanol and bring it back to lab.
  
-At your convenience, bring the 1180 back to the [Peds Endo administrative assistant](/admin-asst "Adminstrative Assistants").
+At your convenience, bring the 1180 back to the [Peds Endo administrative assistant](/admin-asst "Administrative Assistants").
