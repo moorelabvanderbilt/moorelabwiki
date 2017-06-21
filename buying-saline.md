@@ -31,4 +31,22 @@ After it is signed and approved, email it to pharmacypurchasing@vanderbilt.edu.
 
 You should recieve an email when your order is ready to pick up. For saline, this is usually the next business day.
 # Going to the pharmacy
+Go out of the lab and take the elevators down to the 1st floor.
+
+Go around the bend into the 1st floor of the main hospital. 
+
+Make a right into the main hallway.
+
+Take the first left and you should see a set of elevators in front of you. Either take these elevators down to the basement, or take the stairs to the right of the elevator bays.
+
+You'll be following signs leading to B-127. Turn right out of the elevator, or go straight-ish past the elevators from the stairs.
+
+Turn right past the elevators, then turn left into a hallway.
+
+Go to the end of the hallway and turn left (this should be the only way you can go).
+
+Go about halfway down this hallway until you reach B-127.
+
+Use the phone on the wall there to tell the people inside that you're there to pick up an order.  
+You may have to sign something indicating that you've picked it up, but that should be it. 
 
