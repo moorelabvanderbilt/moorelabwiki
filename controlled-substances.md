@@ -35,3 +35,7 @@ For ease of sharing amongst the lab members and to save the beautiful trees of t
 
 The inspectors will want to see these logs during mouse inspection, so keep them up to date and accurate.
 # Disposal
+To properly dispose of controlled substances, they must be solidified first. 
+
+# More information
+For more information, see the [DAC website](https://www.vanderbilt.edu/acup/dac/) and the [IACUC website](https://www.vanderbilt.edu/acup/iacuc/). These websites have detailed forms and procedures for everything to do with mouse management, including controlled substances.
