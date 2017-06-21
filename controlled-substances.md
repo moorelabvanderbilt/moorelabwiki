@@ -14,7 +14,9 @@ The only differences from a normal requisition are:
 * In the **Comment for Supplier** field, put in "Dr. Daniel Moore, account number [number]."
 * When it asks if HIPAA is applicable to this purchase, select "No".
 # Storage
+Any vial with ketamine in it must be kept in a locked box, in a locked drawer.
 
+We have two lockboxes, one for fresh drugs, and the other for drugs that are expired or used up. It is recommended to keep expired drugs in the separate box until they are disposed so that they are less likely to be accidentally used on mice.
 # Usage
 
 # Disposal
