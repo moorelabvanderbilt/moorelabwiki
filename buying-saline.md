@@ -18,6 +18,17 @@ And it comes in packs like this:
 # Submitting the order
 To begin, you'll need to download this form:
 
-[Pharmacy_Medication_Request_Form_Rev_5-6-2017](/uploads/buying-saline/pharmacy-medication-request-form-rev-5-6-2017.pdf "Pharmacy Medication Request Form Rev 5 6 2017")
+[pharmacy-medication-request-form-rev-5-6-2017.pdf](/uploads/buying-saline/pharmacy-medication-request-form-rev-5-6-2017.pdf "Pharmacy Medication Request Form Rev 5 6 2017")
 
+Fill out the information as listed on the form. Most of the fields are pretty self-explanatory.
+
+* **Description**: 0.9% Sodium Chloride Injection, 10 mL, 1 box of 25 units
+* **Account**: 60150 is the number we use for all lab supplies
+
+Have Dan sign the **Principal Investigator (Signature)** field, and then email it to [Bethany](/admin-asst#bethany-oates) for department approval.
+
+After it is signed and approved, email it to pharmacypurcasing@vanderbilt.edu.
+
+You should recieve an email when your order is ready to pick up. For saline, this is usually the next business day.
+# Going to the pharmacy
 
