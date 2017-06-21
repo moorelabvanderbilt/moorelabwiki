@@ -16,6 +16,15 @@ The regulator has two knobs:
 * **Regulator outlet knob**: when closed, prevents gas from leaving the regulator. When open, allows gas to leave the regulator. You most likely will not have to adjust this one.
 
 The tanks themselves also have a knob, the **cylinder valve**, which when closed, prevents the gas from leaving the tank. If you want to turn off a tank, use this knob.
+
+# Controlling the gas
+At most junctions in the system, there is a way to shut off the gas. If you are going to disconnect the tubing for any reason, **shut off the closest valves to where you're disconnecting**. It would not be cool to fill the entire lab space with CO<sub>2</sub>. If you want to be *absolutely* sure, you can shut off both tanks.
+
+The tanks both have a knob on the top, the **cylinder valve**, which shuts off the tank. These knobs have arrows on the top indicating which way to turn it to open or close the valve.
+
+In addition, both the wall junctions have a valve on them. This is controlled via the yellow handle. When the yellow handle is parallel to the pipe, the valve is open and gas is allowed to flow. When the handle is perpendicular to the pipe, the valve is closed and gas is not flowing.
+
+When you shut off a valve and disconnect tubing, you may hear some gas escaping. This is normal. There will be a small amount of gas trapped in the plumbing when you close valves, and it will escape when you disconnect tubing. If it continues for more than a few seconds, you have done something wrong. Find and close the nearest valve, closest to the tanks from where you are.
 # Tank switcher
 The tank switcher serves as an intermediary between the tanks and the incubator. 
 
