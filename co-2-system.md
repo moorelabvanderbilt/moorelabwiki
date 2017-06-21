@@ -82,6 +82,8 @@ Just take the teflon tape and stretch it once around the threads of the fitting,
 ### Tank side
 ![tank side plumbing](/uploads/co-2-system/co-2-system-00012-a.jpeg "tank side plumbing")
 
+This is the plumbing setup that comes off the tank regulator. It is the same for both tanks.
+
 * The **tank regulator** fitting is 1/4-inch MNPT (male National Pipe Thread).
 * The [**coupling**](https://www.grainger.com/product/GRAINGER-APPROVED-Brass-Coupling-46M499) is 1/4-inch FNPT (female National Pipe Thread) on both sides.
 * The [**adapter**](https://www.grainger.com/product/SMC-1-4-Brass-Male-Adapter-36X027) is 1/4-inch MNPT on the metal side, and on the tubing side it accepts 1/4-inch OD (outer diameter) tubing.
@@ -90,7 +92,22 @@ Just take the teflon tape and stretch it once around the threads of the fitting,
 ### Wall side
 ![wall side plumbing](/uploads/co-2-system/co-2-system-00013-a.jpeg "wall side plumbing")
 
+This is the plumbing setup that goes into the wall above the CO<sub>2</sub> tanks.
 
+* The **wall plumbing** is 1/4-inch FNPT.
+* The [**adapter**](https://www.grainger.com/product/SMC-1-4-Brass-Male-Adapter-36X027) is 1/4-inch MNPT on the metal side, and on the tubing side it accepts 1/4-inch OD (outer diameter) tubing.
+* The [**tubing**](https://www.grainger.com/product/GRAINGER-APPROVED-50-ft-Extruded-Polyurethane-2LZF8) is polyurethane, 1/4-inch OD, and 5/32-inch ID (inner diameter).
 
 ### Incubator
 
+![incubator side plumbing](/uploads/co-2-system/co-2-system-00011.jpg "incubator side plumbing")
+
+This is the plumbing that comes from the wall in 7410C and goes into the incubator.
+
+Our tank output (labelled **Tank 4**) supplies both our incubator and the Russell lab incubator.
+
+This is the only plumbing that I didn't replace, so I'm not sure of the exact measurements of everything.  
+Based on some quick measurements and my rudimentary knowledge of polymers, I think the tubing is **1/4-inch ID polyethylene**.  
+The adapters where the tubing is pushed onto are called **barb fittings**.  
+
+While the quick-release polyurethane tubing and fittings are easier to connect and disconnect, you probably won't have to disconnect the incubator from the wall very often. Therefore, I would NOT recommend that you change these fittings to the quick-release style, since that would involve swapping the fitting on the incubator itself.
