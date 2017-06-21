@@ -18,7 +18,20 @@ Any vial with ketamine in it must be kept in a locked box, in a locked drawer.
 
 We have two lockboxes, one for fresh drugs, and the other for drugs that are expired or used up. It is recommended to keep expired drugs in the separate box until they are disposed so that they are less likely to be accidentally used on mice.
 
-All drugs and drug mixtures - anything that will be used in survival procedures - must have the correct expiration date clearly marked on the outside of the container. The expiration date of a drug mixture (e.g. ketamine + saline) is the earliest expiration date between the two. For example, if the ketamine expires on 28 Feb 2019 and the saline expires on 30 Nov 2018, the expiration date of the mixture is 30 Nov 2018.
-# Usage
+All drugs and drug mixtures - anything that will be used in survival procedures - must have the correct expiration date clearly marked on the outside of the container. Drugs in their original containers will have this marked on their label. See below for considerations for drug mixtures.
 
+## Drug mixtures
+Drug mixtures (e.g. ketamine + saline) must have a label clearly indicating what drugs are mixed and the accurate expiration date of the mixture.
+
+The expiration date of a drug mixture is the earliest expiration date between the two. For example, if the ketamine expires on 28 Feb 2019 and the saline expires on 30 Nov 2018, the expiration date of the mixture is 30 Nov 2018.
+# Usage
+Whenever you use a controlled substance, you must record how much you use on the Controlled Substance Usage Log corresponding to that vial.
+
+Each vial of pure ketamine and for each vial of ketamine/saline mixture should have its own log. Here is an example of a log:
+
+[example-usage-log.pdf](/uploads/controlled-substances/example-usage-log.pdf "Example Usage Log")
+
+For ease of sharing amongst the lab members and to save the beautiful trees of the earth, I've been keeping our logs as spreadsheets in Google Drive. You should have access to these files, so you can just copy one and change the information as needed for new vials.
+
+The inspectors will want to see these logs during mouse inspection, so keep them up to date and accurate.
 # Disposal
