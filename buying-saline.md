@@ -15,6 +15,9 @@ For reference, this is what we're trying to buy:
 And it comes in packs like this:
 
 
-# Getting ready
-To begin, you'll need to download this form.
+# Submitting the order
+To begin, you'll need to download this form:
+
+[Pharmacy_Medication_Request_Form_Rev_5-6-2017](/uploads/buying-saline/pharmacy-medication-request-form-rev-5-6-2017.pdf "Pharmacy Medication Request Form Rev 5 6 2017")
+
 
