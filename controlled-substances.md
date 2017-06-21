@@ -8,7 +8,9 @@ Since it is a controlled substance, there are some special considerations regard
 Currently, we do not use any other controlled substances, but if we start using another one, the procedures listed on this page will most likely apply to that substance as well.
 
 # Procurement
+Just make a regular requisition in eProcurement for a purchase from Patterson Veterinary Supply, for [KetaVed 100 mg/mL, 10 mL](https://www.pattersonvet.com/ProductItem/078908598).
 
+In the **Comment for Supplier** field, put in Dr. Daniel Moore, account number [number].
 # Storage
 
 # Usage
