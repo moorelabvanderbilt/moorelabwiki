@@ -35,7 +35,26 @@ For ease of sharing amongst the lab members and to save the beautiful trees of t
 
 The inspectors will want to see these logs during mouse inspection, so keep them up to date and accurate.
 # Disposal
-To properly dispose of controlled substances, they must be solidified first. 
+To properly dispose of controlled substances, they must be solidified.
+
+We should have some Devon Solidifier in lab:
+
+If we do not, you can obtain some by contacting the VEHS Animal Care Safety Officer (ACSO), which at this time is Marisa Scott.
+> Marisa Scott  
+> marisa.scott@vanderbilt.edu  
+> 615-322-4982
+
+Figure out how many milliliters of controlled substance you need to dispose of. Divide that in half. This is how much solidifier you should use. 
+
+Place the determined amount of solidifier into a 15 mL conical tube.
+
+Draw the controlled substance out of its vial and inject it into the conical tube with the solidifier. If all of the liquid does not absorb into the solidifier, add more solidifier.
+
+Label the tube with "Expired [name of drug], for Disposal".
+
+Fill out the DEA disposal form ([DEA Form 41](https://www.deadiversion.usdoj.gov/21cfr_reports/surrend/index.html)).
+
+Take the conical with solidified drug to the window at MCN S-1310. This is on the first floor of MCN, on the main hallway to the mouse room elevators. Tell them you have controlled substance for disposal, and they'll handle it from there.
 
 # More information
 For more information, see the [DAC website](https://www.vanderbilt.edu/acup/dac/) and the [IACUC website](https://www.vanderbilt.edu/acup/iacuc/). These websites have detailed forms and procedures for everything to do with mouse management, including controlled substances.
