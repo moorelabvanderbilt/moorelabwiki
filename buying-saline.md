@@ -27,7 +27,7 @@ Fill out the information as listed on the form. Most of the fields are pretty se
 
 Have Dan sign the **Principal Investigator (Signature)** field, and then email it to [Bethany](/admin-asst#bethany-oates) for department approval.
 
-After it is signed and approved, email it to pharmacypurcasing@vanderbilt.edu.
+After it is signed and approved, email it to pharmacypurchasing@vanderbilt.edu.
 
 You should recieve an email when your order is ready to pick up. For saline, this is usually the next business day.
 # Going to the pharmacy
