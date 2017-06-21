@@ -17,6 +17,8 @@ The only differences from a normal requisition are:
 Any vial with ketamine in it must be kept in a locked box, in a locked drawer.
 
 We have two lockboxes, one for fresh drugs, and the other for drugs that are expired or used up. It is recommended to keep expired drugs in the separate box until they are disposed so that they are less likely to be accidentally used on mice.
+
+All drugs and drug mixtures - anything that will be used in survival procedures - must have the correct expiration date clearly marked on the outside of the container. The expiration date of a drug mixture (e.g. ketamine + saline) is the earliest expiration date between the two. For example, if the ketamine expires on 28 Feb 2019 and the saline expires on 30 Nov 2018, the expiration date of the mixture is 30 Nov 2018.
 # Usage
 
 # Disposal
