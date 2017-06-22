@@ -47,6 +47,8 @@ Temperature (&deg;C) | Time (m:ss)
 # B6.SAP-/-
 These mice are double knockouts for the SAP (SLAM-associated protein) gene, on a B6 background.
 
+Since the SAP gene is X-linked, males of this genotype are actually SAP-/y.
+
 ## Production
 We are not actively maintaining this strain.
 
@@ -58,9 +60,9 @@ This protocol can only be used with [clean DNA](/mouses/genotyping) prepared usi
 This protocol is also used to genotype the SAP portion of the SAP-/- IL15-/- mice below.
 
 ### Primers
-**SAP F**: 5’ CTC TCT GCA TCC TTC TCA CAT 3’ (21bp) - SH2 domain-containing protein 1A  
+**SAP F**: 5’ CTC TCT GCA TCC TTC TCA CAT 3’ (21bp) - wild-type SH2 domain-containing protein 1A  
 **SAP R**: 5’ GCC AGA GGA CTT TTC AAC TGG 3’ (21bp) - SAP gene  
-**PFred**: 5’ CAT GCC GTT TCA TAT GAT CCG GG 3’ (23bp) - ? i don’t know what this is, but it does something  
+**PFred**: 5’ CAT GCC GTT TCA TAT GAT CCG GG 3’ (23bp) - wild-type gene  
 
 ### PCR Mix
 Reagent | Amount (per rxn) | Stock Conc. | Final Conc.
@@ -249,17 +251,59 @@ Temperature (&deg;C) | Time (m:ss)
 
 Bands at ~400bp and below may be present in all genotypes and can be ignored.
 # B6.VH+/+Vk+/+
+These mice have both the V<sub>H</sub>125 gene and the V<sub>k</sub>125 gene inserted into both copies of the genome, on a NOD background.
+
+## Production
+We do not yet have true-breeding mice for this strain, but we are very close. We have not had any trouble achieving homozygosity in the single-transgene (B6.VH and B6.Vk), so there shouldn't be an issue reaching it with these double transgenic mice.
+
+These mice are produced by breeding mice that are at least heterozygous for both transgenes together and genotyping the pups, selecting for those that are homozygous for both.
+
+## Genotyping
+The genotyping protocols of both the B6.VH125+/+ mouse and the B6.Vk125+/+ mouse must be used to determine the genotype of this mouse.
 # NOD.VH125+/+
 Ideally, these mice would have V<sub>H</sub>125 inserted into both copies of the genome, on a NOD background.
 
 However, to date, we've been unable to produce homozygous-positive mice, and therefore are stuck with heterozygotes (VH125+/-).
 
+## Production
+Since we have not been able to achieve homozygosity, this genotype is not actually produced.
+
+The VH125+/- mice are produced by breeding an NOD.VH125+/- with either an NOD or another NOD.VH125+/-.
+
 ## Genotyping
 The genotyping protocol is the same as the the B6.VH125+/+ protocol above.
 # NOD.Vk125+/+
 These mice have V<sub>k</sub>125 inserted into both copies of the genome, on a NOD background.
+
+## Production
+This strain is maintained by breeding NOD.Vk125+/+ mice with each other. 
+
+It can also be achieved by breeding NOD.Vk125+/- mice with each other, then genotyping the pups with both protocols shown below to select the +/+ genotype.
+
+The NOD.Vk125+/- mice are produced by breeding an NOD.Vk125+/+ with an NOD.
+
 ## Genotyping
 The genotyping protocol is the same as the the B6.Vk125+/+ protocol above.
 # NOD.VH+/+Vk+/+
+These mice have both the V<sub>H</sub>125 gene and the V<sub>k</sub>125 gene inserted into both copies of the genome, on a NOD background.
+
+## Production
+Because of the homozygous lethal problem with the NOD.VH125+/+ mice (noted above), we have been unable to produce a NOD.VH+/+Vk+/+ mouse. The closest we've gotten so far is NOD.VH+/-Vk+/+.
+
+## Genotyping
+The genotyping protocols of both the B6.VH125+/+ mouse and the B6.Vk125+/+ mouse must be used to determine the genotype of this mouse.
 # SAP-/- IL15-/-
+These mice have both SAP gene and the IL15 gene knocked out of their genome.
+
+Since the SAP gene is X-linked, males of this genotype are actually SAP-/y.
+
+## Production
+We currently have one true-breeding pair for this genotype.
+
+These mice are produced by breeding SAP-/- IL15-/- mice with each other.
+
+They can also be produced by breeding SAP-/- mice with IL15-/- mice a few generations until double homozygosity is reached.
+
+## Genotyping
+The genotyping protocols of both the B6.SAP-/- mouse and the B6.IL15-/- mouse must be used to determine the genotype of this mouse.
 
