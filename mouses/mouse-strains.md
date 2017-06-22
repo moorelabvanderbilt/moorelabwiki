@@ -215,7 +215,7 @@ Temperature (&deg;C) | Time (m:ss)
 Bands at ~600bp and below may be present in all genotypes and can be ignored.
 
 ## Genotyping wild-type insertion site (Jk1)
-This protocol confirms the presence of one *or* two copies of the wild-type allele present at the location of the VH125sd insert. A mouse that is VH125+/+ will not have a band for this primer set. 
+This protocol confirms the presence of one *or* two copies of the wild-type allele present at the location of the Vk125sd insert. A mouse that is Vk125+/+ will not have a band for this primer set. 
 
 ### Primers
 **Jk F**: 5’ AAT CAG CAG TTC TCT GTC AGA GAA GCC 3’ (27bp) - wild-type Jk1 gene  
