@@ -3,6 +3,11 @@
 # Cage cards
 These cards uniquely identify the cage and other associated information.
 
+## Obtaining new cage cards
+There is a link from the [DAC website](https://www.vanderbilt.edu/acup/dac/) to the Cage Card Request Form. The form is fairly self-explanatory. Cards are usually delivered the next day.
+
+To save time, you can use the Chrome extension [Web Developer Form Filler](https://chrome.google.com/webstore/detail/web-developer-form-filler/gbagmkohmhcjgbepncmehejaljoclpil?hl=en) to save the filled form so you can easily re-submit this form the next time you need cage cards. This extension is already installed on the RA iMac in lab, and can be accessed via the pencil icon in the top right of the Chrome browser window.
+
 ## How we use the cage cards
 We use the cage cards to identify the mice in that cage. 
 
