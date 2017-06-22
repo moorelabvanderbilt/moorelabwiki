@@ -9,7 +9,7 @@ See [cage cards](/mouses/cage-cards).
 ## Mouse breeding
 The basic procedures involved in breeding adults and weaning young mice.
 
-See mouse breeding.
+See [mouse breeding](/mouses/mouse-breeding).
 ## When to breed, sac, and buy mice
 Considerations for maintaining the amount of mice we need without breaking the bank.
 
