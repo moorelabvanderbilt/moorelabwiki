@@ -9,7 +9,7 @@ The freezer is connected to a monitoring service that is run by the Delta Operat
 If the alarm goes off, they will be alerted. They will come check out the freezer and call the contact person (you) if something is amiss.
 
 If the alarm goes off, but you already know about it and it's not anything to worry about (like you had the door open for a while, so the temperature rise is normal), call the peeps at Delta Ops.  
-> Vanderbilt Plant Services, Delta Operations Center
+> Vanderbilt Plant Services, Delta Operations Center  
 > 615-343-0316 (or just 30316 from a Vanderbilt phone)
 # Troubleshooting
 ## The door won't open
@@ -18,6 +18,14 @@ The freezer has a vacuum system that starts after you close the door. This vacuu
 If it still cannot be opened after a minute or so, the vent is probably frozen over.
 
 The vent is located on the left side of the freezer, at the top near the front. 
+
+Here is what it looks like on the outside:
+
+![top left corner of freezer](/uploads/minus-80/minus-80-00001-a.jpeg "it's the corner!")
+
+And here's what it looks like on the inside when it's frozen over:
+
+![frozen over vent](/uploads/minus-80/minus-80-00002.jpg "Pro tip: use the ice that comes off to chill your cold drinks.")
 
 Ice on the inside that is clogging the vent can be broken off by pressing in firmly on the plunger on the vent. This should vent the vacuum and allow the door to be opened again.
 
@@ -38,7 +46,11 @@ Get the keys to the freezer power button. These are in a bag in the filing cabin
 
 Open the freezer power button hatch. This is located on the front of the freezer, on the bottom right side. The key with teeth only on one side are the ones you need. The key goes in with the teeth facing down.
 
+![power hatch](/uploads/minus-80/minus-80-00003.jpg "open the tiny door")
+
 The white switch (the bigger one) is the power switch. Switch it off (press the top side in), wait 60 seconds, then switch it back on (press the bottom side in).
+
+![power hatch open](/uploads/minus-80/minus-80-00004-a.jpeg "classic tech support: turn it off and then turn it back on.")
 
 Did you hear the soft hum of the compressor starting back up? Is the temperature returning to normal? 
 
