@@ -21,10 +21,14 @@ This protocol can only be used with [clean DNA](/mouses/genotyping) prepared usi
 **PFred**: 5’ CAT GCC GTT TCA TAT GAT CCG GG 3’ (23bp) - ? i don’t know what this is, but it does something
 
 ### PCR Mix
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
+Reagent | Amount (per rxn) | Stock Conc. | Final Conc.
+--- | --- | --- | ---
+SAP F Primer | 1.5 ul | 10 uM | 0.6 uM
+SAP R Primer | 1.5 ul | 10 uM | 0.6 uM
+PFred Primer | 1.5 ul | 10 uM | 0.6 uM
+Promega Green Mix | 12.5 ul | 2X | 1X
+Nuclease-free water | 6.0 ul | - | -
+DNA sample | 2.0 ul | - | -
 # Qa1-/-
 # B6.VH125+/+
 # B6.Vk125+/+
