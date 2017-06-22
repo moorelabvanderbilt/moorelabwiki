@@ -305,5 +305,5 @@ These mice are produced by breeding SAP-/- IL15-/- mice with each other.
 They can also be produced by breeding SAP-/- mice with IL15-/- mice a few generations until double homozygosity is reached.
 
 ## Genotyping
-The genotyping protocols of both the B6.SAP-/- mouse and the B6.IL15-/- mouse must be used to determine the genotype of this mouse.
+The genotyping protocols of both the [B6.SAP-/- mouse](/mouses/mouse-strains#b-6-sap) and the [B6.IL15-/- mouse](/mouses/mouse-strains#b-6-il-15) must be used to determine the genotype of this mouse.
 
