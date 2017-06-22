@@ -30,3 +30,57 @@ When you need to deactivate a cage card (because you are taking the mice back to
 
 ## How DAC uses the cage cards
 DAC scans all of the cage cards in the mouse room *weekly* to confirm their census for billing us. However, they scan all of the tear-off barcode tabs placed in the sleeve on the mouse suite door *daily* to activate new cages or sacking old ones. Therefore, to avoid continuing charges on cages that you have deactivated, remember to leave the deactivation tab in the sleeve on the door before you leave the mouse room.
+
+# Indicator cards/stickers
+These cards and stickers indicate special statuses of mice in that cage.
+
+## Breeding cards
+These are the light green cards. 
+
+Use these to indicate that a cage is a breeding cage, and you can also write the strains, ages, and pup information in the fields of the card. DAC will sometimes write in a birth date if they notice a new litter, but otherwise they ignore these cards.
+
+## Sac cards
+These are the fluorescent pink cards.
+
+Use these to indicate to DAC that you no longer need the mice in that cage, and that you'd like them to sac the mice at their convenience. Usually they do this on Fridays. On weeks when DAC is changing the cages, they appreciate it if you place your sac cards before they change the cages, since they will not have to change the cage if it is going to be deactivated and sacked.
+
+## Dead animal card
+These are the purple cards.
+
+DAC uses these to indicate to you that one or more dead mouse was found in the cage. Usually this is not very concerning, but if it's a breeding cage that an adult died in, then you can probably deactivate that cage, since there probably won't be any more breeding going on.
+
+## Overcrowd card
+These are the yellow cards.
+
+DAC uses these to indicate that there are too many mice in a cage. Usually this means that there is a litter in a breeding cage that is old enough to wean. They write on the card when they noticed the overcrowd, and what day you need to separate the mice. If you do not separate the mice by the day listed, DAC will separate them and charge us for it.
+
+## Health alert card
+These are the light orange, laminated cards.
+
+You can use these to indicate to the veterinarians that a cage contains one or more mice with some health concern. Fill out the card, place it in the card holder, and then take the **Alert** magnet off the back of the door to the room and place it on the outside of the door so they can tell that they need to visit the room and check those mice.
+
+Often this card is used to request a weaning extension for weanlings that are old enough to wean but look too small to survive on their own. See [mouse breeding](/mouses/mouse-breeding) for more details.
+
+Animal care techs also use this card to request a veterinary inspection, so if they place one on a cage, don't remove it.
+
+## Health concern card
+These are the dark orange, unlaminated cards.
+
+These are used by the vets only. They use these to indicate a confirmed health problem with one or more of the mice in the cage. They write on the card what treatment is necessary, how often it should be performed, and who is responsible for the treatment.
+
+## Sterile housing sticker
+These are the pink stickers that say **STERILE HOUSING** on them.
+
+Use these to indicate cages with mice that should be housed in sterile cages, given sterile food, and supplied water via a bottle rather than through the Lix-it.
+
+## Do not feed/water card
+These are the red cards.
+
+Use these to indicate a cage that should not recieve water or food from DAC. This means that you must include a completed [Do Not Feed/Water form](https://www.vanderbilt.edu/acup/dac/forms/) in the sleeve on the back of the door, and monitor the mice as indicated on that form.
+
+## Research notes card
+These are the grey cards.
+
+Use these to indicate miscellaneous information that doesn't belong on any other cards. DAC personnel will usually ignore these.
+
+You can also use these in a pinch if you have run out of cage cards or any other type of card.
