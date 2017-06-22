@@ -104,11 +104,72 @@ This strain is maintained by breeding B6.VH125+/+ mice with each other.
 It can also be achieved by breeding B6.VH125+/- mice with each other, then genotyping the pups with both protocols shown below to select the +/+ genotype.
 
 ## Genotyping VH125
-This protocol confirms the presence of one *or* two copies of the VH125 allele. To confirm homozygosity, the mice must also be genotyped using the JH3 protocol below.
+This protocol confirms the presence of one *or* two copies of the VH125 allele. It does not differentiate between mice that are heterozygous and homozygous for VH125. To confirm homozygosity, the mice must also be genotyped using the Jh3 protocol below.
 
-## Genotyping wild-type insertion site (JH3)
+### Primers
+**VH125 F**: 5’ CAG ATC CAG TTG GTG CAG TC 3’ (20bp) - VH125 gene  
+**VH125 R**: 5’ CCA GAC ATC GAA GTA CCC CT 3’ (20bp) - wild-type Jh gene  
 
+### PCR Mix
+Reagent | Amount (per rxn) | Stock Conc. | Final Conc.
+--- | --- | --- | ---
+VH125 F Primer | 1.5 ul | 10 uM | 0.6 uM
+VH125 R Primer | 1.5 ul | 10 uM | 0.6 uM
+Promega Green Mix | 12.5 ul | 2X | 1X
+Nuclease-free water | 7.5 ul | - | -
+DNA sample | 2.0 ul | - | -
 
+### PCR protocol
+Temperature (&deg;C) | Time (m:ss)
+--- | ---
+94 | 3:00
+ - | start loop 35x
+94 | 1:00
+58 | 1:00
+72 | 1:00
+- | end loop
+72 | 2:00
+4 | &#x221e;
+
+### Expected result
+**Bands**:  
+* wild-type: no band
+* VH125+/-: ~290 bp
+* VH125+/+: ~290 bp
+
+## Genotyping wild-type insertion site (Jh3)
+This protocol confirms the presence of one *or* two copies of the wild-type allele present at the location of the VH125sd insert. A mouse that is VH125+/+ will not have a band for this primer set. 
+
+### Primers
+**Jh F**: 5’ CCT GGT TTG CTT ACT GG 3’ (17bp) - wild-type Jh3 gene  
+**Jh R**: 5’ GTA GTC CAT AGC ATA GTA ATC AC 3’ (23bp) - wild-type Jh4 gene  
+
+### PCR Mix
+Reagent | Amount (per rxn) | Stock Conc. | Final Conc.
+--- | --- | --- | ---
+VH125 F Primer | 1.5 ul | 10 uM | 0.6 uM
+VH125 R Primer | 1.5 ul | 10 uM | 0.6 uM
+Promega Green Mix | 12.5 ul | 2X | 1X
+Nuclease-free water | 7.5 ul | - | -
+DNA sample | 2.0 ul | - | -
+
+### PCR protocol
+Temperature (&deg;C) | Time (m:ss)
+--- | ---
+94 | 3:00
+ - | start loop 35x
+94 | 1:00
+50 | 1:00
+72 | 1:00
+- | end loop
+72 | 2:00
+4 | &#x221e;
+
+### Expected result
+**Bands**:  
+* wild-type: ~600 bp
+* VH125+/-: ~600 bp
+* VH125+/+: no band
 
 # B6.Vk125+/+
 # B6.VH+/+Vk+/+
