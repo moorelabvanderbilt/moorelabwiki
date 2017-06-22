@@ -30,7 +30,7 @@ And here's what it looks like on the inside when it's frozen over:
 Ice on the inside that is clogging the vent can be broken off by pressing in firmly on the plunger on the vent. This should vent the vacuum and allow the door to be opened again.
 
 ## The alarm is going off
-The freezer will begin sounding an alarm if it heats up above a set threshold (75&deg;C).
+The freezer will begin sounding an alarm if it heats up above a set threshold (-75&deg;C).
 
 If this is expected, because the door has been open for a bit or something reasonable like that, then press the **Silence alarm** button on the control panel and call the Monitoring Service as outlined above.
 
