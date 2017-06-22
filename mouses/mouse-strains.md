@@ -147,8 +147,8 @@ This protocol confirms the presence of one *or* two copies of the wild-type alle
 ### PCR Mix
 Reagent | Amount (per rxn) | Stock Conc. | Final Conc.
 --- | --- | --- | ---
-VH125 F Primer | 1.5 ul | 10 uM | 0.6 uM
-VH125 R Primer | 1.5 ul | 10 uM | 0.6 uM
+Jh F Primer | 1.5 ul | 10 uM | 0.6 uM
+Jh R Primer | 1.5 ul | 10 uM | 0.6 uM
 Promega Green Mix | 12.5 ul | 2X | 1X
 Nuclease-free water | 7.5 ul | - | -
 DNA sample | 2.0 ul | - | -
