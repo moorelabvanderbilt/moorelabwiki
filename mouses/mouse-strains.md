@@ -40,7 +40,7 @@ Temperature (&deg;C) | Time (m:ss)
 72 | 1:00
 - | end loop
 72 | 2:00
-4 | &inf;
+4 | &#x221e;
 
 ### Expected result
 **Bands**:  
