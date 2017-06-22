@@ -7,6 +7,43 @@
 # NOD.RAG-/-
 # SLE123
 # B6.IL15-/-
+These mice are double knockouts for the IL15 (interleukin-15) gene.
+
+Mice of this genotype are true breeding.
+
+This protocol is also used to genotype the IL15 portion of the SAP-/- IL15-/- mice below.
+
+## Genotyping
+
+### Primers
+**IL15 F**: 5’ CAC TTC AGA GGC ATG TCG GT 3’ (20bp) - interleukin 15 isoform X1
+**IL15 R**: 5’ TAC AAG GGC TGT TCG TTG CT 3’ (20bp) - interleukin 15 isoform X1
+
+### PCR Mix
+Reagent | Amount (per rxn) | Stock Conc. | Final Conc.
+--- | --- | --- | ---
+IL15 F Primer | 1.5 ul | 10 uM | 0.6 uM
+IL15 R Primer | 1.5 ul | 10 uM | 0.6 uM
+Promega Green Mix | 12.5 ul | 2X | 1X
+Nuclease-free water | 7.5 ul | - | -
+DNA sample | 2.0 ul | - | -
+
+### PCR protocol
+Temperature (&deg;C) | Time (m:ss)
+--- | ---
+94 | 3:00
+ - | start loop 35x
+94 | 1:00
+58 | 1:00
+72 | 1:00
+- | end loop
+72 | 2:00
+4 | &#x221e;
+
+### Expected result
+**Bands**:  
+* wild-type: ~846 bp
+* IL15-/-: no band
 # B6.SAP-/-
 These mice are double knockouts for the SAP (SLAM-associated protein) gene.
 
@@ -34,9 +71,9 @@ DNA sample | 2.0 ul | - | -
 Temperature (&deg;C) | Time (m:ss)
 --- | ---
 94 | 3:00
- - | start loop 25x
+ - | start loop 35x
 94 | 1:00
-37 | 1:00
+61 | 1:00
 72 | 1:00
 - | end loop
 72 | 2:00
