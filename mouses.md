@@ -5,7 +5,7 @@ A lot of time will go into managing the mouse colony. As such, this page has lin
 ## Cage cards and indicator cards
 The cage card system and the different cards and stickers provided to indicate special status of a cage.
 
-See cage cards.
+See [cage cards](/mouses/cage-cards).
 ## Mouse breeding
 The basic procedures involved in breeding adults and weaning young mice.
 
