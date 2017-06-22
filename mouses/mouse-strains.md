@@ -172,6 +172,82 @@ Temperature (&deg;C) | Time (m:ss)
 * VH125+/+: no band
 
 # B6.Vk125+/+
+These mice have V<sub>k</sub>125 inserted into both copies of the genome, on a B6 background.
+
+## Production
+This strain is maintained by breeding B6.Vk125+/+ mice with each other. 
+
+It can also be achieved by breeding B6.Vk125+/- mice with each other, then genotyping the pups with both protocols shown below to select the +/+ genotype.
+
+## Genotyping Vk125
+This protocol confirms the presence of one *or* two copies of the Vk125 allele. It does not differentiate between mice that are heterozygous and homozygous for Vk125. To confirm homozygosity, the mice must also be genotyped using the Jk1 protocol below.
+
+### Primers
+**Vk125 F**: 5’ TAT GAT CGG AAT TCC TCG AGT CTA GAG CGG 3’ (30bp)  
+**Vk125 R**: 5’ GCT CCA GCT TGG TCC CAG CA 3’ (21bp)  
+
+### PCR Mix
+Reagent | Amount (per rxn) | Stock Conc. | Final Conc.
+--- | --- | --- | ---
+Vk125 F Primer | 1.5 ul | 10 uM | 0.6 uM
+Vk125 R Primer | 1.5 ul | 10 uM | 0.6 uM
+Promega Green Mix | 12.5 ul | 2X | 1X
+Nuclease-free water | 7.5 ul | - | -
+DNA sample | 2.0 ul | - | -
+
+### PCR protocol
+Temperature (&deg;C) | Time (m:ss)
+--- | ---
+94 | 3:00
+ - | start loop 35x
+94 | 1:00
+59 | 1:00
+72 | 1:00
+- | end loop
+72 | 2:00
+4 | &#x221e;
+
+### Expected result
+**Bands**:  
+* wild-type: no band
+* Vk125+/- or Vk125+/+: ~900 bp
+
+Bands at ~600bp and below may be present in all genotypes and can be ignored.
+
+## Genotyping wild-type insertion site (Jk1)
+This protocol confirms the presence of one *or* two copies of the wild-type allele present at the location of the VH125sd insert. A mouse that is VH125+/+ will not have a band for this primer set. 
+
+### Primers
+**Jk F**: 5’ AAT CAG CAG TTC TCT GTC AGA GAA GCC 3’ (27bp) - wild-type Jk1 gene  
+**Jk R**: 5’ GGT TAG ACT TAG TGA ACA AGA GTT GAG AA 3’ (29bp) - wild-type Jk2/3 gene  
+
+### PCR Mix
+Reagent | Amount (per rxn) | Stock Conc. | Final Conc.
+--- | --- | --- | ---
+Jk F Primer | 1.5 ul | 10 uM | 0.6 uM
+Jk R Primer | 1.5 ul | 10 uM | 0.6 uM
+Promega Green Mix | 12.5 ul | 2X | 1X
+Nuclease-free water | 7.5 ul | - | -
+DNA sample | 2.0 ul | - | -
+
+### PCR protocol
+Temperature (&deg;C) | Time (m:ss)
+--- | ---
+94 | 3:00
+ - | start loop 35x
+94 | 1:00
+53 | 1:00
+72 | 1:00
+- | end loop
+72 | 2:00
+4 | &#x221e;
+
+### Expected result
+**Bands**:  
+* wild-type or Vk125+/-: ~600 bp
+* Vk125+/+: no band
+
+Bands at ~400bp and below may be present in all genotypes and can be ignored.
 # B6.VH+/+Vk+/+
 # NOD.VH125+/+
 Ideally, these mice would have V<sub>H</sub>125 inserted into both copies of the genome, on a NOD background.
@@ -181,7 +257,7 @@ However, to date, we've been unable to produce homozygous-positive mice, and the
 ## Genotyping
 The genotyping protocol is the same as the the B6.VH125+/+ protocol above.
 # NOD.Vk125+/+
-These mice have 
+These mice have V<sub>k</sub>125 inserted into both copies of the genome, on a NOD background.
 ## Genotyping
 The genotyping protocol is the same as the the B6.Vk125+/+ protocol above.
 # NOD.VH+/+Vk+/+
