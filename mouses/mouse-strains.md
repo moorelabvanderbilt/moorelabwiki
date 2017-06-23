@@ -140,6 +140,8 @@ Temperature (&deg;C) | Time (m:ss)
 
 **Expected result**
 
+![SAP gel results](/uploads/mouse-strains/sap-e.jpg "SAP gel results")
+
 **Bands**:  
 * wild-type: ~210 bp
 * SAP-/-: ~375 bp
@@ -191,6 +193,8 @@ Temperature (&deg;C) | Time (m:ss)
 
 **Expected result**
 
+![Qa1 gel results](/uploads/mouse-strains/qa-1-e.jpg "Qa1 gel results")
+
 **Bands**:  
 * wild-type: ~210 bp
 * Qa1-/-: ~510 bp
@@ -240,6 +244,8 @@ Temperature (&deg;C) | Time (m:ss)
 
 **Expected result**
 
+![VH125-VH gel results](/uploads/mouse-strains/vh-125-vh-e.jpeg "VH125-VH gel results")
+
 **Bands**:  
 * wild-type: no band
 * VH125+/-: ~290 bp
@@ -277,6 +283,8 @@ Temperature (&deg;C) | Time (m:ss)
 4 | &#x221e;
 
 **Expected result**
+
+![VH125-JH gel results](/uploads/mouse-strains/vh-125-jh-e.jpg "VH125-JH gel results")
 
 **Bands**:  
 * wild-type: ~600 bp
@@ -324,6 +332,8 @@ Temperature (&deg;C) | Time (m:ss)
 
 **Expected result**
 
+![Vk125-Vk gel results](/uploads/mouse-strains/vk-125-vk-e.jpeg "Vk125-Vk gel results")
+
 **Bands**:  
 * wild-type: no band
 * Vk125+/- or Vk125+/+: ~900 bp
@@ -362,6 +372,8 @@ Temperature (&deg;C) | Time (m:ss)
 4 | &#x221e;
 
 **Expected result**
+
+![Vk125-Vk gel results](/uploads/mouse-strains/vk-125-jk-e.jpeg "Vk125-Jk gel results")
 
 **Bands**:  
 * wild-type or Vk125+/-: ~600 bp
