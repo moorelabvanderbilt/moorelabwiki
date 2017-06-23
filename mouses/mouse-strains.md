@@ -54,11 +54,13 @@ This strain can be purchased from [Taconic, stock number 4269](https://www.tacon
 ### Genotyping
 This protocol is also used to genotype the IL15 portion of the SAP-/- IL15-/- mice below.
 
-#### Primers
+**Primers**
+
 **IL15 F**: 5’ CAC TTC AGA GGC ATG TCG GT 3’ (20bp) - interleukin 15 isoform X1  
 **IL15 R**: 5’ TAC AAG GGC TGT TCG TTG CT 3’ (20bp) - interleukin 15 isoform X1
 
-#### PCR Mix
+**PCR Mix**
+
 Reagent | Amount (per rxn) | Stock Conc. | Final Conc.
 --- | --- | --- | ---
 IL15 F Primer | 1.5 ul | 10 uM | 0.6 uM
@@ -67,7 +69,8 @@ Promega Green Mix | 12.5 ul | 2X | 1X
 Nuclease-free water | 7.5 ul | - | -
 DNA sample | 2.0 ul | - | -
 
-#### PCR protocol
+**PCR protocol**
+
 Temperature (&deg;C) | Time (m:ss)
 --- | ---
 94 | 3:00
@@ -79,7 +82,10 @@ Temperature (&deg;C) | Time (m:ss)
 72 | 2:00
 4 | &#x221e;
 
-#### Expected result
+**Expected result**
+
+![IL15 gel](/uploads/mouse-strains/il-15-a.jpg "IL15 gel results")
+
 **Bands**:  
 * wild-type: ~846 bp
 * IL15-/-: no band
