@@ -108,12 +108,14 @@ This protocol can only be used with [clean DNA](/mouses/genotyping) prepared usi
 
 This protocol is also used to genotype the SAP portion of the SAP-/- IL15-/- mice below.
 
-#### Primers
+**Primers**
+
 **SAP F**: 5’ CTC TCT GCA TCC TTC TCA CAT 3’ (21bp) - wild-type SH2 domain-containing protein 1A  
 **SAP R**: 5’ GCC AGA GGA CTT TTC AAC TGG 3’ (21bp) - SAP gene  
 **PFred**: 5’ CAT GCC GTT TCA TAT GAT CCG GG 3’ (23bp) - wild-type gene  
 
-#### PCR Mix
+**PCR Mix**
+
 Reagent | Amount (per rxn) | Stock Conc. | Final Conc.
 --- | --- | --- | ---
 SAP F Primer | 1.5 ul | 10 uM | 0.6 uM
@@ -123,7 +125,8 @@ Promega Green Mix | 12.5 ul | 2X | 1X
 Nuclease-free water | 6.0 ul | - | -
 DNA sample | 2.0 ul | - | -
 
-#### PCR protocol
+**PCR protocol**
+
 Temperature (&deg;C) | Time (m:ss)
 --- | ---
 94 | 3:00
@@ -135,7 +138,8 @@ Temperature (&deg;C) | Time (m:ss)
 72 | 2:00
 4 | &#x221e;
 
-#### Expected result
+**Expected result**
+
 **Bands**:  
 * wild-type: ~210 bp
 * SAP-/-: ~375 bp
@@ -153,13 +157,15 @@ This strain can be recovered from cryopreservation from [Jackson, stock number 0
 
 ### Genotyping
 
-#### Primers
+**Primers**
+
 **WT F**: 5’ GCA CCT CAG GGT GAC TTC AT 3’ (20bp) - wild-type  
 **WT R**: 5’ GGG GAA CTT CCT GAC TAG GG 3’ (20bp) - wild-type  
 **Qa1 F**: 5’ TCT GCT TAG GTT TGG GGT TG 3’ (20bp) - Qa-1 gene  
 **Qa1 R**: 5’ AGG TCC TCG TTC AGG GAG AT 3’ (20bp) - Qa-1 gene  
 
-#### PCR Mix
+**PCR Mix**
+
 Reagent | Amount (per rxn) | Stock Conc. | Final Conc.
 --- | --- | --- | ---
 WT F Primer | 1.5 ul | 10 uM | 0.6 uM
@@ -170,7 +176,8 @@ Promega Green Mix | 12.5 ul | 2X | 1X
 Nuclease-free water | 4.5 ul | - | -
 DNA sample | 2.0 ul | - | -
 
-#### PCR protocol
+**PCR protocol**
+
 Temperature (&deg;C) | Time (m:ss)
 --- | ---
 94 | 3:00
@@ -182,7 +189,8 @@ Temperature (&deg;C) | Time (m:ss)
 72 | 2:00
 4 | &#x221e;
 
-#### Expected result
+**Expected result**
+
 **Bands**:  
 * wild-type: ~210 bp
 * Qa1-/-: ~510 bp
@@ -202,11 +210,13 @@ It can also be achieved by breeding B6.VH125+/- mice with each other, then genot
 ### Genotyping VH125
 This protocol confirms the presence of one *or* two copies of the VH125 allele. It does not differentiate between mice that are heterozygous and homozygous for VH125. To confirm homozygosity, the mice must also be genotyped using the Jh3 protocol below.
 
-#### Primers
+**Primers**
+
 **VH125 F**: 5’ CAG ATC CAG TTG GTG CAG TC 3’ (20bp) - VH125 gene  
 **VH125 R**: 5’ CCA GAC ATC GAA GTA CCC CT 3’ (20bp) - wild-type Jh gene  
 
-#### PCR Mix
+**PCR Mix**
+
 Reagent | Amount (per rxn) | Stock Conc. | Final Conc.
 --- | --- | --- | ---
 VH125 F Primer | 1.5 ul | 10 uM | 0.6 uM
@@ -215,7 +225,8 @@ Promega Green Mix | 12.5 ul | 2X | 1X
 Nuclease-free water | 7.5 ul | - | -
 DNA sample | 2.0 ul | - | -
 
-#### PCR protocol
+**PCR protocol**
+
 Temperature (&deg;C) | Time (m:ss)
 --- | ---
 94 | 3:00
@@ -227,7 +238,8 @@ Temperature (&deg;C) | Time (m:ss)
 72 | 2:00
 4 | &#x221e;
 
-#### Expected result
+**Expected result**
+
 **Bands**:  
 * wild-type: no band
 * VH125+/-: ~290 bp
@@ -236,11 +248,13 @@ Temperature (&deg;C) | Time (m:ss)
 ### Genotyping wild-type insertion site (Jh3)
 This protocol confirms the presence of one *or* two copies of the wild-type allele present at the location of the VH125sd insert. A mouse that is VH125+/+ will not have a band for this primer set. 
 
-#### Primers
+**Primers**
+
 **Jh F**: 5’ CCT GGT TTG CTT ACT GG 3’ (17bp) - wild-type Jh3 gene  
 **Jh R**: 5’ GTA GTC CAT AGC ATA GTA ATC AC 3’ (23bp) - wild-type Jh4 gene  
 
-#### PCR Mix
+**PCR Mix**
+
 Reagent | Amount (per rxn) | Stock Conc. | Final Conc.
 --- | --- | --- | ---
 Jh F Primer | 1.5 ul | 10 uM | 0.6 uM
@@ -249,7 +263,8 @@ Promega Green Mix | 12.5 ul | 2X | 1X
 Nuclease-free water | 7.5 ul | - | -
 DNA sample | 2.0 ul | - | -
 
-#### PCR protocol
+**PCR protocol**
+
 Temperature (&deg;C) | Time (m:ss)
 --- | ---
 94 | 3:00
@@ -261,7 +276,8 @@ Temperature (&deg;C) | Time (m:ss)
 72 | 2:00
 4 | &#x221e;
 
-#### Expected result
+**Expected result**
+
 **Bands**:  
 * wild-type: ~600 bp
 * VH125+/-: ~600 bp
@@ -278,11 +294,13 @@ It can also be achieved by breeding B6.Vk125+/- mice with each other, then genot
 ### Genotyping Vk125
 This protocol confirms the presence of one *or* two copies of the Vk125 allele. It does not differentiate between mice that are heterozygous and homozygous for Vk125. To confirm homozygosity, the mice must also be genotyped using the Jk1 protocol below.
 
-#### Primers
+**Primers**
+
 **Vk125 F**: 5’ TAT GAT CGG AAT TCC TCG AGT CTA GAG CGG 3’ (30bp)  
 **Vk125 R**: 5’ GCT CCA GCT TGG TCC CAG CA 3’ (21bp)  
 
-#### PCR Mix
+**PCR Mix**
+
 Reagent | Amount (per rxn) | Stock Conc. | Final Conc.
 --- | --- | --- | ---
 Vk125 F Primer | 1.5 ul | 10 uM | 0.6 uM
@@ -291,7 +309,8 @@ Promega Green Mix | 12.5 ul | 2X | 1X
 Nuclease-free water | 7.5 ul | - | -
 DNA sample | 2.0 ul | - | -
 
-#### PCR protocol
+**PCR protocol**
+
 Temperature (&deg;C) | Time (m:ss)
 --- | ---
 94 | 3:00
@@ -303,7 +322,8 @@ Temperature (&deg;C) | Time (m:ss)
 72 | 2:00
 4 | &#x221e;
 
-#### Expected result
+**Expected result**
+
 **Bands**:  
 * wild-type: no band
 * Vk125+/- or Vk125+/+: ~900 bp
@@ -313,11 +333,13 @@ Bands at ~600bp and below may be present in all genotypes and can be ignored.
 ### Genotyping wild-type insertion site (Jk1)
 This protocol confirms the presence of one *or* two copies of the wild-type allele present at the location of the Vk125sd insert. A mouse that is Vk125+/+ will not have a band for this primer set. 
 
-#### Primers
+**Primers**
+
 **Jk F**: 5’ AAT CAG CAG TTC TCT GTC AGA GAA GCC 3’ (27bp) - wild-type Jk1 gene  
 **Jk R**: 5’ GGT TAG ACT TAG TGA ACA AGA GTT GAG AA 3’ (29bp) - wild-type Jk2/3 gene  
 
-#### PCR Mix
+**PCR Mix**
+
 Reagent | Amount (per rxn) | Stock Conc. | Final Conc.
 --- | --- | --- | ---
 Jk F Primer | 1.5 ul | 10 uM | 0.6 uM
@@ -326,7 +348,8 @@ Promega Green Mix | 12.5 ul | 2X | 1X
 Nuclease-free water | 7.5 ul | - | -
 DNA sample | 2.0 ul | - | -
 
-#### PCR protocol
+**PCR protocol**
+
 Temperature (&deg;C) | Time (m:ss)
 --- | ---
 94 | 3:00
@@ -338,7 +361,8 @@ Temperature (&deg;C) | Time (m:ss)
 72 | 2:00
 4 | &#x221e;
 
-#### Expected result
+**Expected result**
+
 **Bands**:  
 * wild-type or Vk125+/-: ~600 bp
 * Vk125+/+: no band
