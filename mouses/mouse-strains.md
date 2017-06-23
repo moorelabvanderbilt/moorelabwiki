@@ -1,17 +1,56 @@
 <!-- TITLE: Mouse Strains -->
 
 # B6
-# NOD
-# C3H
-# NOD.uMT
-# NOD.RAG-/-
-# SLE123
-# B6.IL15-/-
-These mice are double knockouts for the IL15 (interleukin-15) gene, on a B6 background.
+**Also known as**: C57BL/6J
 
 ## Production
 Mice of this genotype are true breeding.
 
+This strain can be purchased from [Jackson, stock number 000664](https://www.jax.org/strain/000664) at a cost of about $25 per mouse.
+# NOD
+**Also known as**: NOD/ShiLtJ
+
+This mouse develops insulinitis and hyperglycemia at around 12 weeks of age.
+## Production
+Mice of this genotype are true breeding.
+
+This strain can be purchased from [Jackson, stock number 001976](https://www.jax.org/strain/001976) at a cost of about $45 per mouse.
+# C3H
+**Also known as**: C3H/HeJ
+
+## Production
+Mice of this genotype are true breeding.
+
+This strain can be purchased from [Jackson, stock number 000659](https://www.jax.org/strain/000659) at a cost of about $30 per mouse.
+# NOD.μMT
+**Also known as**: NOD.129S2(B6)-Igh<sup>mtm1Cgn</sup>/DoiJ, NOD-Igh-6<sup>null</sup>
+
+This mouse does not develop mature B-cells. It also does not develop insulinitis or hyperglycemia like an NOD mouse.
+## Production
+Mice of this genotype are true breeding.
+
+This strain can be recovered from cryopreservation from [Jackson, stock number 004639](https://www.jax.org/strain/004639) at a cost of about $650 per mouse, and these mice take about 12 weeks to ship.
+# NOD.RAG-/-
+**Also known as**: NOD.129S7(B6)-Rag1<sup>tm1Mom</sup>/J  
+## Production
+Mice of this genotype are true breeding.
+
+This strain can be purchased from [Jackson, stock number 003729](https://www.jax.org/strain/003729) at a cost of about $224 per mouse.
+# SLE123
+**Also known as**: B6.NZM-Sle1<sup>NZM2410/Aeg</sup>Sle2<sup>NZM2410/Aeg</sup>Sle3<sup>NZM2410/Aeg</sup>/LmoJ, B6.NZMSle1/Sle2/Sle3  
+## Production
+Mice of this genotype are true breeding.
+
+This strain can be purchased from [Jackson, stock number 007228](https://www.jax.org/strain/007228) at a cost of about $178 per mouse.
+# B6.IL15-/-
+**Also known as**: C57BL/6NTac-IL15<sup>tm1Imx</sup>N5
+
+These mice are knockouts for the IL15 (interleukin-15) gene, on a B6 background.
+
+## Production
+Mice of this genotype are true breeding.
+
+This strain can be purchased from [Taconic, stock number 4269](https://www.taconic.com/mouse-model/il15-knockout) at a cost of about $2625 per mouse.
 ## Genotyping
 This protocol is also used to genotype the IL15 portion of the SAP-/- IL15-/- mice below.
 
@@ -45,14 +84,18 @@ Temperature (&deg;C) | Time (m:ss)
 * wild-type: ~846 bp
 * IL15-/-: no band
 # B6.SAP-/-
-These mice are double knockouts for the SAP (SLAM-associated protein) gene, on a B6 background.
+**Also known as**: B6.129S6-Sh2d1a<sup>tm1Pls</sup>/J
+
+These mice are knockouts for the SAP (SLAM-associated protein) gene, on a B6 background.
 
 Since the SAP gene is X-linked, males of this genotype are actually SAP-/y.
 
 ## Production
 We are not actively maintaining this strain.
 
-This strain can be purchased from [Jackson, stock number 025754](https://www.jax.org/strain/025754).
+Mice of this genotype are true breeding.
+
+This strain can be purchased from [Jackson, stock number 025754](https://www.jax.org/strain/025754) at a cost of about $255 per mouse.
 
 ## Genotyping
 This protocol can only be used with [clean DNA](/mouses/genotyping) prepared using a kit like the [QIAGEN DNeasy Blood & Tissue kit](https://www.qiagen.com/us/shop/sample-technologies/dna/genomic-dna/dneasy-blood-and-tissue-kit/#orderinginformation). It will not work with DNA prepared from NaOH-digested tissue.
@@ -90,9 +133,54 @@ Temperature (&deg;C) | Time (m:ss)
 **Bands**:  
 * wild-type: ~210 bp
 * SAP-/-: ~375 bp
+* SAP+/-: both bands
 
 # Qa1-/-
-These mice are double knockouts for the Qa-1 gene, on a B6 background.
+**Also known as**: B6.129S6-H2-T23<sup>tm1Cant</sup>/J
+
+These mice are knockouts for the Qa-1 gene, on a B6 background.
+
+## Production
+Mice of this genotype are true breeding.
+
+This strain can be recovered from cryopreservation from [Jackson, stock number 025754](https://www.jax.org/strain/025754) at a cost of about $650 per mouse, and these mice take about 12 weeks to ship.
+
+## Genotyping
+
+### Primers
+**WT F**: 5’ GCA CCT CAG GGT GAC TTC AT 3’ (20bp) - wild-type  
+**WT R**: 5’ GGG GAA CTT CCT GAC TAG GG 3’ (20bp) - wild-type  
+**Qa1 F**: 5’ TCT GCT TAG GTT TGG GGT TG 3’ (20bp) - Qa-1 gene  
+**Qa1 R**: 5’ AGG TCC TCG TTC AGG GAG AT 3’ (20bp) - Qa-1 gene  
+
+### PCR Mix
+Reagent | Amount (per rxn) | Stock Conc. | Final Conc.
+--- | --- | --- | ---
+WT F Primer | 1.5 ul | 10 uM | 0.6 uM
+WT R Primer | 1.5 ul | 10 uM | 0.6 uM
+Qa1 F Primer | 1.5 ul | 10 uM | 0.6 uM
+Qa1 R Primer | 1.5 ul | 10 uM | 0.6 uM
+Promega Green Mix | 12.5 ul | 2X | 1X
+Nuclease-free water | 4.5 ul | - | -
+DNA sample | 2.0 ul | - | -
+
+### PCR protocol
+Temperature (&deg;C) | Time (m:ss)
+--- | ---
+94 | 3:00
+ - | start loop 35x
+94 | 1:00
+62 | 1:00
+72 | 1:00
+- | end loop
+72 | 2:00
+4 | &#x221e;
+
+### Expected result
+**Bands**:  
+* wild-type: ~210 bp
+* Qa1-/-: ~510 bp
+* Qa1+/-: both bands
 # B6.VH125+/+
 These mice have V<sub>H</sub>125 inserted into both copies of the genome, on a B6 background.
 
