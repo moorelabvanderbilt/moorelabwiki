@@ -42,25 +42,35 @@ These cards and stickers indicate special statuses of mice in that cage.
 ## Breeding cards
 These are the light green cards. 
 
+![breeding card](/uploads/cage-cards/cage-cards-00003.jpg "breeding card")
+
 Use these to indicate that a cage is a breeding cage, and you can also write the strains, ages, and pup information in the fields of the card. DAC will sometimes write in a birth date if they notice a new litter, but otherwise they ignore these cards.
 
 ## Sac cards
 These are the fluorescent pink cards.
+
+![sac card](/uploads/cage-cards/cage-cards-00002.jpg "sac card")
 
 Use these to indicate to DAC that you no longer need the mice in that cage, and that you'd like them to sac the mice at their convenience. Usually they do this on Fridays. On weeks when DAC is changing the cages, they appreciate it if you place your sac cards before they change the cages, since they will not have to change the cage if it is going to be deactivated and sacked.
 
 ## Dead animal card
 These are the purple cards.
 
+![dead animal card](/uploads/cage-cards/cage-cards-00001.jpg "dead animal card")
+
 DAC uses these to indicate to you that one or more dead mouse was found in the cage. Usually this is not very concerning, but if it's a breeding cage that an adult died in, then you can probably deactivate that cage, since there probably won't be any more breeding going on.
 
 ## Overcrowd card
 These are the yellow cards.
 
+![overcrowd card](/uploads/cage-cards/cage-cards-00006.jpg "overcrowd card")
+
 DAC uses these to indicate that there are too many mice in a cage. Usually this means that there is a litter in a breeding cage that is old enough to wean. They write on the card when they noticed the overcrowd, and what day you need to separate the mice. If you do not separate the mice by the day listed, DAC will separate them and charge us for it.
 
 ## Health alert card
 These are the light orange, laminated cards.
+
+![health alert card](/uploads/cage-cards/cage-cards-00005.jpg "health alert card")
 
 You can use these to indicate to the veterinarians that a cage contains one or more mice with some health concern. Fill out the card, place it in the card holder, and then take the **Alert** magnet off the back of the door to the room and place it on the outside of the door so they can tell that they need to visit the room and check those mice.
 
@@ -71,6 +81,8 @@ Animal care techs also use this card to request a veterinary inspection, so if t
 ## Health concern card
 These are the dark orange, unlaminated cards.
 
+![health concern card](/uploads/cage-cards/cage-cards-00004.jpg "health concern card")
+
 These are used by the vets only. They use these to indicate a confirmed health problem with one or more of the mice in the cage. They write on the card what treatment is necessary, how often it should be performed, and who is responsible for the treatment.
 
 ## Sterile housing sticker
@@ -80,6 +92,8 @@ Use these to indicate cages with mice that should be housed in sterile cages, gi
 
 ## Do not feed/water card
 These are the red cards.
+
+![do not feed/water card](/uploads/cage-cards/cage-cards-00007.jpg "do not feed/water card")
 
 Use these to indicate a cage that should not recieve water or food from DAC. This means that you must include a completed [Do Not Feed/Water form](https://www.vanderbilt.edu/acup/dac/forms/) in the sleeve on the back of the door, and monitor the mice as indicated on that form.
 
