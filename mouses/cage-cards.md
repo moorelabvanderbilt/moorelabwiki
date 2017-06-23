@@ -11,7 +11,7 @@ To save time, you can use the Chrome extension [Web Developer Form Filler](https
 ## How we use the cage cards
 We use the cage cards to identify the mice in that cage. 
 
-As such, when writing a cage card, we usually include the following information:
+When writing a cage card, we usually include the following information:
 * **Strain**: the strain of the mice.
   * This is the most important. Many of our strains of mice look exactly the same physically, so it is important to mark the strain of mouse on the cage card so different strains do not get mixed up accidentally.
 * **Age**: the age of the mice.
