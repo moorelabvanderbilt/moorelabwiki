@@ -143,7 +143,7 @@ These mice are knockouts for the Qa-1 gene, on a B6 background.
 ## Production
 Mice of this genotype are true breeding.
 
-This strain can be recovered from cryopreservation from [Jackson, stock number 025754](https://www.jax.org/strain/025754) at a cost of about $650 per mouse, and these mice take about 12 weeks to ship.
+This strain can be recovered from cryopreservation from [Jackson, stock number 007907](https://www.jax.org/strain/007907) at a cost of about $650 per mouse, and these mice take about 12 weeks to ship.
 
 ## Genotyping
 
