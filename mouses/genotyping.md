@@ -80,7 +80,7 @@ elongation | 72 | 1:00
 final elongation | 72 | 2:00
 hold | 4 | &#x221e;
 
-The only temperature that you have to determine is the annealing temperature. There are several online calculators for this - one that I use is [the one from Promega](http://www.promega.com/a/apps/biomath/?calc=tm), since then you can select Green Mix as your buffer mixture. It only only calculates the *melting* temperature of one primer at a time. The *annealing* temperature (what you use in the PCR protocol) is generally about 5&deg;C below the lowest melting temperature.
+The only temperature that you have to determine is the annealing temperature. There are several online calculators for this - one that I use is [the one from Promega](http://www.promega.com/a/apps/biomath/?calc=tm), since then you can select Green Mix as your buffer mixture. However, this only calculates the *melting* temperature of one primer at a time. The *annealing* temperature (what you use in the PCR protocol) is generally about 5&deg;C below the lowest melting temperature.
 
 In addition to using the calculator, if you have a PCR machine that can do a gradient of temperatures, you can set it to a gradient of about &plusmn;5&deg;C from the annealing temperature suggested by the above calculation.
 
