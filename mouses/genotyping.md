@@ -102,29 +102,49 @@ Our PCR machine is very old, so it's kind of a weird boring puzzle to interact w
 
 Starting on the home screen, using the arrow buttons to move the selection, select **FILES**. Press **Enter**.
 
+![cycler 01](/uploads/genotyping/genotyping-00001.jpg "cycler 01")
+
 Select **New**. Press **Enter**.
+
+![cycler 02](/uploads/genotyping/genotyping-00002.jpg "cycler 02")
 
 It will created a new protocol, called UNNAMED, and bring you to the editor screen.  
 Select where it says **BLOCK**, and press **Sel** until it changes to **TUBE**.
 
+![cycler 03](/uploads/genotyping/genotyping-00003.jpg "cycler 03")
+
 Select the asterisks next to **LID=** and set it to 105&deg; using the numpad.
+
+![cycler 04](/uploads/genotyping/genotyping-00004.jpg "cycler 04")
 
 Using the arrow buttons, navigate the cursor to the left of **end**.
 
+![cycler 05](/uploads/genotyping/genotyping-00005.jpg "cycler 05")
+
 Press **Sel** until the row changes to **1 T=...** as shown.
 
+![cycler 06](/uploads/genotyping/genotyping-00006.jpg "cycler 06")
+
 Using the numpad, change the two sets of asterisks to the temperature and the time, respectively.
+
+![cycler 07](/uploads/genotyping/genotyping-00007.jpg "cycler 07")
 
 Again, navigate the cursor to the left of **end**. Repeat the previous steps for the other temperatures in the protocol. Note you do not have to specify the start of a loop until later.
 
 When you reach the end of the loop, on **end**, press **Sel** until the row changes to **GOTO...** as shown.
 
+![cycler 08](/uploads/genotyping/genotyping-00008.jpg "cycler 08")
+
 Change the first set of asterisks to the step number of the start of the loop. Change the second set of asterisks to the number of times you want the loop to repeat.
 
 When you reach the hold step, on **end**, press **Sel** until the row changes to **HOLD...** as shown. Set the temperature at which to hold.
 
+![cycler 09](/uploads/genotyping/genotyping-00009.jpg "cycler 09")
+
 Press **Exit**. The machine will prompt you to save the protocol. Choose **YES**. Press **Enter**.  
 Using the arrow keys, select the letter in **UNNAMED** that you'd like to change. To cycle through the alphabet, press **Sel**. To enter a number, use the numpad. To delete a letter, press **Del**.
+
+![cycler 10](/uploads/genotyping/genotyping-00010.jpg "cycler 10")
 
 Press **Enter** to save the protocol. 
 
