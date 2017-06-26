@@ -42,7 +42,7 @@ Simply follow the directions in the kit to get more pure DNA. However, the full 
 The only protocol that we currently have that requires the clean prep is the SAP protocol.
 
 # PCR Amplification
-*This is a general overview of PCR that could be adapted for any gene. For PCR mixes and protocols to use with specific mouse strains, see [this page on mouse strains](/mouses/strains).*
+*This is a general overview of PCR that could be adapted for any gene. For PCR mixes and protocols to use with specific mouse strains, see [this page on mouse strains](/mouses/mouse-strains).*
 
 Once you have DNA, it's time to amplify your segment of interest so it can be seen when you run it on a gel.
 
@@ -63,9 +63,9 @@ Aliquot 23 ul of this master mix into PCR tubes, then add 2.0 ul of each DNA sam
 
 Close the caps of the PCR tubes and place them into the PCR machine. Close and tighten the lid of the machine to keep the caps of the tubes on (the tubes get very hot during cycling, so if the caps aren't secured they can burst off and your reaction liquid inside can evaporate).
 
-Set the PCR machine to use the protocol you need. Many protocols are saved in the machine already. If you need to add another protocol, see the section below.
+Set the PCR machine to use the protocol you need. Many protocols are saved in the machine already. If you need to add another protocol, see [Adding a new protocol to the cycler]() below.
 
-## Setting a new protocol
+## Creating a new protocol
 
 All of the protocols that we use I stick to a simple formula:
 
@@ -80,4 +80,14 @@ elongation | 72 | 1:00
 final elongation | 72 | 2:00
 hold | 4 | &#x221e;
 
-Our PCR machine is very old, so
+The only temperature that you have to determine is the annealing temperature. There are several online calculators for this - one that I use is [the one from Promega](http://www.promega.com/a/apps/biomath/?calc=tm), since then you can select Green Mix as your buffer mixture. It only only calculates the *melting* temperature of one primer at a time. The *annealing* temperature (what you use in the PCR protocol) is generally about 5&deg;C below the lowest melting temperature.
+
+In addition to using the calculator, if you have a PCR machine that can do a gradient of temperatures, you can set it to a gradient of about &plusmn;5&deg;C from the annealing temperature suggested by the above calculation.
+
+There are more complicated PCR protocols sometimes listed on Jackson's website, like where the annealing temperature rises slightly each cycle, but they have never worked very well for me, so I just use the simple ones.
+
+## Adding a new protocol to the cycler
+
+Our PCR machine is very old, so it's kind of a weird puzzle to get stuff entered.
+
+
