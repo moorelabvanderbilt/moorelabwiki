@@ -6,7 +6,7 @@ For most transgenic and knockout mice that we use, there is not a readily observ
 
 # Collecting tissue
 **Required items**
-* PCR tubes, 8-tube strip, with individually attached lids ([product 1402-2900 from USA Scientific](http://www.usascientific.com/0.2ml-pcr-8-tube-strip-indivattached-caps.aspx))
+* PCR tubes, 8-tube strip, with individually attached lids (e.g. [product 1402-2900 from USA Scientific](http://www.usascientific.com/0.2ml-pcr-8-tube-strip-indivattached-caps.aspx))
 * Scissors
 * Ear tags (see [Ear Tags](/mouses/ear-tags) for more information)
 * Ear tag appliers
