@@ -88,7 +88,7 @@ In addition to this simple protocol, there are more complicated PCR protocols (o
 
 ## Adding a new protocol to the cycler
 
-Our PCR machine is very old, so it's kind of a weird puzzle to get stuff entered.
+Our PCR machine is very old, so it's kind of a weird boring puzzle to get stuff entered. If you're having trouble with this guide, check out the manual saved in the `/Protocols Etc./Equipment Manuals` folder on the server.
 
 Starting on the home screen, using the arrow buttons to move the selection, select **FILES**. Press **Enter**.
 
@@ -101,6 +101,28 @@ Select the asterisks next to **LID=** and set it to 105&deg; using the numpad.
 
 Using the arrow buttons, navigate the cursor to the left of **end**.
 
-Press **Sel** until the row changes to **1 T=\*\*\*\*&deg; \*\*\:\*\*\:\*\**
+Press **Sel** until the row changes to **1 T=...** as shown.
 
+Using the numpad, change the two sets of asterisks to the temperature and the time, respectively.
 
+Again, navigate the cursor to the left of **end**. Repeat the previous steps for the other temperatures in the protocol. Note you do not have to specify the start of a loop until later.
+
+When you reach the end of the loop, on **end**, press **Sel** until the row changes to **GOTO...** as shown.
+
+Change the first set of asterisks to the step number of the start of the loop. Change the second set of asterisks to the number of times you want the loop to repeat.
+
+When you reach the hold step, on **end**, press **Sel** until the row changes to **HOLD...** as shown. Set the temperature at which to hold.
+
+Press **Exit**. The machine will prompt you to save the protocol. Choose **YES**. Press **Enter**.  
+Using the arrow keys, select the letter in **UNNAMED** that you'd like to change. To cycle through the alphabet, press **Sel**. To enter a number, use the numpad. To delete a letter, press **Del**.
+
+Press **Enter** to save the protocol. 
+
+# Making a gel
+While the PCR machine is running, it's good to go ahead and make your gel so that it is cooled and ready when the PCR is done.
+
+Add 100 mL 1X TAE buffer to an Erlenmeyer flask. Add 1.5 g agarose powder to the buffer. Swirl it around and put it in the microwave on high for 1 min 30 sec.
+
+Put on a hot glove and take the flask out. Add 10 uL [SYBR Safe gel dye](https://www.thermofisher.com/us/en/home/life-science/dna-rna-purification-analysis/nucleic-acid-gel-electrophoresis/dna-stains/sybr-safe.html) (available at the Core).
+
+Place a gel mold in 
