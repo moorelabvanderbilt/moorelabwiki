@@ -101,6 +101,6 @@ Select the asterisks next to **LID=** and set it to 105&deg; using the numpad.
 
 Using the arrow buttons, navigate the cursor to the left of **end**.
 
-Press **Sel** until the row changes to **1 T=\*\*\*\*&deg; \*\*:\*\*:\*\**
+Press **Sel** until the row changes to **1 T=\*\*\*\*&deg; \*\*\:\*\*\:\*\**
 
 
