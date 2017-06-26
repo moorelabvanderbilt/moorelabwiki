@@ -1,6 +1,6 @@
 <!-- TITLE: Mouse Management Index -->
 
-A lot of time will go into managing the mouse colony. As such, this page has links to more detailed articles about different topics concerning the mice and procedures surrounding them.
+A lot of time will go into managing the mouse colony. This page has links to more detailed articles about different topics concerning the mice and procedures surrounding them.
 # Mouse room
 ## Cage cards and indicator cards
 The cage card system and the different cards and stickers provided to indicate special status of a cage.
