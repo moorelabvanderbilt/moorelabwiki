@@ -70,7 +70,7 @@ Set the PCR machine to use the protocol you need. Many protocols are saved in th
 All of the protocols that we use I stick to a simple formula:
 
 Step | Temperature (&deg;C) | Time (m:ss)
---- | ---
+--- | --- | ---
 initialization | 94 | 3:00
 - | - | start loop 35x
 denaturation | 94 | 1:00
