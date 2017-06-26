@@ -25,7 +25,7 @@ Close the lid of the tube that you placed the tail in. Write down the ear tag nu
 Repeat this process for all the mice you need genotyped. Bring your tubes with tail clippings back to lab.
 # Extracting DNA from tissue
 ## Dirty prep
-*Adapted from [Preparation of PCR-Quality Mouse Genomic DNA with Hot Sodium Hydroxide and Tris (HotSHOT). *BioTechniques* 29:52-54 (July 2000).](http://www.biotechniques.com/BiotechniquesJournal/2000/July/Preparation-of-PCR-Quality-Mouse-Genomic-DNA-with-Hot-Sodium-Hydroxide-and-Tris-HotSHOT/biotechniques-44169.html).*
+*Adapted from [Preparation of PCR-Quality Mouse Genomic DNA with Hot Sodium Hydroxide and Tris (HotSHOT). *BioTechniques* 29:52-54 (July 2000).](http://www.biotechniques.com/BiotechniquesJournal/2000/July/Preparation-of-PCR-Quality-Mouse-Genomic-DNA-with-Hot-Sodium-Hydroxide-and-Tris-HotSHOT/biotechniques-44169.html)*
 
 **Required items**
 * NaOH, 50 mM
@@ -35,4 +35,49 @@ Repeat this process for all the mice you need genotyped. Bring your tubes with t
 Add 
 
 ## Clean prep
-For some PCR protocols, the dirty prep does not amplify reliably. For these, you have to use 
+For some PCR protocols, the dirty prep does not amplify reliably. For these, you have to use a cleaner DNA prep kit, like the [QIAGEN DNeasy Blood and Tissue Kit](https://www.qiagen.com/us/shop/sample-technologies/dna/genomic-dna/dneasy-blood-and-tissue-kit/), which you can buy from the Core.
+
+Simply follow the directions in the kit to get more pure DNA. However, the full protocol is much more labor intensive and takes longer than the dirty prep, so if the dirty prep works for your PCR protocol, use that instead.
+
+The only protocol that we currently have that requires the clean prep is the SAP protocol.
+
+# PCR Amplification
+*This is a general overview of PCR that could be adapted for any gene. For PCR mixes and protocols to use with specific mouse strains, see [this page on mouse strains](/mouses/strains).*
+
+Once you have DNA, it's time to amplify your segment of interest so it can be seen when you run it on a gel.
+
+First, you need to mix your DNA into individual PCR mixes. Mix a master mix of everything except for the DNA. 
+
+This recipe is for a single DNA sample, so multiply this by how many samples you have. In addition, sometimes you'll have more than two primers; this is okay, just reduce the amount of water so that the whole mix still comes out to 23 ul per sample.
+
+Reagent | Amount (per rxn) | Stock Conc. | Final Conc.
+--- | --- | --- | ---
+Forward Primer | 1.5 ul | 10 uM | 0.6 uM
+Reverse Primer | 1.5 ul | 10 uM | 0.6 uM
+Promega Green Mix | 12.5 ul | 2X | 1X
+Nuclease-free water | to 23 ul | - | -
+
+The [Promega Green Mix](https://www.promega.com/products/pcr/endpoint-pcr/gotaq-flexi-dna-polymerase/) is available from the Core. It contains the *Taq* DNA polymerase, all four dNTPs, dyes, and salts which are necessary for the reaction to take place.
+
+Aliquot 23 ul of this master mix into PCR tubes, then add 2.0 ul of each DNA sample to a separate tube, for a total of 25 ul per reaction.
+
+Close the caps of the PCR tubes and place them into the PCR machine. Close and tighten the lid of the machine to keep the caps of the tubes on (the tubes get very hot during cycling, so if the caps aren't secured they can burst off and your reaction liquid inside can evaporate).
+
+Set the PCR machine to use the protocol you need. Many protocols are saved in the machine already. If you need to add another protocol, see the section below.
+
+## Setting a new protocol
+
+All of the protocols that we use I stick to a simple formula:
+
+Step | Temperature (&deg;C) | Time (m:ss)
+--- | ---
+initialization | 94 | 3:00
+- | - | start loop 35x
+denaturation | 94 | 1:00
+annealing | depends on primers | 1:00
+elongation | 72 | 1:00
+- | end loop
+final elongation | 72 | 2:00
+hold | 4 | &#x221e;
+
+Our PCR machine is very old, so
