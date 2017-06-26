@@ -12,8 +12,6 @@ For most transgenic and knockout mice that we use, there is not a readily observ
 * Ear tag appliers
 * Sharpie to label tubes
 
-**Collection**  
-
 Label the tube strips with letters (A, B...) on one of the ends of the strip. This will be the tube 1 in that strip; the final tube is tube 8.
 
 In the mouse room hood, place a cage with mice to genotype. Place an ear tag on each of the mice. 
