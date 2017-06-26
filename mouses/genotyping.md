@@ -82,12 +82,25 @@ hold | 4 | &#x221e;
 
 The only temperature that you have to determine is the annealing temperature. There are several online calculators for this - one that I use is [the one from Promega](http://www.promega.com/a/apps/biomath/?calc=tm), since then you can select Green Mix as your buffer mixture. However, this only calculates the *melting* temperature of one primer at a time. The *annealing* temperature (what you use in the PCR protocol) is generally about 5&deg;C below the lowest melting temperature.
 
-In addition to using the calculator, if you have a PCR machine that can do a gradient of temperatures, you can set it to a gradient of about &plusmn;5&deg;C from the annealing temperature suggested by the above calculation.
+In addition to using the calculator, if you have a PCR machine that can do a gradient of temperatures, you can set the annealing temperature step to a gradient of about &plusmn;5&deg;C from the annealing temperature suggested by the above calculation. If you run this gradient protocol with a single positive control sample for the gene of interest, you can see the temperature that produced the best band on the resulting gel.
 
-There are more complicated PCR protocols sometimes listed on Jackson's website, like where the annealing temperature rises slightly each cycle, but they have never worked very well for me, so I just use the simple ones.
+In addition to this simple protocol, there are more complicated PCR protocols (often listed in the genotyping section of Jackson's website), like where the annealing temperature rises slightly each cycle. They have never worked very well for me, so I just use the simple ones.
 
 ## Adding a new protocol to the cycler
 
 Our PCR machine is very old, so it's kind of a weird puzzle to get stuff entered.
+
+Starting on the home screen, using the arrow buttons to move the selection, select **FILES**. Press **Enter**.
+
+Select **New**. Press **Enter**.
+
+It will created a new protocol, called UNNAMED, and bring you to the editor screen.  
+Select where it says **BLOCK**, and press **Sel** until it changes to **TUBE**.
+
+Select the asterisks next to **LID=** and set it to 105&deg; using the numpad.
+
+Using the arrow buttons, navigate the cursor to the left of **end**.
+
+Press **Sel** until the row changes to **1 T=\*\*\*\*&deg; \*\*:\*\*:\*\**
 
 
