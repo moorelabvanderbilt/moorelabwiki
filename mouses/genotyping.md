@@ -63,7 +63,7 @@ Aliquot 23 ul of this master mix into PCR tubes, then add 2.0 ul of each DNA sam
 
 Close the caps of the PCR tubes and place them into the PCR machine. Close and tighten the lid of the machine to keep the caps of the tubes on (the tubes get very hot during cycling, so if the caps aren't secured they can burst off and your reaction liquid inside can evaporate).
 
-Set the PCR machine to use the protocol you need. Many protocols are saved in the machine already. If you need to add another protocol, see [Adding a new protocol to the cycler]() below.
+Set the PCR machine to use the protocol you need. Many protocols are saved in the machine already. If you need to add another protocol, see [Adding a new protocol to the cycler](/mouses/genotyping#adding-a-new-protocol-to-the-cycler) below.
 
 ## Creating a new protocol
 
@@ -76,7 +76,7 @@ initialization | 94 | 3:00
 denaturation | 94 | 1:00
 annealing | depends on primers | 1:00
 elongation | 72 | 1:00
-- | end loop
+- | - | end loop
 final elongation | 72 | 2:00
 hold | 4 | &#x221e;
 
