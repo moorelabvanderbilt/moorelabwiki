@@ -6,9 +6,9 @@ For most transgenic and knockout mice that we use, there is not a readily observ
 
 # Collecting tissue
 **Required items**
-* PCR tubes, 8-tube strip, with individually attached lids ()
+* PCR tubes, 8-tube strip, with individually attached lids ([product 1402-2900 from USA Scientific](http://www.usascientific.com/0.2ml-pcr-8-tube-strip-indivattached-caps.aspx))
 * Scissors
-* Ear tags ()
+* Ear tags (see [Ear Tags](/mouses/ear-tags) for more information)
 * Ear tag appliers
 * Sharpie to label tubes
 
@@ -32,14 +32,22 @@ Repeat this process for all the mice you need genotyped. Bring your tubes with t
 * Tris-HCl, 40 mM
 * PCR machine
 
-Add 
+Add 75 uL NaOH to each tail clipping. Make sure the clipping is submerged in the NaOH - vortexing the tubes can help with this. 
+
+Place in the PCR machine at 95&deg;C for 30 min. 
+
+Remove the tubes and vortex. There may be undigested hair in the mixture; this is normal.
+
+Add 75 ul Tris-HCl to each tube and vortex again. 
+
+This mixture contains your DNA and can be used in PCR protocols. It can also be stored at 4&deg;C for a long time.
 
 ## Clean prep
 For some PCR protocols, the dirty prep does not amplify reliably. For these, you have to use a cleaner DNA prep kit, like the [QIAGEN DNeasy Blood and Tissue Kit](https://www.qiagen.com/us/shop/sample-technologies/dna/genomic-dna/dneasy-blood-and-tissue-kit/), which you can buy from the Core.
 
 Simply follow the directions in the kit to get more pure DNA. However, the full protocol is much more labor intensive and takes longer than the dirty prep, so if the dirty prep works for your PCR protocol, use that instead.
 
-The only protocol that we currently have that requires the clean prep is the SAP protocol.
+The only protocol that we currently have that requires the clean prep is the [SAP protocol](/mouses/mouse-strains#sap).
 
 # PCR Amplification
 *This is a general overview of PCR that could be adapted for any gene. For PCR mixes and protocols to use with specific mouse strains, see [this page on mouse strains](/mouses/mouse-strains).*
@@ -48,18 +56,18 @@ Once you have DNA, it's time to amplify your segment of interest so it can be se
 
 First, you need to mix your DNA into individual PCR mixes. Mix a master mix of everything except for the DNA. 
 
-This recipe is for a single DNA sample, so multiply this by how many samples you have. In addition, sometimes you'll have more than two primers; this is okay, just reduce the amount of water so that the whole mix still comes out to 23 ul per sample.
+This recipe is for a single DNA sample, so multiply this by how many samples you have. In addition, sometimes you'll have more than two primers; this is okay, just reduce the amount of water so that the whole mix still comes out to 23 uL per sample.
 
 Reagent | Amount (per rxn) | Stock Conc. | Final Conc.
 --- | --- | --- | ---
-Forward Primer | 1.5 ul | 10 uM | 0.6 uM
-Reverse Primer | 1.5 ul | 10 uM | 0.6 uM
-Promega Green Mix | 12.5 ul | 2X | 1X
-Nuclease-free water | to 23 ul | - | -
+Forward Primer | 1.5 uL | 10 uM | 0.6 uM
+Reverse Primer | 1.5 uL | 10 uM | 0.6 uM
+Promega Green Mix | 12.5 uL | 2X | 1X
+Nuclease-free water | to 23 uL | - | -
 
 The [Promega Green Mix](https://www.promega.com/products/pcr/endpoint-pcr/gotaq-flexi-dna-polymerase/) is available from the Core. It contains the *Taq* DNA polymerase, all four dNTPs, dyes, and salts which are necessary for the reaction to take place.
 
-Aliquot 23 ul of this master mix into PCR tubes, then add 2.0 ul of each DNA sample to a separate tube, for a total of 25 ul per reaction.
+Aliquot 23 uL of this master mix into PCR tubes, then add 2.0 uL of each DNA sample to a separate tube, for a total of 25 uL per reaction.
 
 Close the caps of the PCR tubes and place them into the PCR machine. Close and tighten the lid of the machine to keep the caps of the tubes on (the tubes get very hot during cycling, so if the caps aren't secured they can burst off and your reaction liquid inside can evaporate).
 
