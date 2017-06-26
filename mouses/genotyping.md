@@ -65,6 +65,8 @@ Close the caps of the PCR tubes and place them into the PCR machine. Close and t
 
 Set the PCR machine to use the protocol you need. Many protocols are saved in the machine already. If you need to add another protocol, see [Adding a new protocol to the cycler](/mouses/genotyping#adding-a-new-protocol-to-the-cycler) below.
 
+When the PCR is done, the machine will hold the reactions at 4&deg;C. If you need to remove them but don't want to run them on a gel just yet, they can be stored at 4&deg;C in the fridge.
+
 ## Creating a new protocol
 
 All of the protocols that we use I stick to a simple formula:
@@ -88,7 +90,7 @@ In addition to this simple protocol, there are more complicated PCR protocols (o
 
 ## Adding a new protocol to the cycler
 
-Our PCR machine is very old, so it's kind of a weird boring puzzle to get stuff entered. If you're having trouble with this guide, check out the manual saved in the `/Protocols Etc./Equipment Manuals` folder on the server.
+Our PCR machine is very old, so it's kind of a weird boring puzzle to interact with the display. If you're having trouble with this guide, check out the manual saved in the `/Protocols Etc./Equipment Manuals` folder on the server.
 
 Starting on the home screen, using the arrow buttons to move the selection, select **FILES**. Press **Enter**.
 
@@ -121,8 +123,62 @@ Press **Enter** to save the protocol.
 # Making a gel
 While the PCR machine is running, it's good to go ahead and make your gel so that it is cooled and ready when the PCR is done.
 
-Add 100 mL 1X TAE buffer to an Erlenmeyer flask. Add 1.5 g agarose powder to the buffer. Swirl it around and put it in the microwave on high for 1 min 30 sec.
+Add 100 mL 1X TAE buffer to a 500 mL Erlenmeyer flask. Add 1.5 g agarose powder to the buffer. Swirl it around and put it in the microwave on high for 1 min 30 sec.
 
-Put on a hot glove and take the flask out. Add 10 uL [SYBR Safe gel dye](https://www.thermofisher.com/us/en/home/life-science/dna-rna-purification-analysis/nucleic-acid-gel-electrophoresis/dna-stains/sybr-safe.html) (available at the Core).
+Put on a hot glove and take the flask out. Add 10 uL [SYBR Safe gel dye](https://www.thermofisher.com/us/en/home/life-science/dna-rna-purification-analysis/nucleic-acid-gel-electrophoresis/dna-stains/sybr-safe.html) (available at the Core). Swirl the flask until the dye is evenly distributed.
 
-Place a gel mold in 
+Place a gel tray in the caster as shown. Take care that the rubber gaskets do not roll out of place when sliding it in - this can cause a leak. 
+
+Pour the contents of the flask into the gel tray. Wash the flask out with water and leave to dry.
+
+Using the end of a gel comb, push any bubbles in the surface of the gel to the bottom end of the gel. 
+
+Place the desired size combs in the slots in the gel tray. Leave to set (about 1 hour at room temperature).
+
+# Running a gel
+After the PCR is finished and the gel is set, it's time to run the PCR product in the gel so you can see the bands.
+
+Remove the combs from the gel tray, taking care to keep the wells in the gel intact. Remove the gel tray with the gel from the caster and place it in the buffer chamber as shown. Make sure the gel is completely submerged in 1X TAE in the chamber.
+
+Starting with the second well (leave the first well open for the DNA ladder), pipette about 10 uL of each PCR product into the wells of the gel (use 8 uL if you've used the 40-well comb). Keep them in the same order as they've been in so you can match them to the mice later.
+
+I like to leave the well on the end open for a ladder too, if you have 28+ samples. Sometimes the gel advances unevenly so it's good to have a ladder on either side of the gel.
+
+Pipette 5 uL 100bp DNA ladder (available at the Core) into the wells that you've left open. I like to have at least two ladders per row of wells.
+
+Place the lid on the buffer chamber as shown, plugging the wires onto the contacts on the side of the chamber.
+
+Set the power supply to 125 V and about 28 min, and press **run**. 
+
+If the bands run off the edge of the gel, reduce the time a bit. You can also stop it early if you see that it's going to run off (the yellow dye marks the front of the bands).
+
+# Imaging a gel
+When the gel is finished running, you'll take it up to the Core to take a photo of the gel using their imager.
+
+Using the gel tray, or after transferring the gel to a plastic box, carry the gel up to the Core on the 9th floor. Bring a flash drive with you. 
+
+It's best to wear a glove on your right hand to touch the mouse and keyboard and gel trays. We use SYBR Safe dye, which is safe (hence the name), but a lot of people still use ethidium bromide, which is a potent carcinogen. Everything around that computer and imager up there is probably covered in ethidium bromide, so you do not want that to touch your skin.
+
+The door just past the main Core store is where all the imagers are. Go to the second computer/imager on the left side of the room.
+
+Take the blue tray out of the rack above your head. Take the gel out of your carrying container and place it on the blue tray. Try to press out any bubbles that form underneath the gel.
+
+Open the imager and slide the tray in, gel-side first.
+
+If it's not already open, open ImageLab. If the **New Protocol** window is not already showing, bring it up by pressing the button on the ribbon at the top-left.
+
+Select **Nucleic acid gels > SYBR Safe**. Under **Optimize exposure for...**, select **Intense bands** (Generally, this works. Obviously, if your bands are faint, choose **Faint bands** and re-image). Uncheck **Highlight saturated pixels**.
+
+Press **Run Protocol**.
+
+It will show a picture of what your gel looks like. If it looks good, select **File > Export for Publication**. Select **600 dpi** and press export. Plug in your flash drive and export the image to the flash drive.
+
+Take the gel out of the imager and put it back into your carrying container. We don't need it now that we have the photo, but I'm still not sure if we're allowed to throw them away in the Core (because of the EtBr problem mentioned above), so I bring them back to lab and then throw them out.
+
+Clean off the blue tray with water and KimWipes and return it to the rack.
+
+Get your flash drive out of the computer and come back to lab.
+
+# Reading the gel
+With the expected band sizes of your PCR protocol and the photo of the gel, you can figure out which mice have the genotype that you want. 
+
