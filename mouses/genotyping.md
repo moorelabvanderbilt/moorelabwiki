@@ -4,7 +4,8 @@
 
 For most transgenic and knockout mice that we use, there is not a readily observable phenotype that indicates the genotype of the mouse. Therefore, we must use genotyping to absolutely confirm the genotype of any non-true-breeding offspring.
 
-# Collecting tissue
+# Genotyping protocol
+## Collecting tissue
 **Required items**
 * PCR tubes, 8-tube strip, with individually attached lids (e.g. [product 1402-2900 from USA Scientific](http://www.usascientific.com/0.2ml-pcr-8-tube-strip-indivattached-caps.aspx))
 * Scissors
@@ -21,8 +22,8 @@ Using the scissors, cut a small bit of the end of the tail off and place it into
 Close the lid of the tube that you placed the tail in. Write down the ear tag number of the mouse and the tube number that you put the tail in so that you can match genotypes to mice when you are finished genotyping.
 
 Repeat this process for all the mice you need genotyped. Bring your tubes with tail clippings back to lab.
-# Extracting DNA from tissue
-## Dirty prep
+## Extracting DNA from tissue
+### Dirty prep
 *Adapted from [Preparation of PCR-Quality Mouse Genomic DNA with Hot Sodium Hydroxide and Tris (HotSHOT). *BioTechniques* 29:52-54 (July 2000).](http://www.biotechniques.com/BiotechniquesJournal/2000/July/Preparation-of-PCR-Quality-Mouse-Genomic-DNA-with-Hot-Sodium-Hydroxide-and-Tris-HotSHOT/biotechniques-44169.html)*
 
 **Required items**
@@ -40,14 +41,14 @@ Add 75 ul Tris-HCl to each tube and vortex again.
 
 This mixture contains your DNA and can be used in PCR protocols. It can also be stored at 4&deg;C for a long time.
 
-## Clean prep
+### Clean prep
 For some PCR protocols, the dirty prep does not amplify reliably. For these, you have to use a cleaner DNA prep kit, like the [QIAGEN DNeasy Blood and Tissue Kit](https://www.qiagen.com/us/shop/sample-technologies/dna/genomic-dna/dneasy-blood-and-tissue-kit/), which you can buy from the Core.
 
 Simply follow the directions in the kit to get more pure DNA. However, the full protocol is much more labor intensive and takes longer than the dirty prep, so if the dirty prep works for your PCR protocol, use that instead.
 
 The only protocol that we currently have that requires the clean prep is the [SAP protocol](/mouses/mouse-strains#sap).
 
-# PCR Amplification
+## PCR Amplification
 *This is a general overview of PCR that could be adapted for any gene. For PCR mixes and protocols to use with specific mouse strains, see [this page on mouse strains](/mouses/mouse-strains).*
 
 Once you have DNA, it's time to amplify your segment of interest so it can be seen when you run it on a gel.
@@ -73,7 +74,7 @@ Set the PCR machine to use the protocol you need. Many protocols are saved in th
 
 When the PCR is done, the machine will hold the reactions at 4&deg;C. If you need to remove them but don't want to run them on a gel just yet, they can be stored at 4&deg;C in the fridge.
 
-## Creating a new protocol
+### Creating a new protocol
 
 All of the protocols that we use I stick to a simple formula:
 
@@ -93,7 +94,7 @@ The only temperature that you have to determine is the annealing temperature. Th
 In addition to using the calculator, if you have a PCR machine that can do a gradient of temperatures, you can set the annealing temperature step to a gradient of about &plusmn;5&deg;C from the annealing temperature suggested by the above calculation. If you run this gradient protocol with a single positive control sample for the gene of interest, you can see the temperature that produced the best band on the resulting gel.
 
 In addition to this simple protocol, there are more complicated PCR protocols (often listed in the genotyping section of Jackson's website), like where the annealing temperature rises slightly each cycle. They have never worked very well for me, so I just use the simple ones.
-# Making a gel
+## Making a gel
 While the PCR machine is running, it's good to go ahead and make your gel so that it is cooled and ready when the PCR is done.
 
 Add 100 mL 1X TAE buffer to a 500 mL Erlenmeyer flask. Add 1.5 g agarose powder to the buffer. Swirl it around and put it in the microwave on high for 1 min 30 sec.
@@ -108,7 +109,7 @@ Using the end of a gel comb, push any bubbles in the surface of the gel to the b
 
 Place the desired size combs in the slots in the gel tray. Leave to set (about 1 hour at room temperature).
 
-# Running a gel
+## Running a gel
 After the PCR is finished and the gel is set, it's time to run the PCR product in the gel so you can see the bands.
 
 Remove the combs from the gel tray, taking care to keep the wells in the gel intact. Remove the gel tray with the gel from the caster and place it in the buffer chamber as shown. Make sure the gel is completely submerged in 1X TAE in the chamber.
@@ -125,7 +126,7 @@ Set the power supply to 125 V and about 28 min, and press **run**.
 
 If the bands run off the edge of the gel, reduce the time a bit. You can also stop it early if you see that it's going to run off (the yellow dye marks the front of the bands).
 
-# Imaging a gel
+## Imaging a gel
 When the gel is finished running, you'll take it up to the Core to take a photo of the gel using their imager.
 
 Using the gel tray, or after transferring the gel to a plastic box, carry the gel up to the Core on the 9th floor. Bring a flash drive with you. 
@@ -152,7 +153,7 @@ Clean off the blue tray with water and KimWipes and return it to the rack.
 
 Get your flash drive out of the computer and come back to lab.
 
-# Reading the gel
+## Reading the gel
 With the expected band sizes of your PCR protocol and the photo of the gel, you can figure out which mice have the genotype that you want. 
 
 # Special situations
