@@ -93,59 +93,6 @@ The only temperature that you have to determine is the annealing temperature. Th
 In addition to using the calculator, if you have a PCR machine that can do a gradient of temperatures, you can set the annealing temperature step to a gradient of about &plusmn;5&deg;C from the annealing temperature suggested by the above calculation. If you run this gradient protocol with a single positive control sample for the gene of interest, you can see the temperature that produced the best band on the resulting gel.
 
 In addition to this simple protocol, there are more complicated PCR protocols (often listed in the genotyping section of Jackson's website), like where the annealing temperature rises slightly each cycle. They have never worked very well for me, so I just use the simple ones.
-
-## Adding a new protocol to the cycler
-
-Our PCR machine is very old, so it's kind of a weird boring puzzle to interact with the display. If you're having trouble with this guide, check out the manual saved in the `/Protocols Etc./Equipment Manuals` folder on the server.
-
-Starting on the home screen, using the arrow buttons to move the selection, select **FILES**. Press **Enter**.
-
-![cycler 01](/uploads/genotyping/genotyping-00001.jpg "cycler 01")
-
-Select **New**. Press **Enter**.
-
-![cycler 02](/uploads/genotyping/genotyping-00002.jpg "cycler 02")
-
-It will created a new protocol, called UNNAMED, and bring you to the editor screen.  
-Select where it says **BLOCK**, and press **Sel** until it changes to **TUBE**.
-
-![cycler 03](/uploads/genotyping/genotyping-00003.jpg "cycler 03")
-
-Select the asterisks next to **LID=** and set it to 105&deg; using the numpad.
-
-![cycler 04](/uploads/genotyping/genotyping-00004.jpg "cycler 04")
-
-Using the arrow buttons, navigate the cursor to the left of **end**.
-
-![cycler 05](/uploads/genotyping/genotyping-00005.jpg "cycler 05")
-
-Press **Sel** until the row changes to **1 T=...** as shown.
-
-![cycler 06](/uploads/genotyping/genotyping-00006.jpg "cycler 06")
-
-Using the numpad, change the two sets of asterisks to the temperature and the time, respectively.
-
-![cycler 07](/uploads/genotyping/genotyping-00007.jpg "cycler 07")
-
-Again, navigate the cursor to the left of **end**. Repeat the previous steps for the other temperatures in the protocol. Note you do not have to specify the start of a loop until later.
-
-When you reach the end of the loop, on **end**, press **Sel** until the row changes to **GOTO...** as shown.
-
-![cycler 08](/uploads/genotyping/genotyping-00008.jpg "cycler 08")
-
-Change the first set of asterisks to the step number of the start of the loop. Change the second set of asterisks to the number of times you want the loop to repeat.
-
-When you reach the hold step, on **end**, press **Sel** until the row changes to **HOLD...** as shown. Set the temperature at which to hold.
-
-![cycler 09](/uploads/genotyping/genotyping-00009.jpg "cycler 09")
-
-Press **Exit**. The machine will prompt you to save the protocol. Choose **YES**. Press **Enter**.  
-Using the arrow keys, select the letter in **UNNAMED** that you'd like to change. To cycle through the alphabet, press **Sel**. To enter a number, use the numpad. To delete a letter, press **Del**.
-
-![cycler 10](/uploads/genotyping/genotyping-00010.jpg "cycler 10")
-
-Press **Enter** to save the protocol. 
-
 # Making a gel
 While the PCR machine is running, it's good to go ahead and make your gel so that it is cooled and ready when the PCR is done.
 
@@ -207,4 +154,58 @@ Get your flash drive out of the computer and come back to lab.
 
 # Reading the gel
 With the expected band sizes of your PCR protocol and the photo of the gel, you can figure out which mice have the genotype that you want. 
+
+# Special situations
+## Adding a new protocol to the cycler
+
+Our PCR machine is very old, so it's kind of a weird boring puzzle to interact with the display. If you're having trouble with this guide, check out the manual saved in the `/Protocols Etc./Equipment Manuals` folder on the server.
+
+Starting on the home screen, using the arrow buttons to move the selection, select **FILES**. Press **Enter**.
+
+![cycler 01](/uploads/genotyping/genotyping-00001.jpg "cycler 01")
+
+Select **New**. Press **Enter**.
+
+![cycler 02](/uploads/genotyping/genotyping-00002.jpg "cycler 02")
+
+It will created a new protocol, called UNNAMED, and bring you to the editor screen.  
+Select where it says **BLOCK**, and press **Sel** until it changes to **TUBE**.
+
+![cycler 03](/uploads/genotyping/genotyping-00003.jpg "cycler 03")
+
+Select the asterisks next to **LID=** and set it to 105&deg; using the numpad.
+
+![cycler 04](/uploads/genotyping/genotyping-00004.jpg "cycler 04")
+
+Using the arrow buttons, navigate the cursor to the left of **end**.
+
+![cycler 05](/uploads/genotyping/genotyping-00005.jpg "cycler 05")
+
+Press **Sel** until the row changes to **1 T=...** as shown.
+
+![cycler 06](/uploads/genotyping/genotyping-00006.jpg "cycler 06")
+
+Using the numpad, change the two sets of asterisks to the temperature and the time, respectively.
+
+![cycler 07](/uploads/genotyping/genotyping-00007.jpg "cycler 07")
+
+Again, navigate the cursor to the left of **end**. Repeat the previous steps for the other temperatures in the protocol. Note you do not have to specify the start of a loop until later.
+
+When you reach the end of the loop, on **end**, press **Sel** until the row changes to **GOTO...** as shown.
+
+![cycler 08](/uploads/genotyping/genotyping-00008.jpg "cycler 08")
+
+Change the first set of asterisks to the step number of the start of the loop. Change the second set of asterisks to the number of times you want the loop to repeat.
+
+When you reach the hold step, on **end**, press **Sel** until the row changes to **HOLD...** as shown. Set the temperature at which to hold.
+
+![cycler 09](/uploads/genotyping/genotyping-00009.jpg "cycler 09")
+
+Press **Exit**. The machine will prompt you to save the protocol. Choose **YES**. Press **Enter**.  
+Using the arrow keys, select the letter in **UNNAMED** that you'd like to change. To cycle through the alphabet, press **Sel**. To enter a number, use the numpad. To delete a letter, press **Del**.
+
+![cycler 10](/uploads/genotyping/genotyping-00010.jpg "cycler 10")
+
+Press **Enter** to save the protocol. 
+
 
