@@ -157,6 +157,8 @@ If it's not already open, open ImageLab. If the **New Protocol** window is not a
 
 Select **Nucleic acid gels > SYBR Safe**. Under **Optimize exposure for...**, select **Intense bands** (Generally, this works. Obviously, if your bands are faint, choose **Faint bands** and re-image). Uncheck **Highlight saturated pixels**.
 
+![dialog box in imagelab](/uploads/genotyping/genotyping-00019.jpg "cheat sheet")
+
 Press **Run Protocol**.
 
 It will show a picture of what your gel looks like. If it looks good, select **File > Export for Publication**. Select **600 dpi** and press export. Plug in your flash drive and export the image to the flash drive.
