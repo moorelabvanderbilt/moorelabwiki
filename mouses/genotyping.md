@@ -74,7 +74,7 @@ Set the PCR machine to use the protocol you need. Many protocols are saved in th
 
 When the PCR is done, the machine will hold the reactions at 4&deg;C. If you need to remove them but don't want to run them on a gel just yet, they can be stored at 4&deg;C in the fridge.
 
-### Creating a new protocol
+### PCR protocols
 
 All of the protocols that we use I stick to a simple formula:
 
@@ -99,15 +99,23 @@ While the PCR machine is running, it's good to go ahead and make your gel so tha
 
 Add 100 mL 1X TAE buffer to a 500 mL Erlenmeyer flask. Add 1.5 g agarose powder to the buffer. Swirl it around and put it in the microwave on high for 1 min 30 sec.
 
+![pour agarose in flask](/uploads/genotyping/genotyping-00012.jpg "it's lab like in the movies")
+
 Put on a hot glove and take the flask out. Add 10 uL [SYBR Safe gel dye](https://www.thermofisher.com/us/en/home/life-science/dna-rna-purification-analysis/nucleic-acid-gel-electrophoresis/dna-stains/sybr-safe.html) (available at the Core). Swirl the flask until the dye is evenly distributed.
 
-Place a gel tray in the caster as shown. Take care that the rubber gaskets do not roll out of place when sliding it in - this can cause a leak. 
+![add sybr safe](/uploads/genotyping/genotyping-00013.jpg "it looks dangerous but it's safe... SYBR Safe")
+
+Place a gel tray in the caster. Take care that the rubber gaskets do not roll out of place when sliding it in - this can cause a leak. 
 
 Pour the contents of the flask into the gel tray. Wash the flask out with water and leave to dry.
 
 Using the end of a gel comb, push any bubbles in the surface of the gel to the bottom end of the gel. 
 
+![moving the bubbles](/uploads/genotyping/genotyping-00014.jpg "you can also just pop them")
+
 Place the desired size combs in the slots in the gel tray. Leave to set (about 1 hour at room temperature).
+
+![gel with combs](/uploads/genotyping/genotyping-00015.jpg "combs are not for hair")
 
 ## Running a gel
 After the PCR is finished and the gel is set, it's time to run the PCR product in the gel so you can see the bands.
@@ -116,13 +124,19 @@ Remove the combs from the gel tray, taking care to keep the wells in the gel int
 
 Starting with the second well (leave the first well open for the DNA ladder), pipette about 10 uL of each PCR product into the wells of the gel (use 8 uL if you've used the 40-well comb). Keep them in the same order as they've been in so you can match them to the mice later.
 
+![adding sample to gel](/uploads/genotyping/genotyping-00016.jpg "go slowly, sometimes it can spill out of the well")
+
 I like to leave the well on the end open for a ladder too, if you have 28+ samples. Sometimes the gel advances unevenly so it's good to have a ladder on either side of the gel.
 
 Pipette 5 uL 100bp DNA ladder (available at the Core) into the wells that you've left open. I like to have at least two ladders per row of wells.
 
 Place the lid on the buffer chamber as shown, plugging the wires onto the contacts on the side of the chamber.
 
+![chamber with lid on](/uploads/genotyping/genotyping-00018.jpg "a very dirty gel chamber")
+
 Set the power supply to 125 V and about 28 min, and press **run**. 
+
+![power supply](/uploads/genotyping/genotyping-00017.jpg "the raw power")
 
 If the bands run off the edge of the gel, reduce the time a bit. You can also stop it early if you see that it's going to run off (the yellow dye marks the front of the bands).
 
