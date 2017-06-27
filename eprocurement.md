@@ -40,7 +40,7 @@ There's also a large-ish text box in the supplier section that you can use to se
 
 When you're finished entering all the information on this page, press the **Continue** button at the very bottom of the page.
 
-On the next page, the only thing you need to do is justify your purchase. Since all of our funding comes from grants with specific purposes, all purchases need to have an explanation of why it pertains to that grant. These don't have to be ultra-detailed; usually I just stick with something like, "Strainers for splenic tissue processing" or something like that. The approver will let you know if your description is not good enough and have you re-submit if that's the case.
+On the next page, the only thing you need to do is justify your purchase in the **Business Purpose Documentation** box. Since all of our funding comes from grants with specific purposes, all purchases need to have an explanation of why it pertains to that grant. These don't have to be ultra-detailed; usually I just stick with something like, "Strainers for splenic tissue processing" or something like that. The approver will let you know if your description is not good enough and have you re-submit if that's the case.
 
 When you're done explaining yourself, press **Continue** at the bottom of the page.
 
@@ -70,9 +70,19 @@ This will bring you back into the normal eProcurement page. From here on out, it
 
 # Special situations
 ## You have a quote from a supplier
+This often happens if you get a special deal from the supplier or it's a quote-only product. 
+
+Just enter the information as it appears on the quote. On the second page (where you enter the justification for the purchase) there's a box called **Attachments**. Upload the quote file using this box.
 
 ## Ship to a different location
+If you'd like to enter a different address than the lab address, type **SEE** in the **Ship-To Search** box on the first page of the requistion form. Enter the alternate address in the **Comment to Supplier** field after selecting a supplier.
 
 ## Supplier not in eProcurement
+If the supplier is not in eProcurement but you know that they accept purchase orders, you can request to add them to eProcurement.
+
+Search for "new supplier" in the **Supplier Search** box and select the only result that appears. Enter the supplier's information as prompted in the **Comment to Supplier** field.
 
 ## Supplier doesn't accept purchase orders
+If the supplier doesn't accept purchase orders, you'll need to contact one of the Peds Endo [administrative assistants](/admin-asst) and ask to use the P-card to buy it. The administrative assistants will work with you to get the purchase approved and put through.
+
+The P-card is just a credit card associated with the department, but to prevent people from buying delicious superfluous pizza and scary Halloween masks with grant funds, there is only one and it requires a lot of approvals to get stuff purchased with it. You won't have to do this very often, but if you need to buy something from a regular store (like a small fridge from Home Depot), you'll need to use the P-card.
