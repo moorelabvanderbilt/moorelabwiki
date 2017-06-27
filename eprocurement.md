@@ -15,7 +15,11 @@ For all other suppliers, you'll submit a regular requisition.
 
 On the top menu bar of the eProcurement home screen, click on **Requisition**. This will create a new blank requisition.
 
+![top menu bar](/uploads/eprocurement/eprocurement-00006.png "a delicious menu")
+
 Search for the supplier in the search bar. Give it a few seconds after you type, since sometimes it's a little slow. Select the supplier that you want from the results box that drops down.
+
+![supplier search bar](/uploads/eprocurement/eprocurement-00013.png "lookin' for my leopard")
 
 Type in the information about the product that you want to order.
 * **Quantity**: how many of this product that you want.
@@ -32,15 +36,21 @@ Type in the information about the product that you want to order.
 * **Percent**: if you want to split a purchase among more than one center number, put the percentage that you want to go on this center number here. Otherwise this should be 100%.
 * **Amount**: the total cost that will be allotted to the center number in this row. This will auto-calculate based on the total item price and the percentage.
 
+![product info](/uploads/eprocurement/eprocurement-00002.png "a basic order for you to cheat off of")
+
 To add another item to the requisition, press the yellow plus icon on the right side.
 
 If you leave the **Account** and **Center** fields blank until after you've finished adding all the items, you can click the link on the top-right that says **Set Default Distribution**, and it will pop up a window that allows you to enter the account and center numbers once, and it will fill it for all the items.
 
 There's also a large-ish text box in the supplier section that you can use to send a message for the supplier if needed. For example, when ordering [ear tags](/mouses/ear-tags) you should put the range of tag numbers in this box so the supplier knows what you want.
 
+![comment to supplier](/uploads/eprocurement/eprocurement-00001.png "the supplier might be very happy or very creeped out")
+
 When you're finished entering all the information on this page, press the **Continue** button at the very bottom of the page.
 
 On the next page, the only thing you need to do is justify your purchase in the **Business Purpose Documentation** box. Since all of our funding comes from grants with specific purposes, all purchases need to have an explanation of why it pertains to that grant. These don't have to be ultra-detailed; usually I just stick with something like, "Strainers for splenic tissue processing" or something like that. The approver will let you know if your description is not good enough and have you re-submit if that's the case.
+
+![justification](/uploads/eprocurement/eprocurement-00003.png "keepin it vague")
 
 When you're done explaining yourself, press **Continue** at the bottom of the page.
 
@@ -50,21 +60,32 @@ When you're satisfied, press **Submit** at the bottom of the page. This sends it
 # eCatalog requisition
 eCatalogs are vendor sites that are configured to interface with the eProcurement system (this interface is known as a "punchout"), so you don't have to type in all the product information yourself.
 
-On the top menu bar of the eProcurement home screen, click on **Shop eCatalogs**. This will take you to a very ugly page with a list of company logos on the right side.
+On the top menu bar of the eProcurement home screen, click on **Shop eCatalogs**. 
 
+![top menu bar](/uploads/eprocurement/eprocurement-00006.png "the same delicious menu")
+
+This will take you to a very ugly page with a list of company logos on the right side.
 
 Click on the company that you'd like to order from. This will bring you to that vendor's punchout site.  
 > If the vendor's punchout gives a message like "You are logged out", it's probably not going to work. To fix it, go back to the vendor selection page, or just start completely over.
 
+![list of vendors](/uploads/eprocurement/eprocurement-00007.png "oh god that is ugly")
 
 Most vendors' punchouts have a search bar where you can search by the name of the product or by the product code. Use that to find the product that you'd like to order.
 
+![search bar](/uploads/eprocurement/eprocurement-00008.png "don't lie, I know you've used a search bar before")
 
 Enter the quantity that you'd like to order and press add to cart. If you've ever shopped for anything online, this should conjure up fond memories.
 
+![adding item to cart](/uploads/eprocurement/eprocurement-00009.png "if these are the kinds of things you normally buy online, you should get a hobby.")
+
 Go to your shopping cart. This will have a summary of all the stuff you've added to the cart so far. Check to make sure it's all correct, and then press **Return to punchout application** or **Submit** or something that seems like it will do that. They're all slightly different.
 
+![send back to eprocurement](/uploads/eprocurement/eprocurement-00011.png "navigation nightmare")
+
 This will bring you back to a very ugly page with yet another summary of your order. Press **CHECKOUT** at the bottom.
+
+![ecatalog confirmation](/uploads/eprocurement/eprocurement-00012.png "why do we even need this page? also, still ugly.")
 
 This will bring you back into the normal eProcurement page. From here on out, it will be exactly the same as submitting a [regular requisition](/eprocurement#regular-requisition), except that all the product-related information will be pre-filled. 
 
@@ -77,10 +98,14 @@ Just enter the information as it appears on the quote. On the second page (where
 ## Ship to a different location
 If you'd like to enter a different address than the lab address, type **SEE** in the **Ship-To Search** box on the first page of the requistion form. Enter the alternate address in the **Comment to Supplier** field after selecting a supplier.
 
+![ship to different location](/uploads/eprocurement/eprocurement-00004.png "when she's not tussling with Ganon over the fate of Hyrule, Princess Zelda enjoys biology research.")
+
 ## Supplier not in eProcurement
 If the supplier is not in eProcurement but you know that they accept purchase orders, you can request to add them to eProcurement.
 
 Search for "new supplier" in the **Supplier Search** box and select the only result that appears. Enter the supplier's information as prompted in the **Comment to Supplier** field.
+
+![new supplier](/uploads/eprocurement/eprocurement-00005.png "methinks the Comment to Supplier box is getting really old")
 
 ## Supplier doesn't accept purchase orders
 If the supplier doesn't accept purchase orders, you'll need to contact one of the Peds Endo [administrative assistants](/admin-asst) and ask to use the P-card to buy it. The administrative assistants will work with you to get the purchase approved and put through.
