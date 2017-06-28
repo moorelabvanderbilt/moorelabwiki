@@ -3,9 +3,16 @@
 When pups are 3 weeks old, they are old enough to be **weaned** from their parents. At this point, they will be able to eat and drink on their own, and their mother will likely be ready to give birth to a new litter.
 
 # Weaning
-Get two clean cages and open them up. Get the 
+Get two clean cages and open them up. These cages are to sort the weanlings by sex.
+
+Get the breeding cage to be weaned and open it up. Remove the weanlings from the breeding cage one by one, placing the males in one of the clean cages and females in the other (see [sexing mice](/mouses/sexing) if you need help telling the sexes apart). 
+
 
 # Special situations
+## Sterile housing
+Sometimes, DAC will leave some sterile cages on the no-water rack. If they do, you can use those for NOD.RAG-/- weanings, but if not, just use the normal clean cages.
+
+Technically, the normal clean supply cages are not completely sterile, but for NOD.RAG-/- mice, the normal cages will suffice until the next cage change. 
 ## The pups are too small
 Occasionally, pups will not develop sufficiently in only 3 weeks. This is more likely if their litter was especially large or if the mother was inattentive (e.g. she was hyperglycemic), but it can just happen randomly as well. In this case, it's best to give the pups a little while longer with their mother.
 
