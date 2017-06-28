@@ -22,7 +22,7 @@ In addition to the above guidelines, for diabetic strains (e.g. NOD) the mothers
 ## When a mother is incapacitated
 If a mother can no longer care for a litter (e.g. she has died, she has become hyperglycemic), the pups need to be fostered. This means moving the pups to a healthier mother's cage. 
 
-This works best if the foster mother has pups of her own that are around the same age as the foster pups. It's obviously easiest if you can find a suitable mother of the same strain, but if you can't, then transfer them to a different-colored foster mother so you can tell the pups apart when you wean them.
+This works best if the foster mother has pups of her own that are around the same age as the foster pups. It's obviously easiest if you can find a suitable mother of the same genotype, but if you can't, then transfer them to a different-colored foster mother so you can tell the pups apart when you wean them.
 
 Carefully transfer the pups to the cage with the foster mother. Pick up some bedding from the cage with the foster mother and lightly cover the fostered pups with the bedding. This helps assimilate these pups to the odor of the new cage and aids in a successful adoption. Again, mice can be territorial, so the correct odor can keep the fostered pups from being killed by the foster parents. If these pups are especially important, remove the male breeder from the cage as the males are more likely to kill to protect territory. However, changing their odor with the bedding is enough to keep them safe in most instances.
 # True-breeding mice
