@@ -88,6 +88,8 @@ These are used by the vets only. They use these to indicate a confirmed health p
 ## Sterile housing sticker
 These are the pink stickers that say **STERILE HOUSING** on them.
 
+![sterile housing sticker](/uploads/cage-cards/cage-cards-00008.jpg "sterile housing sticker")
+
 Use these to indicate cages with mice that should be housed in sterile cages, given sterile food, and supplied water via a bottle rather than through the Lix-it.
 
 ## Do not feed/water card
