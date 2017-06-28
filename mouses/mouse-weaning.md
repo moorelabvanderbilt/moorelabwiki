@@ -3,6 +3,7 @@
 When pups are 3 weeks old, they are old enough to be **weaned** from their parents. At this point, they will be able to eat and drink on their own, and their mother will likely be ready to give birth to a new litter.
 
 # Weaning
+Get two clean cages and open them up. Get the 
 
 # Special situations
 ## The pups are too small
@@ -14,4 +15,4 @@ Often, DAC will notice these cases and place an orange health concern card on th
 
 If DAC has not noticed the pups' size, but you think that the pups are too small to wean, place a light-orange health alert card on the cage, indicating that the pups are too small, and place the Alert magnet on the front of the room door. A vet tech will stop by the room to check the pups status and replace the health alert card with a health concern card.
 
-Note that the presence of an overcrowd card is not indicative of the pups' readiness to be weaned. Overcrowd cards are typically placed by the animal care tech, not by a vet tech, so they do not reliably assess the maturity of the pups when they place overcrowd cards. If you think pups are too small even if there is an overcrowd card on the cage, put a health alert card so the vet can come to confirm the pups' maturity.
+Note that the presence of an overcrowd card is not indicative of the pups' readiness to be weaned. Overcrowd cards are typically placed by the animal care tech, not by a vet tech, so they do not reliably assess the maturity of the pups when they place overcrowd cards. If you think pups are too small, even if there is an overcrowd card on the cage, put a health alert card so the vet can come to confirm the pups' maturity.
