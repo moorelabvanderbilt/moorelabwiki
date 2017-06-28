@@ -7,7 +7,7 @@ The cage card system and the different cards and stickers provided to indicate s
 
 See [cage cards](/mouses/cage-cards).
 ## Mouse breeding
-The basic procedures involved in breeding adults and weaning young mice.
+The basic procedures involved in breeding adults to produce new mice.
 
 See [mouse breeding](/mouses/mouse-breeding).
 
