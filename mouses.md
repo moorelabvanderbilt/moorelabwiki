@@ -28,7 +28,10 @@ See [genotyping](/mouses/genotyping).
 A listing of strains of mice that we commonly encounter, along with any applicable genotypes and phenotypes.
 
 See [mouse strains](/mouses/mouse-strains).
+## Telling the sexes apart
+How to figure out if a mouse is a male or female.
 
+See [sexing mice](/mouses/sexing).
 # Mouse recordkeeping
 ## Main spreadsheets
 Using the **Mouse Colony** and the **Mouse Usage** spreadsheets.
