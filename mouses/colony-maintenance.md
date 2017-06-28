@@ -14,7 +14,7 @@ NOD mice are less productive, but still pretty reliable. This stops when they de
 ### Buying
 Since breeding these strains often can't keep up with the demand for them in experiments, it's a good idea to check with people in the lab on a regular basis to see if they'll need any large amounts of B6 or NOD mice for upcoming experiments.
 
-Even if no one knows they'll need some, if we are very low on 6-10 week old mice of either of these strains, I like to go ahead and purchase 2-3 cages of mice, just to be sure that we will have some if someone thinks of a last-minute experiment that they want to do. Grad students tend to be poor planners.
+If we are very low on 6-10 week old mice of either of these strains (even if no one knows they'll need some), I like to go ahead and purchase 2-3 cages of mice, just to be sure that we will have them if someone thinks of a last-minute experiment that they want to do. Grad students tend to be poor planners.
 
 ### Sacking
 Generally, you can sack any B6 and NOD mice that are over 25 weeks of age, unless they are being kept for a specific purpose. 
