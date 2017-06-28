@@ -25,7 +25,7 @@ The number of breeding cages to keep around depends on how well that strain bree
 
 Generally, 2-6 breeding cages is enough for most strains.
 
-NOD.uMT mice are not very productive breeders, so you may have to set up more breeding cages of these to produce enough mice.
+NOD.uMT mice are not very productive breeders, and many do not breed at all, so you may have to set up more breeding cages of these to produce enough mice.
 
 NOD.RAG-/- are very productive breeders and often have large litters, so you may not need to set up as many of these to produce enough mice.
 
