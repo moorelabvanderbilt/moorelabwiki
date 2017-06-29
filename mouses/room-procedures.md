@@ -4,13 +4,19 @@
 
 This page is a set of guides on how to do various random stuff in the mouse room.
 
+# Water restriction
+### Lix-it
+The Lix-it is a small metal stopper that can be placed on individual slots in the racks to prevent the cage in that slot from accessing the water coming in from the wall. If a Lix-it is placed on a cage's water source, the cage *must* have a water bottle in it, since otherwise the mice will die of thirst.
+
+### No-water rack
+One of the racks in 7216E
 # Clean supplies (cages, bottles, etc.)
 Clean supplies are found in a room at the very end of the floor, furthest from the elevators. It's hard to miss, because it says **CLEAN SUPPLIES** on the door.
 
 Get cages, bottles, and cage card holders from this room if the ones in our room/suite run out.
 
 # Dirty cages
-Dirty cages should not be left in a mouse room. If the suite does not have a dirty cage cart, carry the dirty cages to the end of the hallway, to the left of the clean supplies room. There should be a large cage cart where you can place dirty cages.
+Dirty cages should not be left in a mouse room. If the suite does not have a dirty cage cart, carry the dirty cages to the end of the hallway, to the left of the clean supplies room. There is a large cage cart where you can place dirty cages.
 
 # Room levels/Moving between rooms
 The rooms are numbered according to their level of cleanliness. The lower the number, the more sterile the room is.
