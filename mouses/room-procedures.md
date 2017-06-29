@@ -56,3 +56,8 @@ Place the bagged mice in the freezer in the large biohazard bin.
 Sentinel cages are found on every rack, usually in the bottom right corner. They exist only for DAC and should not be disturbed by lab personnel.
 
 DAC uses these cages to check for the presence of any pathogenic outbreak in the room. DAC regularly takes a small amount of bedding from each cage on the rack and puts it into that rack's sentinel cage. If any of the mice on the rack have contracted some pathogen, the mice in the sentinel cage should get it as well.
+
+# Disposing of mouse carcasses from lab
+Remove the carcasses from the freezer in lab and place them in a large biohazard bag. Close the bag with tape. 
+
+Load the bag on a cart and push it to the mouse room elevators, but go to the 8th floor. Inside the mouse area on this floor, take the bag into the first door on the right. At the back of this room, there is a walk-in freezer. In this freezer are large bins that you can place the bag in.
