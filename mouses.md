@@ -43,6 +43,11 @@ Using the **Mouse Colony** and the **Mouse Usage** spreadsheets.
 
 See [mouse spreadsheets](/mouses/spreadsheets).
 
+## Surgery and drug logs
+Guidelines on keeping appropriate logs of mouse surgeries and controlled substance usage.
+
+See [mouse surgeries](/mouses/surgeries) and [controlled substances](/controlled-substances).
+
 ## Diabetes tracking
 Tracking the incidence of diabetes in our NOD colony and using the **Mouse Diabetes** spreadsheet with the Prism stats file.
 
