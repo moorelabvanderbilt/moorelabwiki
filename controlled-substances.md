@@ -20,7 +20,7 @@ We have two lockboxes, one for fresh drugs, and the other for drugs that are exp
 
 All drugs and drug mixtures - anything that will be used in survival procedures - must have the correct expiration date clearly marked on the outside of the container. Drugs in their original containers will have this marked on their label. See below for considerations for drug mixtures.
 
-## Drug mixtures
+### Drug mixtures
 Drug mixtures (e.g. ketamine + saline) must have a label clearly indicating what drugs are mixed and the accurate expiration date of the mixture.
 
 The expiration date of a drug mixture is the earliest expiration date between the two. For example, if the ketamine expires on 28 Feb 2019 and the saline expires on 30 Nov 2018, the expiration date of the mixture is 30 Nov 2018.
