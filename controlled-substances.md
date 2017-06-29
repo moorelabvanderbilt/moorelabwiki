@@ -24,7 +24,7 @@ All drugs and drug mixtures - anything that will be used in survival procedures 
 Drug mixtures (e.g. ketamine + saline) must have a label clearly indicating what drugs are mixed and the accurate expiration date of the mixture.
 
 The expiration date of a drug mixture is the earliest expiration date between the two. For example, if the ketamine expires on 28 Feb 2019 and the saline expires on 30 Nov 2018, the expiration date of the mixture is 30 Nov 2018.
-# Usage
+# Recordkeeping
 Whenever you use a controlled substance, you must record how much you use on the Controlled Substance Usage Log corresponding to that vial.
 
 Each vial of pure ketamine and for each vial of ketamine/saline mixture should have its own log. Here is an example of a log:
