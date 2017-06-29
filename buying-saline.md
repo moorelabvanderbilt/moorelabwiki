@@ -11,10 +11,11 @@ This is a guide on how to purchase specifically saline, but I suppose if you wan
 
 For reference, this is what we're trying to buy:
 
+![saline bottle](/uploads/buying-saline/saline-00002.jpg "wee bottle of saline")
 
 And it comes in packs like this:
 
-
+![pack of saline](/uploads/buying-saline/saline-00001.jpg "pallet of salines")
 # Submitting the order
 To begin, you'll need to download this form:
 
@@ -33,7 +34,12 @@ You should recieve an email when your order is ready to pick up. For saline, thi
 # Going to the pharmacy
 Go out of the lab and take the elevators down to the 1st floor.
 
+![view from elevators](/uploads/buying-saline/saline-00005-a.jpg "the spectacular view from the elevators")
+![to main hospital](/uploads/buying-saline/saline-00006-a.jpg "round the bend")
+
 Go around the bend into the 1st floor of the main hospital. 
+
+![go to main hallway](/uploads/buying-saline/saline-00007-a.jpg "tunneling into main hallway")
 
 Make a right into the main hallway.
 
@@ -47,6 +53,10 @@ Go to the end of the hallway and turn left (this should be the only way you can 
 
 Go about halfway down this hallway until you reach B-127.
 
+![last hallway](/uploads/buying-saline/saline-00004-a.jpg "last hallway, I promise")
+
 Use the phone on the wall there to tell the people inside that you're there to pick up an order.  
 You may have to sign something indicating that you've picked it up, but that should be it. 
+
+![pharmacy door](/uploads/buying-saline/saline-00003-a.jpg "a very secure door")
 
