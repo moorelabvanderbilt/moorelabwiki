@@ -35,6 +35,21 @@ Currently, our level 4 room is technically level 4-C, which is the lowest level 
 
 Because of the possibility of parvovirus, which is non-allowed in either level 4 or 5 rooms, you should not move between the two rooms in either direction in a single day.
 
+# Sacking mice in procedure room
+Most of the time, placing a Sac card on the cage is sufficient. However, if there are mice in the cage that are currently a health concern (the vet has placed an orange health concern card on the cage), it is not permissible to place a Sac card on the cage. You have to sac the mice yourself.
+
+All suites of the mouse room have an associated procedure room. This room contains a CO<sub>2</sub> dispenser that is used to sac mice. 
+
+Remove the lid of the cage that you'd like to sac. Place the metal dispenser lid on top of the cage, ensuring the two holes in the lid are unobstructed.
+
+Turn on the CO<sub>2</sub> valve and flip the switch on the side of the the dispenser to the on position. Change the dial to 2.
+
+When the light on the dispenser turns green, press the red button to start the gas flow. Adjust the regulator as shown on the sign on the wall.
+
+
+
+There are instructions in the room for the use of the CO<sub>2</sub> dispenser as well.
+
 # Sentinel cages
 Sentinel cages are found on every rack, usually in the bottom right corner. They exist only for DAC and should not be disturbed by lab personnel.
 
