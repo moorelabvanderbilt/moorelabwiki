@@ -19,6 +19,11 @@ See [mouse weaning](/mouses/mouse-weaning).
 Considerations for maintaining the amount of mice we need without breaking the bank.
 
 See [colony maintenance](/mouses/colony-maintenance).
+
+## Misc. mouse room procedure
+Guides on how to do other random stuff in the mouse room.
+
+See [mouse room procedures](/mouses/room-procedures).
 # Kinds of mice
 ## Mouse genotyping
 The protocols and recordkeeping involved in determining the genotype of transgenic mice.
