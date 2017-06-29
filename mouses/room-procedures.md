@@ -46,9 +46,11 @@ Turn on the CO<sub>2</sub> valve and flip the switch on the side of the the disp
 
 When the light on the dispenser turns green, press the red button to start the gas flow. Adjust the regulator as shown on the sign on the wall.
 
+Wait until the machine stops dispensing gas (5 min). Turn off the machine and the CO<sub>2</sub> valve.
 
+Remove the metal dispenser lid from the cage. Remove the mice from the cage and perform cervical dislocation to confirm death, then place them in a biohazard bag (found in one of the drawers).
 
-There are instructions in the room for the use of the CO<sub>2</sub> dispenser as well.
+Place the bagged mice in the freezer in the large biohazard bin.
 
 # Sentinel cages
 Sentinel cages are found on every rack, usually in the bottom right corner. They exist only for DAC and should not be disturbed by lab personnel.
