@@ -51,6 +51,8 @@ Turn right past the elevators, then turn left into a hallway.
 
 Go to the end of the hallway and turn left (this should be the only way you can go).
 
+![second to last hallway](/uploads/buying-saline/saline-00008-a.jpg "almost going in circles")
+
 Go about halfway down this hallway until you reach B-127.
 
 ![last hallway](/uploads/buying-saline/saline-00004-a.jpg "last hallway, I promise")
