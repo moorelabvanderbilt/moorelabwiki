@@ -41,7 +41,7 @@ There is a Google Drive spreadsheet, **Rodent Procedure Record** in the Mouse Re
 ### Drugs and materials
 Any drugs and materials used in a survival procedure **MUST NOT** be expired. Anything that has an expiration date on it that has passed cannot be used in survival procedures.
 
-If you have something that is expired that would still be viable for non-survival procedures must be clearly labeled **FOR NON-SURVIVAL ONLY** to avoid it accidentally being used in a survival procedure.
+If you have something that is expired that would still be viable for non-survival procedures must be clearly labeled "**FOR NON-SURVIVAL ONLY**" to avoid it accidentally being used in a survival procedure.
 
 ### Sterility
 
