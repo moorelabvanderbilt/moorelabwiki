@@ -5,13 +5,15 @@
 This page is a set of guides on how to do various random stuff in the mouse room.
 
 # Water restriction
-### Lix-it
-The Lix-it is a small metal stopper that can be placed on individual slots in the racks to prevent the cage in that slot from accessing the water coming in from the wall. If a Lix-it is placed on a cage's water source, the cage *must* have a water bottle in it, since otherwise the mice will die of thirst.
+### Lix-it stopper
+The Lix-it is the metal tube at the back of the slots in the racks. Mice can lick this metal tube to get water, which is supplied via plumbing to the rack. 
+
+The Lix-it stopper is a small metal stopper that can be placed on individual Lix-its to prevent the cage in that slot from accessing the water coming in from the wall. If a Lix-it stopper is placed on a cage's water source, the cage *must* have a water bottle in it, since otherwise the mice will die of thirst.
 
 ### No-water rack
 One of the racks in 7216E is completely disconnected from the water system. It is labeled as such on a small card on the top-center of the rack.
 
-We use this rack for our NOD.RAG-/- mice, to prevent us from having to put a Lix-it on every slot that has a NOD.RAG-/- cage. Again, all cages that go on this rack *must* have a water bottle in them.
+We use this rack for our NOD.RAG-/- mice, to prevent us from having to put a Lix-it stopper on every slot that has a NOD.RAG-/- cage. Again, all cages that go on this rack *must* have a water bottle in them.
 # Clean supplies (cages, bottles, etc.)
 Clean supplies are found in a room at the very end of the floor, furthest from the elevators. It's hard to miss, because it says **CLEAN SUPPLIES** on the door.
 
