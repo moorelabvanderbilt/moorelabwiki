@@ -4,7 +4,7 @@
 
 AALAC inspects labs at Vanderbilt about once every 3 years, so the semi-annual inspections are to keep labs ready for the AALAC inspection.
 
-> For a more complete list of standard operating procedures surrounding animal welfare, see the appropriate documents in [the SOP section of IACUC's website](https://www.vanderbilt.edu/acup/iacuc/policies/sops/).
+> For a complete list of standard operating procedures surrounding animal welfare, see the appropriate documents in [the SOP section of IACUC's website](https://www.vanderbilt.edu/acup/iacuc/policies/sops/).
 
 They're going to be making sure that we are following all regulations and documentation for [animal procedures](/mouses/procedures) and [drug usage](/controlled-substances).
 
