@@ -22,6 +22,7 @@ When writing a cage card, we usually include the following information:
 
 Here's a typical cage card:
 
+![cage card](/uploads/cage-cards/cage-cards-00009.jpg "a normal cage card")
 
 ### Activating cage cards
 You'll notice in the above picture the barcode tabs on the top and bottom of the card. 
