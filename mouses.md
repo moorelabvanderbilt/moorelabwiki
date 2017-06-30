@@ -54,7 +54,7 @@ Guidelines on keeping appropriate logs of mouse surgeries and controlled substan
 See [mouse surgeries](/mouses/surgeries) and [controlled substances](/controlled-substances).
 
 ## Mouse inspection
-Guidelines on how to keep the lab and mouse room compliant with AALAC rules.
+What to expect when they're inspecting.
 
 See [mouse inspection](/mouses/inspection).
 
