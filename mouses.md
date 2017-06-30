@@ -51,7 +51,7 @@ See [mouse ordering](/mouses/mouse-ordering).
 ## Surgery and drug logs
 Guidelines on keeping appropriate logs of mouse surgeries and controlled substance usage.
 
-See [mouse surgeries](/mouses/surgeries) and [controlled substances](/controlled-substances).
+See [mouse surgeries](/mouses/procedures) and [controlled substances](/controlled-substances).
 
 ## Mouse inspection
 What to expect when they're inspecting.
