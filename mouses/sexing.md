@@ -5,12 +5,18 @@
 # Females
 Female mice are identifiable by the vagina and presence of nipples. 
 
+![female adult](/uploads/sexing/sexing-00001-a.jpeg "female adult")
+![female weanling](/uploads/sexing/sexing-00002-a.jpeg "female weanling")
+
 The vagina is very close to the anus, with little to no hair in between the two. It also protrudes less from the body than the male's penis does.
 
 Female mice have nipples, where male mice do not. They are easiest to see on mice with dark-colored fur.
 
 # Males
 Male mice are identifiable by the penis, testicles, and absence of nipples.
+
+![male adult](/uploads/sexing/sexing-00003-a.jpeg "male adult")
+![male weanling](/uploads/sexing/sexing-00004-a.jpeg "male weanling")
 
 The penis is spaced further away from the anus, with a small strip of hair between the two. It protrudes visibly from the body.
 
