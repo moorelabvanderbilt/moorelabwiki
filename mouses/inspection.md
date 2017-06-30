@@ -75,8 +75,24 @@ Immediately after surgery, the mouse should be placed in a cage with an isotherm
 
 In addition to the pre-surgical analgesic, mice should be given a dose at 24 and 48 hours after surgery (5-10 mg/kg ketoprofen). Mice typically recover quickly and exhibit no pain symptoms after this time, so the analgesic can be discontinued. However, if the mouse shows continued signs of post-operative pain at 72 hours, another dose of analgesic can be given.
 
-## Documentation
-
 ## Drug storage
+See [controlled substances](/controlled-substances) for more information.
+
+Drugs should be stored behind two locking mechanisms. We store ours in a locked box in a locked drawer. 
+
+Drugs should be clearly labeled as to what they are and the accurate expiration date.
+
+Drug usage should be recorded accurately.
 
 # What to expect when they're inspecting
+Generally, 2-3 people from DAC will arrive at around 9-10 am to perform the inspection.
+
+They will definitely want to see the following:
+
+* Surgical area
+* Surgery logs
+* Drug box
+* Drug logs
+* Sacrifice jar
+
+They will also ask questions about different animal procedures, and they will check for any drugs or materials that are expired.
