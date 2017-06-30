@@ -17,6 +17,8 @@ Add a water bottle to each cage. Young mice sometimes have trouble acclimating t
 
 Add food to the cage.
 
+![food and water in cage](/uploads/weaning/weaning-00002.jpg "be sure to flip the divider up before putting the food in!")
+
 Fill out cage cards for the weanlings' cages. Since these are new mice being added to the colony, you'll need to write the number of mice on the activation tab on the bottom of the card before tearing it off.
 
 Place the weanlings' cages on the racks.
