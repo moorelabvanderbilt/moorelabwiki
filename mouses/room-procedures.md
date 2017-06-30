@@ -5,8 +5,14 @@
 This page is a set of guides on how to do various random stuff in the mouse room.
 
 # Water restriction
-### Lix-it stopper
+### Lix-it
 The Lix-it is the metal tube at the back of the slots in the racks. Mice can lick this metal tube to get water, which is supplied via plumbing to the rack. 
+
+If the Lix-it begins to leak, the cage attached in that slot can flood. Remove the cage from that slot and place it elsewhere. If the cage has flooded, move the mice to a new cage and place a bunch of paper towels in the cage so they can dry off more easily. Place a paper towel under the leaky Lix-it to prevent water from leaking onto the floor. This also serves to notify DAC that the Lix-it at that location is leaking, so they can replace it.
+
+![lix-it with paper towel](/uploads/misc-procedures/misc-procedures-00001.jpg "a leaky Lix-it is no fun for you or the mice")
+
+### Lix-it stopper
 
 The Lix-it stopper is a small metal stopper that can be placed on individual Lix-its to prevent the cage in that slot from accessing the water coming in from the wall. If a Lix-it stopper is placed on a cage's water source, the cage *must* have a water bottle in it, since otherwise the mice will die of thirst.
 
@@ -56,6 +62,8 @@ Place the bagged mice in the freezer in the large biohazard bin.
 
 # Sentinel cages
 Sentinel cages are found on every rack, usually in the bottom right corner. They exist only for DAC and should not be disturbed by lab personnel.
+
+![sentinel cage](/uploads/misc-procedures/misc-procedures-00002.jpg "they are super-mice, I guess?")
 
 DAC uses these cages to check for the presence of any pathogenic outbreak in the room. DAC regularly takes a small amount of bedding from each cage on the rack and puts it into that rack's sentinel cage. If any of the mice on the rack have contracted some pathogen, the mice in the sentinel cage should get it as well.
 
