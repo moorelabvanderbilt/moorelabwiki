@@ -37,7 +37,9 @@ The inspectors will want to see these logs during mouse inspection, so keep them
 # Disposal
 To properly dispose of controlled substances, they must be solidified.
 
-We should have some Devon Solidifier in lab:
+We should have some solidifier in lab:
+
+![solidifier](/uploads/controlled-substances/controlled-substances-00001.jpg "solidifier")
 
 If we do not, you can obtain some by contacting the VEHS Animal Care Safety Officer (ACSO), which at this time is Marisa Scott.
 > Marisa Scott  
