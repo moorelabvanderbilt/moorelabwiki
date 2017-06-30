@@ -7,6 +7,8 @@ Get two clean cages and open them up. These cages are to sort the weanlings by s
 
 Get the breeding cage to be weaned and open it up. Remove the weanlings from the breeding cage one by one, placing the males in one of the clean cages and females in the other (see [sexing mice](/mouses/sexing) if you need help telling the sexes apart). 
 
+![example weaning setup](/uploads/weaning/weaning-00001-a.jpeg "example weaning setup")
+
 Once all the weanlings are out of the breeding cage, put it back on the rack.
 
 Figure out how many of each sex you have, then how many cages you'll need to fit them all in. I like to divide the mice somewhat evenly, so if there's 6 mice I'll make 2 cages of 3 mice, not 5 and 1.
