@@ -9,8 +9,11 @@ The general workflow is as follows:
 4. The **supplier** receives the order and ships the products to the lab.
 
 On average, it takes about 2 days from the time you submit the requisition to the time the supplier receives the order, so keep that in mind when you need a product to be shipped. It's usually better to get orders in as soon as you know about them. However, if you need something approved right away or you feel like they're taking too long, feel free to email the approver to remind them to check on requisitions awaiting their approval.
+
+For commonly ordered items, see [Common Lab Supplies](/common-supplies).
 # Regular requisition
-For some suppliers, you'll need to go through the [eCatalog system](/eprocurement#ecatalog-requisition) to order items (see [Common Supplies](/common-supplies) for more information).  
+For some suppliers, you'll need to go through the [eCatalog system](/eprocurement#ecatalog-requisition) to order items.
+
 For all other suppliers, you'll submit a regular requisition.
 
 On the top menu bar of the eProcurement home screen, click on **Requisition**. This will create a new blank requisition.
