@@ -54,7 +54,7 @@ Falcon 50mL Conical Centrifuge Tubes | Fisher | 14-432-22
 15mL Centrifuge Tubes, Bulk, 10 Bags of 50, 500/Unit | Genesee | 21-103
 Falcon 15mL Conical Centrifuge Tubes | Fisher | 14-959-49B
 
-**PCR tubes**
+**PCR tubes**  
 I like the individually capped tubes for tail collection (from USA Scientific, regular requisition), and the cap strip tubes for actually running PCR (from Fisher).
 
 Description | Supplier | Code
