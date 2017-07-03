@@ -33,7 +33,7 @@ Each vial of pure ketamine and for each vial of ketamine/saline mixture should h
 
 For ease of sharing amongst the lab members and to save the beautiful trees of the earth, I've been keeping our logs as spreadsheets in Google Drive. You should have access to these files, so you can just copy one and change the information as needed for new vials.
 
-The inspectors will want to see these logs during mouse inspection, so keep them up to date and accurate.
+The inspectors will want to see these logs during [mouse inspection](/mouses/inspection), so keep them up to date and accurate.
 # Disposal
 To properly dispose of controlled substances, they must be solidified.
 
