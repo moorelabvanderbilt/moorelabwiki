@@ -8,5 +8,6 @@ The Available tab shows the mice that we have in our colony that are not current
 
 The columns are as follows:
 
-* **(blank)**: this first column is just a empty column that I use during the census. 
-* **
+* **(blank)**: this first column is just a empty column that I use during the census. Normally, this column is blank, and I'll mark a cage as present, so I can delete all the ones that were unaccounted for.
+* **Strain**: this column contains the strain/genotype of the mouse.
+* **Cage #**: this column 
