@@ -9,7 +9,7 @@ First, you'll need to find a Fedex US Airbill label. These labels are usually at
 
 The most convenient one is just inside the main entrance to MCN. It's a large orange, purple, and white metal box, and is often half-buried in shipments waiting for pickup. Open the top door to find a bunch of slots where different Fedex forms are stored. 
 
-If there are none there, there is another 
+If there are none there, there is another Fedex dropoff location in 
 
 
 
