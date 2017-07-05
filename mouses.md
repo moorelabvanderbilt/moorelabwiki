@@ -39,7 +39,7 @@ How to figure out if a mouse is a male or female.
 See [sexing mice](/mouses/sexing).
 # Mouse recordkeeping
 ## Main spreadsheets
-Using the **Mouse Colony** and the **Mouse Usage** spreadsheets.
+Using the **Mouse Colony** spreadsheets.
 
 See [mouse spreadsheets](/mouses/spreadsheets).
 
