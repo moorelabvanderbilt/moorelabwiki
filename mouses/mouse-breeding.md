@@ -38,5 +38,5 @@ For more information about genotyping, see [genotyping](/mouses/genotyping) and 
 # Matings spreadsheet
 The Matings tab of the **Mouse Colony** Google Sheet can be used to track the status of all the mating cages. 
 
-For more information about using this spreadsheet, see [Mouse Spreadsheets, Matings](/mouses/spreadsheets#mating).
+For more information about using this spreadsheet, see [Mouse Spreadsheets, Matings](/mouses/spreadsheets#matings).
 
