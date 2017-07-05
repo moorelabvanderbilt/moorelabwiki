@@ -9,7 +9,7 @@ You'll need to find the following things:
 * **Plastic sleeve for Fedex label**: a clear plastic sleeve a little larger than the Airbill.
 * **Dry ice label**: a white square sticker on a roll. If you're shipping dry ice, see below for more information.
 
-These forms are usually at the Fedex dropoff site. 
+These forms are usually at one of the Fedex dropoff sites: 
 
 * The most convenient one is just inside the main entrance to MCN. It's a large orange, purple, and white metal box, and is often half-buried in shipments waiting for pickup. Open the top door to find a bunch of slots where different Fedex forms are stored. 
 
