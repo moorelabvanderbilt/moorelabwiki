@@ -3,9 +3,7 @@
 Occasionally, you'll have to send a package. 
 
 # Regular package
-### Preparing the package
-
-First, you'll need to find the following things:
+You'll need to find the following things:
 
 * **Fedex US Airbill**: a shipping label. It says US Airbill on the top and is a 3-page carbon copy.
 * **Plastic sleeve for Fedex label**: a clear plastic sleeve a little larger than the Airbill.
