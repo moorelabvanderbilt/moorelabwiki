@@ -25,7 +25,9 @@ If you are shipping dry ice, the "Dangerous goods" section needs to be filled ou
 
 When you've completed the form, tear off the top carbon copy and keep for your records.
 
+Remove the backer from the plastic sleeve, and stick it to the box. Place the Airbill label inside the box.
 
+Leave the package at one of the Fedex dropoff locations. The Fedex person picks up the packages around 4-5pm, so drop it off before then if you want it to go out the same day.
 
 # Dry ice
 On the Fedex US Airbill form, under "Does this shipment contain dangerous goods?", mark "Yes. Shipper's Declaration not required." Also mark in the box for "Dry Ice", and you'll fill in the weight after you add the dry ice to the box.
