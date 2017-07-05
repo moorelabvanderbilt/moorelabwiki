@@ -11,9 +11,9 @@ You'll need to find the following things:
 
 These forms are usually at the Fedex dropoff site. 
 
-The most convenient one is just inside the main entrance to MCN. It's a large orange, purple, and white metal box, and is often half-buried in shipments waiting for pickup. Open the top door to find a bunch of slots where different Fedex forms are stored. 
+* The most convenient one is just inside the main entrance to MCN. It's a large orange, purple, and white metal box, and is often half-buried in shipments waiting for pickup. Open the top door to find a bunch of slots where different Fedex forms are stored. 
 
-If there are none there, there is another Fedex dropoff location in Robinson Research Building, room 574.
+* There is another Fedex dropoff location in Robinson Research Building, room 574.
 
 The office at the end of the 7th floor may have some as well, and if you really can't find any, then Peds Endo administrative assistants might have some.
 
