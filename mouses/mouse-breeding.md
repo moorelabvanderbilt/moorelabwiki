@@ -38,27 +38,5 @@ For more information about genotyping, see [genotyping](/mouses/genotyping) and 
 # Matings spreadsheet
 The Matings tab of the **Mouse Colony** Google Sheet can be used to track the status of all the mating cages. 
 
-It has several columns:
-* **Expected offspring**: the offspring you expect to get from this mating.
-  *  For true-breeding mice, this is just the same strain as the parents.
-  *  For non-true-breeding mice, this is the strain that you are aiming to get from the mating.
-* **Cage #**: the number on the cage card.
-* **DOB**: if this cage currently has pups, the day that they were born.
-* **DOW**: if this cage currently has pups, the day they will be old enough to wean.
-  * This cell will turn orange when the current date is equal to or later than the wean date.
-* **# pups**: if this cage currently has pups, the number of pups in the cage.
-* **Comments**: any misc. comments you'd like to note about this cage.
-* **Date Paired**: the date that these mice were put together into as a mating cage.
-* **Last Wean**: the date that mice were last weaned from this cage.
-* **F**: the number of female breeders in this cage. Usually this is 1.
-* **M**: the number of male breeders in this cage. Usually this is 1.	
-* **Strain F**: the strain of the female breeder in this cage.	
-* **DOB F**: the date of birth of the female breeder in this cage.	
-* **Strain M**: the strain of the male breeder in this cage.
-* **DOB M**: the date of birth of the male breeder in this cage.
-* **Days since event**: this field is auto-calculated to be the number of days since the last wean from this cage (or if no weanings, from the date paired).
-  * This field calculates using the **Last Wean** field and the **Date Paired** field.
-  * This cell will turn red if it has been 60 days or more since the last wean.
-* **Too old?**: this field is auto-calculated to be the number of days until any of the breeders in this cage are 9 months old.
-  * This field calculates using the **DOB F** and the **DOB M** field.
-  * This cell will turn red if either of the breeders in this cage is 9 months old or older.
+For more information about using this spreadsheet, see [Mouse Spreadsheets, Matings](/mouses/spreadsheets#mating).
+
