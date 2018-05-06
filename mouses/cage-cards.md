@@ -1,6 +1,4 @@
-# cage-cards
-
-## Cage cards
+# Cage cards
 
 These cards uniquely identify the cage and other associated information.
 
@@ -16,13 +14,13 @@ We use the cage cards to identify the mice in that cage.
 
 When writing a cage card, we usually include the following information:
 
-* **Strain**: the strain of the mice.
-  * This is the most important. Many of our strains of mice look exactly the same physically, so it is important to mark the strain of mouse on the cage card so different strains do not get mixed up accidentally.
-* **Age**: the age of the mice.
-  * We often keep mice born on the same or similar days in the same cage, so this age applies to all the mice in the cage.
-  * This could be left blank if the ages are different, not important, or identified via another method \(i.e. ear tag\).
-* **Sex**: the sex of the mice.
-* **Number of mice**: this is what those boxes mean. For ease of census-taking, we mark usage of mice in the cage by putting an X in a box when we remove a mouse. The number of open boxes is how many mice remain in the cage.
+- **Strain**: the strain of the mice.
+  - This is the most important. Many of our strains of mice look exactly the same physically, so it is important to mark the strain of mouse on the cage card so different strains do not get mixed up accidentally.
+- **Age**: the age of the mice.
+  - We often keep mice born on the same or similar days in the same cage, so this age applies to all the mice in the cage.
+  - This could be left blank if the ages are different, not important, or identified via another method \(i.e. ear tag\).
+- **Sex**: the sex of the mice.
+- **Number of mice**: this is what those boxes mean. For ease of census-taking, we mark usage of mice in the cage by putting an X in a box when we remove a mouse. The number of open boxes is how many mice remain in the cage.
 
 Here's a typical cage card:
 
@@ -88,7 +86,7 @@ These are the light orange, laminated cards.
 
 You can use these to indicate to the veterinarians that a cage contains one or more mice with some health concern. Fill out the card, place it in the card holder, and then take the **Alert** magnet off the back of the door to the room and place it on the outside of the door so they can tell that they need to visit the room and check those mice.
 
-Often this card is used to request a weaning extension for weanlings that are old enough to wean but look too small to survive on their own. See [mouse breeding](https://github.com/moorelabvanderbilt/moorelabwiki/tree/98d9c43e779d8205afd02a9948443bf49c9a4a16/mouses/mouse-breeding/README.md) for more details.
+Often this card is used to request a weaning extension for weanlings that are old enough to wean but look too small to survive on their own. See [mouse breeding](mouse-breeding.md) for more details.
 
 Animal care techs also use this card to request a veterinary inspection, so if they place one on a cage, don't remove it.
 
@@ -123,4 +121,3 @@ These are the grey cards.
 Use these to indicate miscellaneous information that doesn't belong on any other cards. DAC personnel will usually ignore these.
 
 You can also use these in a pinch if you have run out of cage cards or any other type of card.
-

@@ -1,4 +1,4 @@
-# colony-maintenance
+# Colony maintenance
 
 This page is a collection of guidelines on how to keep the colony maintained by buying and breeding mice, and keeping it to a manageable level by sacking unnecessary mice.
 
@@ -10,9 +10,9 @@ For the main strains of mice that we use, B6 and NOD, we need to both breed and 
 
 I try to keep around 14 breeding cages each of these strains active at all times.
 
-B6 mice are consistently productive when breeding, and often continue to produce pups even as the parents get old. I still replace them at around 9 months of age \(as outlined in [mouse breeding](https://github.com/moorelabvanderbilt/moorelabwiki/tree/98d9c43e779d8205afd02a9948443bf49c9a4a16/mouses/mouse-breeding/README.md)\).
+B6 mice are consistently productive when breeding, and often continue to produce pups even as the parents get old. I still replace them at around 9 months of age \(as outlined in [mouse breeding](mouse-breeding.md)\).
 
-NOD mice are less productive, but still pretty reliable. This stops when they develop hyperglycemia, however, so the females should be checked regularly and any with hyperglycemia should be retired from breeding. If they still have pups when they develop hyperglycemia, they will need to be [fostered](https://github.com/moorelabvanderbilt/moorelabwiki/tree/98d9c43e779d8205afd02a9948443bf49c9a4a16/mouses/mouse-breeding/README.md#when-a-mother-is-incapacitated).
+NOD mice are less productive, but still pretty reliable. This stops when they develop hyperglycemia, however, so the females should be checked regularly and any with hyperglycemia should be retired from breeding. If they still have pups when they develop hyperglycemia, they will need to be [fostered](mouse-breeding.md#when-a-mother-is-incapacitated).
 
 ### Buying
 
@@ -38,7 +38,7 @@ NOD.RAG-/- are very productive breeders and often have large litters, so you may
 
 ### Buying
 
-Most mice you can buy if you need to \(see [strains](https://github.com/moorelabvanderbilt/moorelabwiki/tree/98d9c43e779d8205afd02a9948443bf49c9a4a16/mouses/mouse-strains/README.md) for a listing of different strains and where to get them\). However, mice vary in price between strains, so if a strain is very expensive per mouse and you're going to need many of them, it would probably be better to breed them instead \(e.g. NOD.RAG-/- mice\).
+Most mice you can buy if you need to \(see [strains](mouse-strains.md) for a listing of different strains and where to get them\). However, mice vary in price between strains, so if a strain is very expensive per mouse and you're going to need many of them, it would probably be better to breed them instead \(e.g. NOD.RAG-/- mice\).
 
 Some mice are prohibitively expensive, or need to be recovered from cryopreservation, so buying these strains should be a last resort.
 
@@ -51,4 +51,3 @@ Sometimes larger quantities of a specific strain will need to be kept for experi
 Some mice we keep only so we can maintain the genotype. We don't use these in experiments often, but they are not readily available for purchase. We'd like to keep these around, but we don't want to spend a lot of money on keeping their cages.
 
 For mice like this, you should keep at most 2 mating cages and 1 cage each of males and females. When the mating needs to be replaced, I usually replace it with 2 new mating cages. When one starts producing pups, I sack the other one, since only one is needed to maintain the lineage.
-

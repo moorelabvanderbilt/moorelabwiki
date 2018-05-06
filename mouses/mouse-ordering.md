@@ -1,4 +1,4 @@
-# mouse-ordering
+# Mouse ordering
 
 ## Detailed TOPAZ workflow
 
@@ -96,13 +96,13 @@ Now that you’ve filtered the catalog to show only a manageable subset of the m
 
 There are several columns here:
 
-* **Strain/Stock** - this indicates the full information about that strain of mouse. Usually this information will be duplicated in the other columns in a more user-friendly way, but if it’s not, you can look here for it.
-* **Gender** - the sex of the mouse.
-* **Catalog \#** - the vendor-supplied catalog number. If you found a mouse on a vendor website, there should be a number that they list the mouse strain by. That goes in this column.
-* **Age** - the age of the mouse in weeks.
-* **Cost** - the cost of each mouse in USD.
-* **Size** - not the size. This indicates the genetics of the mouse strain. The values here are typically HOM \(homozygous - two copies of the transgene\), HEMI \(hemizygous - one copy of the transgene\), or nothing \(genetics are not relevant to this strain\).
-* **Weight** - not the weight. This indicates a special condition of these mice. A common value here is RB, which means retired breeder - it is a mouse that once was a breeder. These mice are usually cheaper than their non-breeder counterparts.
+- **Strain/Stock** - this indicates the full information about that strain of mouse. Usually this information will be duplicated in the other columns in a more user-friendly way, but if it’s not, you can look here for it.
+- **Gender** - the sex of the mouse.
+- **Catalog \#** - the vendor-supplied catalog number. If you found a mouse on a vendor website, there should be a number that they list the mouse strain by. That goes in this column.
+- **Age** - the age of the mouse in weeks.
+- **Cost** - the cost of each mouse in USD.
+- **Size** - not the size. This indicates the genetics of the mouse strain. The values here are typically HOM \(homozygous - two copies of the transgene\), HEMI \(hemizygous - one copy of the transgene\), or nothing \(genetics are not relevant to this strain\).
+- **Weight** - not the weight. This indicates a special condition of these mice. A common value here is RB, which means retired breeder - it is a mouse that once was a breeder. These mice are usually cheaper than their non-breeder counterparts.
 
 This information about the columns is most specifically pertaining to Jackson Labs, since they are our most frequently used supplier. The other suppliers are similar, but may only have a single entry for each strain \(not separate entries for each age/sex available\). If that is the case, then you’ll need to indicate the age/sex in the **Order Notes** section on the main **Order Information** screen, after selecting the mouse strain.
 
@@ -180,4 +180,3 @@ You’re done! The mice have been ordered.
 You may have noticed that “Copy” button next to the “Submit” button at the top. If you have similar orders, you can copy all the input fields from an old order to a new order.
 
 After creating the new order and selecting the protocol, save the form like usual. This should activate the “Copy” button. When you press it, it will ask you if you’re sure, and then let you pick an order to copy. Once you do it, all of the values from the old order will be input into the new order. You can then go through and change individual values like usual to fit the new order.
-

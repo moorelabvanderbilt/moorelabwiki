@@ -1,4 +1,4 @@
-# room-procedures
+# Mouse room procedures
 
 _This page current as of 29 June 2017._
 
@@ -81,4 +81,3 @@ DAC uses these cages to check for the presence of any pathogenic outbreak in the
 Remove the carcasses from the freezer in lab and place them in a large biohazard bag. Close the bag with tape.
 
 Load the bag on a cart and push it to the mouse room elevators, but go to the 8th floor. Inside the mouse area on this floor, take the bag into the first door on the right. At the back of this room, there is a walk-in freezer. In this freezer are large bins that you can place the bag in.
-

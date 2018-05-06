@@ -1,4 +1,4 @@
-# mouse-strains
+# Mouse strains
 
 ## B6
 
@@ -135,7 +135,7 @@ This strain can be purchased from [Jackson, stock number 025754](https://www.jax
 
 ### Genotyping
 
-This protocol can only be used with [clean DNA](https://github.com/moorelabvanderbilt/moorelabwiki/tree/98d9c43e779d8205afd02a9948443bf49c9a4a16/mouses/genotyping/README.md) prepared using a kit like the [QIAGEN DNeasy Blood & Tissue kit](https://www.qiagen.com/us/shop/sample-technologies/dna/genomic-dna/dneasy-blood-and-tissue-kit/#orderinginformation). It will not work with DNA prepared from NaOH-digested tissue.
+This protocol can only be used with [clean DNA](genotyping.md) prepared using a kit like the [QIAGEN DNeasy Blood & Tissue kit](https://www.qiagen.com/us/shop/sample-technologies/dna/genomic-dna/dneasy-blood-and-tissue-kit/#orderinginformation). It will not work with DNA prepared from NaOH-digested tissue.
 
 This protocol is also used to genotype the SAP portion of the SAP-/- IL15-/- mice below.
 
@@ -457,7 +457,7 @@ The VH125+/- mice are produced by breeding an NOD.VH125+/- with either an NOD or
 
 ### Genotyping
 
-The genotyping protocol is the same as the the [B6.VH125+/+ protocol](https://github.com/moorelabvanderbilt/moorelabwiki/tree/98d9c43e779d8205afd02a9948443bf49c9a4a16/mouses/mouse-strains/README.md#b-6-vh-125) above.
+The genotyping protocol is the same as the the [B6.VH125+/+ protocol](mouse-strains.md#b-6-vh-125) above.
 
 ## NOD.Vk125+/+
 
@@ -473,7 +473,7 @@ The NOD.Vk125+/- mice are produced by breeding an NOD.Vk125+/+ with an NOD.
 
 ### Genotyping
 
-The genotyping protocol is the same as the the [B6.Vk125+/+ protocol](https://github.com/moorelabvanderbilt/moorelabwiki/tree/98d9c43e779d8205afd02a9948443bf49c9a4a16/mouses/mouse-strains/README.md#b-6-vk-125) above.
+The genotyping protocol is the same as the the [B6.Vk125+/+ protocol](mouse-strains.md#b-6-vk-125) above.
 
 ## NOD.VH+/+Vk+/+
 
@@ -485,7 +485,7 @@ Because of the homozygous lethal problem with the NOD.VH125+/+ mice \(noted abov
 
 ### Genotyping
 
-The genotyping protocols of both the [B6.VH125+/+ mouse](https://github.com/moorelabvanderbilt/moorelabwiki/tree/98d9c43e779d8205afd02a9948443bf49c9a4a16/mouses/mouse-strains/README.md#b-6-vh-125) and the [B6.Vk125+/+ mouse](https://github.com/moorelabvanderbilt/moorelabwiki/tree/98d9c43e779d8205afd02a9948443bf49c9a4a16/mouses/mouse-strains/README.md#b-6-vk-125) must be used to determine the genotype of this mouse.
+The genotyping protocols of both the [B6.VH125+/+ mouse](mouse-strains.md#b-6-vh-125) and the [B6.Vk125+/+ mouse](mouse-strains.md#b-6-vk-125) must be used to determine the genotype of this mouse.
 
 ## SAP-/- IL15-/-
 
@@ -503,5 +503,4 @@ They can also be produced by breeding SAP-/- mice with IL15-/- mice a few genera
 
 ### Genotyping
 
-The genotyping protocols of both the [B6.SAP-/- mouse](https://github.com/moorelabvanderbilt/moorelabwiki/tree/98d9c43e779d8205afd02a9948443bf49c9a4a16/mouses/mouse-strains/README.md#b-6-sap) and the [B6.IL15-/- mouse](https://github.com/moorelabvanderbilt/moorelabwiki/tree/98d9c43e779d8205afd02a9948443bf49c9a4a16/mouses/mouse-strains/README.md#b-6-il-15) must be used to determine the genotype of this mouse.
-
+The genotyping protocols of both the [B6.SAP-/- mouse](mouse-strains.md#b-6-sap) and the [B6.IL15-/- mouse](mouse-strains.md#b-6-il-15) must be used to determine the genotype of this mouse.

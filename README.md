@@ -6,7 +6,7 @@ Use the search bar to find something you're having trouble with, or pick from th
 
 ### Contents
 
-* Mice
+* [Mice](mouses/README.md)
   * [Colony maintenance](mouses/colony-maintenance.md)
   * [Weaning](mouses/mouse-weaning.md)
   * [Sexing](mouses/sexing.md)

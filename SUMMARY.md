@@ -1,6 +1,6 @@
 # Table of contents
 
-* Mice
+* [Mice](mouses/README.md)
   * [Colony maintenance](mouses/colony-maintenance.md)
   * [Weaning](mouses/mouse-weaning.md)
   * [Sexing](mouses/sexing.md)
