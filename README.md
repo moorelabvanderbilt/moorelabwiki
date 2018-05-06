@@ -24,7 +24,7 @@ Use the search bar to find something you're having trouble with, or pick from th
   * [eProcurement](eprocurement.md)
   * [Common supplies](common-supplies.md)
   * [Ethanol](ethanol.md)
-  * [Saline](buying-saline.md)
+  * [Saline](saline.md)
 * Equipment
   * [Autoclave](autoclave.md)
   * [-80°C freezer](minus-80.md)
