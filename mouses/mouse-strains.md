@@ -117,7 +117,7 @@ This protocol is also used to genotype the IL15 portion of the SAP-/- IL15-/- mi
 * wild-type: ~846 bp
 * IL15-/-: no band
 
-  **B6.SAP-/-**
+## B6.SAP-/-
 
   **Also known as**: B6.129S6-Sh2d1atm1Pls/J
 
@@ -235,7 +235,7 @@ This strain can be recovered from cryopreservation from [Jackson, stock number 0
 * Qa1-/-: ~510 bp
 * Qa1+/-: both bands
 
-  **B6.VH125+/+**
+## B6.VH125+/+
 
   These mice have VH125 inserted into both copies of the genome, on a B6 background.
 
