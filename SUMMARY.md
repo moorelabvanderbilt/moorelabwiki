@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Moore lab wiki](README.md)
-* [ethanol](ethanol.md)
+* [Ethanol](ethanol.md)
 * [controlled-substances](controlled-substances.md)
 * mouses
   * [colony-maintenance](mouses/colony-maintenance.md)

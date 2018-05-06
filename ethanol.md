@@ -1,4 +1,4 @@
-# ethanol
+# Ethanol
 
 ## Buying ethanol
 
