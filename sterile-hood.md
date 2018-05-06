@@ -1,4 +1,4 @@
-# sterile-hood
+# Sterile Hoods
 
 The sterile hoods, or laminar flow cabinets, are two large semi-enclosed workbenches used for working in sterile conditions.
 
@@ -17,4 +17,3 @@ Contact information:
 > Jim Llewellyn  
 > Fil Cert, Inc.  
 > \(615\) 789-6564
-

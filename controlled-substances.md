@@ -1,4 +1,4 @@
-# controlled-substances
+# Controlled Substances
 
 _This page current as of 21 June 2017._
 
@@ -14,10 +14,10 @@ Just make a regular requisition in eProcurement for a purchase from Patterson Ve
 
 The only differences from a normal requisition are:
 
-* In the **Comment for Supplier** field, put in "Dr. Daniel Moore, account number \[number\]."
-* When it asks if HIPAA is applicable to this purchase, select "No".
+- In the **Comment for Supplier** field, put in "Dr. Daniel Moore, account number \[number\]."
+- When it asks if HIPAA is applicable to this purchase, select "No".
 
-  **Storage**
+## Storage
 
   Any vial with ketamine in it must be kept in a locked box, in a locked drawer.
 
@@ -37,11 +37,11 @@ Whenever you use a controlled substance, you must record how much you use on the
 
 Each vial of pure ketamine and for each vial of ketamine/saline mixture should have its own log. Here is an example of a log:
 
-[example-usage-log.pdf](https://github.com/moorelabvanderbilt/moorelabwiki/tree/98d9c43e779d8205afd02a9948443bf49c9a4a16/uploads/controlled-substances/example-usage-log.pdf)
+[example-usage-log.pdf](.gitbook/assets/example-usage-log.pdf)
 
 For ease of sharing amongst the lab members and to save the beautiful trees of the earth, I've been keeping our logs as spreadsheets in Google Drive. You should have access to these files, so you can just copy one and change the information as needed for new vials.
 
-The inspectors will want to see these logs during [mouse inspection](https://github.com/moorelabvanderbilt/moorelabwiki/tree/98d9c43e779d8205afd02a9948443bf49c9a4a16/mouses/inspection/README.md), so keep them up to date and accurate.
+The inspectors will want to see these logs during [mouse inspection](mouses/inspection.md), so keep them up to date and accurate.
 
 ## Disposal
 
@@ -52,10 +52,6 @@ We should have some solidifier in lab:
 ![solidifier](.gitbook/assets/controlled-substances-00001.jpg)
 
 If we do not, you can obtain some by contacting the VEHS Animal Care Safety Officer \(ACSO\), which at this time is Marisa Scott.
-
-> Marisa Scott  
-> marisa.scott@vanderbilt.edu  
-> 615-322-4982
 
 Figure out how many milliliters of controlled substance you need to dispose of. Divide that in half. This is how much solidifier you should use.
 
@@ -72,4 +68,3 @@ Take the conical with solidified drug to the window at MCN S-1310. This is on th
 ## More information
 
 For more information, see the [DAC website](https://www.vanderbilt.edu/acup/dac/) and the [IACUC website](https://www.vanderbilt.edu/acup/iacuc/). These websites have detailed forms and procedures for everything to do with mouse management, including controlled substances.
-
