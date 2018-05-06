@@ -8,7 +8,7 @@ You can only purchase it from Vanderbilt from 2pm-3pm on Tuesdays and Thursdays,
 
 ### 1180 form
 
-The first thing you’ll need to do is get an 1180 Requisition Form from the [Peds Endo administrative assistant](https://github.com/moorelabvanderbilt/moorelabwiki/tree/98d9c43e779d8205afd02a9948443bf49c9a4a16/admin-asst/README.md). Shoot him/her an email about this, including the following information:
+The first thing you’ll need to do is get an 1180 Requisition Form from the [Peds Endo administrative assistant](admin-asst.md). Shoot him/her an email about this, including the following information:
 
 * **Units ordered**: 4
 * **Unit of issue**: gallon
@@ -100,5 +100,5 @@ There should be an employee there who will accept your 1180 in exchange for the 
 
 Anyway, if you find someone, they'll have you write the price of the ethanol on the 1180 and sign it. Then they'll keep the top copy of the carbon copies, and you'll keep the other two. Take the 1180 and your ethanol and bring it back to lab.
 
-At your convenience, bring the 1180 back to the [Peds Endo administrative assistant](https://github.com/moorelabvanderbilt/moorelabwiki/tree/98d9c43e779d8205afd02a9948443bf49c9a4a16/admin-asst/README.md).
+At your convenience, bring the 1180 back to the [Peds Endo administrative assistant](admin-asst.md).
 
