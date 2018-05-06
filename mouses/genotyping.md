@@ -30,7 +30,7 @@ Repeat this process for all the mice you need genotyped. Bring your tubes with t
 
 #### Dirty prep
 
-_Adapted from_ [_Preparation of PCR-Quality Mouse Genomic DNA with Hot Sodium Hydroxide and Tris \(HotSHOT\). _BioTechniques_ 29:52-54 \(July 2000\)._](http://www.biotechniques.com/BiotechniquesJournal/2000/July/Preparation-of-PCR-Quality-Mouse-Genomic-DNA-with-Hot-Sodium-Hydroxide-and-Tris-HotSHOT/biotechniques-44169.html)
+_Adapted from_ [_Preparation of PCR-Quality Mouse Genomic DNA with Hot Sodium Hydroxide and Tris \(HotSHOT\)._ BioTechniques _29:52-54 \(July 2000\)._](http://www.biotechniques.com/BiotechniquesJournal/2000/July/Preparation-of-PCR-Quality-Mouse-Genomic-DNA-with-Hot-Sodium-Hydroxide-and-Tris-HotSHOT/biotechniques-44169.html)
 
 **Required items**
 
@@ -58,7 +58,7 @@ The only protocol that we currently have that requires the clean prep is the [SA
 
 ### PCR Amplification
 
-[_This is a general overview of PCR that could be adapted for any gene. For PCR mixes and protocols to use with specific mouse strains, see _[_this page on mouse strains._](mouse-strains.md)
+_This is a general overview of PCR that could be adapted for any gene. For PCR mixes and protocols to use with specific mouse strains, see _[_this page on mouse strains._](mouse-strains.md)
 
 Once you have DNA, it's time to amplify your segment of interest so it can be seen when you run it on a gel.
 
