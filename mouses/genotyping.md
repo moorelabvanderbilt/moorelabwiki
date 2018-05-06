@@ -30,7 +30,7 @@ Repeat this process for all the mice you need genotyped. Bring your tubes with t
 
 #### Dirty prep
 
-_Adapted from \[Preparation of PCR-Quality Mouse Genomic DNA with Hot Sodium Hydroxide and Tris \(HotSHOT\). _BioTechniques_ 29:52-54 \(July 2000\).\]\(_[http://www.biotechniques.com/BiotechniquesJournal/2000/July/Preparation-of-PCR-Quality-Mouse-Genomic-DNA-with-Hot-Sodium-Hydroxide-and-Tris-HotSHOT/biotechniques-44169.html](http://www.biotechniques.com/BiotechniquesJournal/2000/July/Preparation-of-PCR-Quality-Mouse-Genomic-DNA-with-Hot-Sodium-Hydroxide-and-Tris-HotSHOT/biotechniques-44169.html)_\)_
+_Adapted from_ [_Preparation of PCR-Quality Mouse Genomic DNA with Hot Sodium Hydroxide and Tris \(HotSHOT\). _BioTechniques_ 29:52-54 \(July 2000\)._](http://www.biotechniques.com/BiotechniquesJournal/2000/July/Preparation-of-PCR-Quality-Mouse-Genomic-DNA-with-Hot-Sodium-Hydroxide-and-Tris-HotSHOT/biotechniques-44169.html)
 
 **Required items**
 
