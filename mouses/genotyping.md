@@ -1,4 +1,4 @@
-# genotyping
+# Genotyping
 
 **Genotyping** is the procedure that we use to determine the DNA genotype of mice.
 
@@ -12,7 +12,7 @@ For most transgenic and knockout mice that we use, there is not a readily observ
 
 * PCR tubes, 8-tube strip, with individually attached lids \(e.g. [product 1402-2900 from USA Scientific](http://www.usascientific.com/0.2ml-pcr-8-tube-strip-indivattached-caps.aspx)\)
 * Scissors
-* Ear tags \(see [Ear Tags](https://github.com/moorelabvanderbilt/moorelabwiki/tree/98d9c43e779d8205afd02a9948443bf49c9a4a16/mouses/ear-tags/README.md) for more information\)
+* Ear tags \(see [Ear Tags](ear-tags.md) for more information\)
 * Ear tag appliers
 * Sharpie to label tubes
 
@@ -34,9 +34,9 @@ _Adapted from \[Preparation of PCR-Quality Mouse Genomic DNA with Hot Sodium Hyd
 
 **Required items**
 
-* NaOH, 50 mM
-* Tris-HCl, 40 mM
-* PCR machine
+- NaOH, 50 mM
+- Tris-HCl, 40 mM
+- PCR machine
 
 Add 75 uL NaOH to each tail clipping. Make sure the clipping is submerged in the NaOH - vortexing the tubes can help with this.
 
@@ -54,11 +54,11 @@ For some PCR protocols, the dirty prep does not amplify reliably. For these, you
 
 Simply follow the directions in the kit to get more pure DNA. However, the full protocol is much more labor intensive and takes longer than the dirty prep, so if the dirty prep works for your PCR protocol, use that instead.
 
-The only protocol that we currently have that requires the clean prep is the [SAP protocol](https://github.com/moorelabvanderbilt/moorelabwiki/tree/98d9c43e779d8205afd02a9948443bf49c9a4a16/mouses/mouse-strains/README.md#sap).
+The only protocol that we currently have that requires the clean prep is the [SAP protocol](mouse-strains.md#sap).
 
 ### PCR Amplification
 
-_This is a general overview of PCR that could be adapted for any gene. For PCR mixes and protocols to use with specific mouse strains, see _[_this page on mouse strains_](https://github.com/moorelabvanderbilt/moorelabwiki/tree/98d9c43e779d8205afd02a9948443bf49c9a4a16/mouses/mouse-strains/README.md)_._
+[_This is a general overview of PCR that could be adapted for any gene. For PCR mixes and protocols to use with specific mouse strains, see _[_this page on mouse strains._](mouse-strains.md)
 
 Once you have DNA, it's time to amplify your segment of interest so it can be seen when you run it on a gel.
 
@@ -79,7 +79,7 @@ Aliquot 23 uL of this master mix into PCR tubes, then add 2.0 uL of each DNA sam
 
 Close the caps of the PCR tubes and place them into the PCR machine. Close and tighten the lid of the machine to keep the caps of the tubes on \(the tubes get very hot during cycling, so if the caps aren't secured they can burst off and your reaction liquid inside can evaporate\).
 
-Set the PCR machine to use the protocol you need. Many protocols are saved in the machine already. If you need to add another protocol, see [Adding a new protocol to the cycler](https://github.com/moorelabvanderbilt/moorelabwiki/tree/98d9c43e779d8205afd02a9948443bf49c9a4a16/mouses/genotyping/README.md#adding-a-new-protocol-to-the-cycler) below.
+Set the PCR machine to use the protocol you need. Many protocols are saved in the machine already. If you need to add another protocol, see [Adding a new protocol to the cycler](genotyping.md#adding-a-new-protocol-to-the-cycler) below.
 
 When the PCR is done, the machine will hold the reactions at 4°C. If you need to remove them but don't want to run them on a gel just yet, they can be stored at 4°C in the fridge.
 
@@ -110,11 +110,11 @@ While the PCR machine is running, it's good to go ahead and make your gel so tha
 
 Add 100 mL 1X TAE buffer to a 500 mL Erlenmeyer flask. Add 1.5 g agarose powder to the buffer. Swirl it around and put it in the microwave on high for 1 min 30 sec.
 
-!\[pour agarose in flask\]\(/uploads/genotyping/genotyping-00012.jpg "it's lab like in the movies"\)
+![it's lab like in the movies](../.gitbook/assets/genotyping-00012.jpg)
 
 Put on a hot glove and take the flask out. Add 10 uL [SYBR Safe gel dye](https://www.thermofisher.com/us/en/home/life-science/dna-rna-purification-analysis/nucleic-acid-gel-electrophoresis/dna-stains/sybr-safe.html) \(available at the Core\). Swirl the flask until the dye is evenly distributed.
 
-!\[add sybr safe\]\(/uploads/genotyping/genotyping-00013.jpg "it looks dangerous but it's safe... SYBR Safe"\)
+![it looks dangerous but it's safe... SYBR Safe](../.gitbook/assets/genotyping-00013.jpg)
 
 Place a gel tray in the caster. Take care that the rubber gaskets do not roll out of place when sliding it in - this can cause a leak.
 
@@ -239,4 +239,3 @@ Using the arrow keys, select the letter in **UNNAMED** that you'd like to change
 ![cycler 10](../.gitbook/assets/genotyping-00010.jpg)
 
 Press **Enter** to save the protocol.
-

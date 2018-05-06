@@ -1,4 +1,4 @@
-# mouse-breeding
+# Mouse breeding
 
 ## For all breeding pairs
 
@@ -8,18 +8,18 @@ Ideally, a breeding pair will have their first litter about 40 days after pairin
 
 Here are some suggestions for breeding success:
 
-* Use a new cage whenever you pair mice for breeding. Males can be territorial and can refuse to mate if they detect the smell of _any_ other mice that have already lived in the cage. This includes the female mouse that will be in the cage with the male.
-* Select new breeders in the age range of 5-9 weeks old. This is especially important for female mice, as older females are less likely to mate than younger ones.
-* Select mice that have been housed apart from the opposite sex for at least a week, as mice housed co-ed style can be less likely to mate.
-* Wean pups as soon as they are ready, especially when a new litter has been born. The older pups can crowd out the more vulnerable younger pups and prevent them from accessing their mother.
+- Use a new cage whenever you pair mice for breeding. Males can be territorial and can refuse to mate if they detect the smell of _any_ other mice that have already lived in the cage. This includes the female mouse that will be in the cage with the male.
+- Select new breeders in the age range of 5-9 weeks old. This is especially important for female mice, as older females are less likely to mate than younger ones.
+- Select mice that have been housed apart from the opposite sex for at least a week, as mice housed co-ed style can be less likely to mate.
+- Wean pups as soon as they are ready, especially when a new litter has been born. The older pups can crowd out the more vulnerable younger pups and prevent them from accessing their mother.
 
 ### When to retire a breeding cage
 
 You don't want to waste money and space to keep unproductive breeding cages activated. For non-diabetic strains, I considered a cage as unproductive at the following points:
 
-* Either of the mice is older than 9 months old. Mice can still have litters after this point, but most of the time the litter size will be small and it would be better to just replace the cage with a younger pair.
-* It has been more than 60 days since the mice last had a litter. If mating is halted for this long, it is unlikely to ever restart with this pair.
-* It has been more than 60 days since the mice were paired and the pair has not had a litter. This is the least bright-line rule of all of these, since it takes some strains a bit longer to get going, but generally 60 days after pairing is a good time to consider replacing the cage.
+- Either of the mice is older than 9 months old. Mice can still have litters after this point, but most of the time the litter size will be small and it would be better to just replace the cage with a younger pair.
+- It has been more than 60 days since the mice last had a litter. If mating is halted for this long, it is unlikely to ever restart with this pair.
+- It has been more than 60 days since the mice were paired and the pair has not had a litter. This is the least bright-line rule of all of these, since it takes some strains a bit longer to get going, but generally 60 days after pairing is a good time to consider replacing the cage.
 
 In addition to the above guidelines, for diabetic strains \(e.g. NOD\) the mothers need to be checked regularly for the onset of hyperglycemia. A hyperglycemic mother generally stops being attentive to the pups, and the pups often struggle to get enough nutrition from her to develop at a normal rate, and they can die before reaching adulthood. Pups should be fostered to a more fit mother \(see **When a mother is incapacitated**, below\).
 
@@ -43,11 +43,10 @@ Some transgenes also prevent true-breeding status by being homozygous lethal, in
 
 On the green breeder cards for non-true-breeders, it is good to record the two genotypes of the breeders, so it's easier to tell what genotype the offspring are expected to be.
 
-For more information about genotyping, see [genotyping](https://github.com/moorelabvanderbilt/moorelabwiki/tree/98d9c43e779d8205afd02a9948443bf49c9a4a16/mouses/genotyping/README.md) and [mouse strains](https://github.com/moorelabvanderbilt/moorelabwiki/tree/98d9c43e779d8205afd02a9948443bf49c9a4a16/mouses/mouse-strains/README.md).
+For more information about genotyping, see [genotyping](genotyping.md) and [mouse strains](mouse-strains.md).
 
 ## Matings spreadsheet
 
 The Matings tab of the **Mouse Colony** Google Sheet can be used to track the status of all the mating cages.
 
-For more information about using this spreadsheet, see [Mouse Spreadsheets, Matings](https://github.com/moorelabvanderbilt/moorelabwiki/tree/98d9c43e779d8205afd02a9948443bf49c9a4a16/mouses/spreadsheets/README.md#matings).
-
+For more information about using this spreadsheet, see [Mouse Spreadsheets, Matings](spreadsheets.md#matings).

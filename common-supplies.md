@@ -1,4 +1,4 @@
-# common-supplies
+# Common supplies
 
 _This page current as of 3 July 2017._
 
@@ -106,4 +106,3 @@ All of this stuff is from Fisher.
 | Insulin Syringes, 1mL, 100/pk, case of 5pk | Fisher | 329424 |
 | Cell strainers, 70um, case of 50 | Fisher | 22363548 |
 | 96-Well Clear PVC Assay Microplates, V-shape, case of 100 | Fisher | 07-200-100 |
-

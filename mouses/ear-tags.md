@@ -1,4 +1,4 @@
-# ear-tags
+# Ear tags
 
 **Ear tags** are small metal tags that attach to the ear of a mouse. They are numbered so that individual mice can be identified using the number.
 
@@ -25,4 +25,3 @@ You can purchase ear tags through eProcurement by creating a normal requisition 
 The only difference is that you need to put the range of numbering you'd like on the tags in the **Comment for supplier** field \(e.g. "tag numbers 500-999"\).
 
 I generally buy 500 tags at a time.
-

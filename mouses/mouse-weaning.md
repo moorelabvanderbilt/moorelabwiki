@@ -1,4 +1,4 @@
-# mouse-weaning
+# Mouse weaning
 
 When pups are 3 weeks old, they are old enough to be **weaned** from their parents. At this point, they will be able to eat and drink on their own, and their mother will likely be ready to give birth to a new litter.
 
@@ -6,7 +6,7 @@ When pups are 3 weeks old, they are old enough to be **weaned** from their paren
 
 Get two clean cages and open them up. These cages are to sort the weanlings by sex.
 
-Get the breeding cage to be weaned and open it up. Remove the weanlings from the breeding cage one by one, placing the males in one of the clean cages and females in the other \(see [sexing mice](https://github.com/moorelabvanderbilt/moorelabwiki/tree/98d9c43e779d8205afd02a9948443bf49c9a4a16/mouses/sexing/README.md) if you need help telling the sexes apart\).
+Get the breeding cage to be weaned and open it up. Remove the weanlings from the breeding cage one by one, placing the males in one of the clean cages and females in the other \(see [sexing mice](sexing.md) if you need help telling the sexes apart\).
 
 ![example weaning setup](../.gitbook/assets/weaning-00001-a.jpeg)
 
@@ -49,4 +49,3 @@ Often, DAC will notice these cases and place an orange health concern card on th
 If DAC has not noticed the pups' size, but you think that the pups are too small to wean, place a light-orange health alert card on the cage, indicating that the pups are too small, and place the Alert magnet on the front of the room door. A vet tech will stop by the room to check the pups status and replace the health alert card with a health concern card.
 
 Note that the presence of an overcrowd card is not indicative of the pups' readiness to be weaned. Overcrowd cards are typically placed by the animal care tech, not by a vet tech, so they do not reliably assess the maturity of the pups when they place overcrowd cards. If you think pups are too small, even if there is an overcrowd card on the cage, put a health alert card so the vet can come to confirm the pups' maturity.
-

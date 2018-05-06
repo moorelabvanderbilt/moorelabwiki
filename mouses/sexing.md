@@ -1,4 +1,4 @@
-# sexing
+# Sexing
 
 **Sexing** is the practice of differentiating male mice from female mice.
 
@@ -25,4 +25,3 @@ Testicles are often apparent on older males. They appear as a swollen area aroun
 Male mice do not have nipples. However, nipples are difficult to see on light-colored, young female mice, so their absence should not be the only factor in determining the sex of a mouse.
 
 Male mice tend to be slightly larger than female mice, especially in older mice.
-

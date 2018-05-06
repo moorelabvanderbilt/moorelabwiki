@@ -1,4 +1,4 @@
-# minus-80
+# -80°C freezer
 
 Our -80°C freezer is where we store stuff that needs to be _real_ cold.
 
@@ -13,13 +13,13 @@ If the alarm goes off, they will be alerted. They will come check out the freeze
 If the alarm goes off, but you already know about it and it's not anything to worry about \(like you had the door open for a while, so the temperature rise is normal\), call the peeps at Delta Ops.
 
 > Vanderbilt Plant Services, Delta Operations Center  
-> 615-343-0316 \(or just 30316 from a Vanderbilt phone\)
->
-> ## Troubleshooting
->
-> ### The door won't open
->
-> The freezer has a vacuum system that starts after you close the door. This vacuum should exist shortly after closing the door, but should vent fairly quickly.
+> 30316 from a Vanderbilt phone
+
+## Troubleshooting
+
+### The door won't open
+
+The freezer has a vacuum system that starts after you close the door. This vacuum should exist shortly after closing the door, but should vent fairly quickly.
 
 If it still cannot be opened after a minute or so, the vent is probably frozen over.
 
@@ -27,7 +27,7 @@ The vent is located on the left side of the freezer, at the top near the front.
 
 Here is what it looks like on the outside:
 
-!\[top left corner of freezer\]\(/uploads/minus-80/minus-80-00001-a.jpeg "it's the corner!"\)
+![it's the corner!](.gitbook/assets/minus-80-00001-a.jpeg)
 
 And here's what it looks like on the inside when it's frozen over:
 
@@ -67,8 +67,8 @@ If so, great! You fixed it.
 
 If not, it's broken. You need help from someone more knowledgeable.
 
-* If it's during the workday, call Plant Services. They have freezer specialists that can come look at it.
-* If it's nighttime, the freezer specialists are \(probably\) not here right now. You'll have to wait until the next workday to call them in. Continue to **Move all the stuff** below.
+- If it's during the workday, call Plant Services. They have freezer specialists that can come look at it.
+- If it's nighttime, the freezer specialists are \(probably\) not here right now. You'll have to wait until the next workday to call them in. Continue to **Move all the stuff** below.
 
 Just for reference, the other switch behind the hatch on the freezer is for the backup battery. This should stay on all the time, unless you're going to power down the freezer for an extended amount of time.
 
@@ -76,7 +76,7 @@ Just for reference, the other switch behind the hatch on the freezer is for the 
 
 As a last resort, you need to get everything out of the malfunctioning freezer until you can get it fixed.
 
-Look for other people's -80° freezers. You're probably going to want at least two to go to. Make a note of whose freezers they are. Call Plant Services, Delta Operations and let them know that several freezers are going to alarm soon, and which ones you have chosen.
+Look for other people's -80°C freezers. You're probably going to want at least two to go to. Make a note of whose freezers they are. Call Plant Services, Delta Operations and let them know that several freezers are going to alarm soon, and which ones you have chosen.
 
 Get a rolling cart. Push it up next to the freezer. Open the door to the freezer and put as much stuff as you can on the cart.
 
@@ -93,4 +93,3 @@ Write a quick email to the people whose freezers you've commandeered to put your
 That's all you can do for now. Get someone from Plant Services in to service the freezer at the next opportunity.
 
 Go get some Cookout, since this probably happened at 3am and you're tired and stressed. There's no stress reliever like a Big Double Cheddar Style.
-

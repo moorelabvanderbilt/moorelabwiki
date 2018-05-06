@@ -1,6 +1,6 @@
-# autoclave
+# Autoclave
 
-The **autoclave** is a machine that uses high temperature and pressure to sterilize materials. We often use it to sterilize equipment for use in [animal procedures](https://github.com/moorelabvanderbilt/moorelabwiki/tree/98d9c43e779d8205afd02a9948443bf49c9a4a16/mouses/procedures/README.md).
+The **autoclave** is a machine that uses high temperature and pressure to sterilize materials. We often use it to sterilize equipment for use in [animal procedures](mouses/procedures.md).
 
 It has 2 types of cycle: gravity and liquid. Gravity is used for solid items like tools and flasks, and liquid is used for liquid items like flasks filled with water or broth.
 
@@ -30,11 +30,11 @@ On the display screen, press **CYCLE SELECT**.
 
 Press **1. GRAVITY**. This selects the shortest gravity cycle \(15 min\).
 
-!\[cycle select screen\]\(/uploads/autoclave/autoclave-00005.jpg "who's that ghost?"\)
+![who's that ghost?](.gitbook/assets/autoclave-00005.jpg)
 
 Press **START CYCLE**. This starts the cycle. A countdown timer should appear showing the estimated time until the cycle is complete.
 
-!\[start cycle screen\]\(/uploads/autoclave/autoclave-00006.jpg "don't worry, it's just me"\)
+![don't worry, it's just me](.gitbook/assets/autoclave-00006.jpg)
 
 Write your name down in the appropriate log book on the table opposite the autoclaves. Autoclave \#2 is the one closest to the ice machine.
 
@@ -47,4 +47,3 @@ Wearing a hot glove, carefully remove the metal basket from the autoclave. The i
 Take the basket back into lab and wait for it to cool.
 
 When the basket and tools are cool enough, label all the bags with the date.
-

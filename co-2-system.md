@@ -1,6 +1,6 @@
-# co-2-system
+# CO2 system
 
-The CO2 system supplies the [incubator](https://github.com/moorelabvanderbilt/moorelabwiki/tree/98d9c43e779d8205afd02a9948443bf49c9a4a16/incubator-system/README.md) with carbon dioxide. Cells grown in the incubator need the media to be kept at an optimal pH \(around 7\). Typically media contains dissolved bicarbonate \(HCO3-\) in order to maintain this pH, but at normal air concentrations of CO2, the bicarbonate would dissociate to H2O and CO2 and evaporate into the air. Therefore, in order to keep the media at the correct pH, the atmosphere in the incubator is kept at 5% CO2 to keep the bicarbonate in solution.
+The CO2 system supplies the incubator with carbon dioxide. Cells grown in the incubator need the media to be kept at an optimal pH \(around 7\). Typically media contains dissolved bicarbonate \(HCO3-\) in order to maintain this pH, but at normal air concentrations of CO2, the bicarbonate would dissociate to H2O and CO2 and evaporate into the air. Therefore, in order to keep the media at the correct pH, the atmosphere in the incubator is kept at 5% CO2 to keep the bicarbonate in solution.
 
 ## Reading the gauges
 
@@ -130,11 +130,10 @@ This is the plumbing setup that goes into the wall above the CO2 tanks.
 
 This is the plumbing that comes from the wall in 7410C and goes into the incubator.
 
-Our tank output \(labelled **Tank 4**\) supplies both our incubator and the Russell lab incubator.
+Our tank output \(labeled **Tank 4**\) supplies both our incubator and the Russell lab incubator.
 
 This is the only plumbing that I didn't replace, so I'm not sure of the exact measurements of everything.  
 Based on some quick measurements and my rudimentary knowledge of polymers, I think the tubing is **1/4-inch ID polyethylene**.  
 The adapters where the tubing is pushed onto are called **barb fittings**.
 
 While the quick-release polyurethane tubing and fittings are easier to connect and disconnect, you probably won't have to disconnect the incubator from the wall very often. Therefore, I would NOT recommend that you change these fittings to the quick-release style, since that would involve swapping the fitting on the incubator itself.
-
