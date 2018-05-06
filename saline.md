@@ -1,9 +1,9 @@
-# buying-saline
+# Saline
 
 _This page current as of 21 June 2017._
 
-> The pharmacy intends to move to an iLab-based purchasing system soon.  
-> If that has happened, this page is outdated and the below **Submitting the order** section is no longer valid. {.is-danger}
+> The pharmacy intends to move to an iLab-based purchasing system soon.
+> If that has happened, this page is outdated and the below **Submitting the order** section is no longer valid.
 
 For some reason, it's been difficult to purchase the 10 mL bottles of saline via normal suppliers, so instead we purchase it from the Vanderbilt pharmacy.
 
@@ -21,24 +21,26 @@ And it comes in packs like this:
 
 To begin, you'll need to download this form:
 
-[pharmacy-medication-request-form-rev-5-6-2017.pdf](https://github.com/moorelabvanderbilt/moorelabwiki/tree/98d9c43e779d8205afd02a9948443bf49c9a4a16/uploads/buying-saline/pharmacy-medication-request-form-rev-5-6-2017.pdf)
+[pharmacy-medication-request-form-rev-5-6-2017.pdf](.gitbook/assets/pharmacy-medication-request-form-rev-5-6-2017.pdf)
 
 Fill out the information as listed on the form. Most of the fields are pretty self-explanatory.
 
-* **Description**: 0.9% Sodium Chloride Injection, 10 mL, 1 box of 25 units
-* **Account**: 60150 is the number we use for all lab supplies
+- **Description**: 0.9% Sodium Chloride Injection, 10 mL, 1 box of 25 units
+- **Account**: 60150 is the number we use for all lab supplies
 
-Have Dan sign the **Principal Investigator \(Signature\)** field, and then email it to [Bethany](https://github.com/moorelabvanderbilt/moorelabwiki/tree/98d9c43e779d8205afd02a9948443bf49c9a4a16/admin-asst/README.md#bethany-oates) for department approval.
+Have Dan sign the **Principal Investigator \(Signature\)** field, and then email it to [Bethany](admin-asst.md#bethany-oates) for department approval.
 
 After it is signed and approved, email it to pharmacypurchasing@vanderbilt.edu.
 
-You should recieve an email when your order is ready to pick up. For saline, this is usually the next business day.
+You should receive an email when your order is ready to pick up. For saline, this is usually the next business day.
 
 ## Going to the pharmacy
 
 Go out of the lab and take the elevators down to the 1st floor.
 
-![the spectacular view from the elevators](.gitbook/assets/saline-00005-a.jpg) ![round the bend](.gitbook/assets/saline-00006-a.jpg)
+![the spectacular view from the elevators](.gitbook/assets/saline-00005-a.jpg)
+
+![round the bend](.gitbook/assets/saline-00006-a.jpg)
 
 Go around the bend into the 1st floor of the main hospital.
 
@@ -64,4 +66,3 @@ Use the phone on the wall there to tell the people inside that you're there to p
 You may have to sign something indicating that you've picked it up, but that should be it.
 
 ![a very secure door](.gitbook/assets/saline-00003-a.jpg)
-

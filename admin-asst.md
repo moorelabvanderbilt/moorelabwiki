@@ -10,6 +10,8 @@ Bethany is the Research Administrative Officer for the department. She is the ap
 
 Other than that, she typically handles department-level stuff. However, she can be helpful if you have an unusual question about purchasing or payroll.
 
+---
+
 ## Taylor Herity
 
 Taylor is an Administrative Assistant I, and handles the following duties \(the bold are most likely the only ones you'll need\):
@@ -25,6 +27,8 @@ Taylor is an Administrative Assistant I, and handles the following duties \(the 
 - Giftcards \(clinical trials\)
 - Offsite reimbursements
 - Synergy backup or changes
+
+---
 
 ## Ophelia Battle
 
