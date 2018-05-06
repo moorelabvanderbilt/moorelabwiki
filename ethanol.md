@@ -64,7 +64,7 @@ Continue down this hallway, around the soft right.
 
 Continue, taking the soft left.
 
-![this left's softness leaves something to be desired](.gitbook/assets/ethanol-00010-a.jpg)
+![this left&apos;s softness leaves something to be desired](.gitbook/assets/ethanol-00010-a.jpg)
 
 Continue down this long hallway.
 
@@ -84,7 +84,7 @@ Now at this elevator bay, you need to take the elevator on the right side \(MRB2
 
 Once you get the correct elevator, get in and press the button for LD.
 
-![LD stands for 'lackluster dungeon'](.gitbook/assets/ethanol-00016-a.jpg)
+![LD stands for &apos;lackluster dungeon&apos;](.gitbook/assets/ethanol-00016-a.jpg)
 
 Stepping out, go to the right, through the blue double doors.
 
@@ -92,7 +92,7 @@ Stepping out, go to the right, through the blue double doors.
 
 The door where the ethanol lives is right in front of you. You've arrived! Congratulations!
 
-![It's a McDonald's on Mon-Wed-Fri. Closed for both alcohol and quarter pounders on weekends.](.gitbook/assets/ethanol-00019-a.jpg)
+![It&apos;s a McDonald&apos;s on Mon-Wed-Fri. Closed for both alcohol and quarter pounders on weekends.](.gitbook/assets/ethanol-00019-a.jpg)
 
 ### The actual transaction
 
@@ -101,3 +101,4 @@ There should be an employee there who will accept your 1180 in exchange for the 
 Anyway, if you find someone, they'll have you write the price of the ethanol on the 1180 and sign it. Then they'll keep the top copy of the carbon copies, and you'll keep the other two. Take the 1180 and your ethanol and bring it back to lab.
 
 At your convenience, bring the 1180 back to the [Peds Endo administrative assistant](https://github.com/moorelabvanderbilt/moorelabwiki/tree/98d9c43e779d8205afd02a9948443bf49c9a4a16/admin-asst/README.md).
+

@@ -24,7 +24,7 @@
 * [sterile-hood](sterile-hood.md)
 * [package-sending](package-sending.md)
 * [buying-saline](buying-saline.md)
-* [admin-asst](admin-asst.md)
+* [Administrative Assistants](admin-asst.md)
 * [common-supplies](common-supplies.md)
 * [mouses](mouses-1.md)
 * [eprocurement](eprocurement.md)
