@@ -1,6 +1,6 @@
 # Table of contents
 
-* Moore lab wiki
+* [Moore lab wiki](README.md)
 * [ethanol](ethanol.md)
 * [controlled-substances](controlled-substances.md)
 * mouses
