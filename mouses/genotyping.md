@@ -56,7 +56,7 @@ Simply follow the directions in the kit to get more pure DNA. However, the full 
 
 The only protocol that we currently have that requires the clean prep is the [SAP protocol](mouse-strains.md#sap).
 
-### PCR Amplification
+### PCR Amplification using Promega Green Mix
 
 _This is a general overview of PCR that could be adapted for any gene. For PCR mixes and protocols to use with specific mouse strains, see _[_this page on mouse strains._](mouse-strains.md)
 
@@ -102,7 +102,47 @@ The only temperature that you have to determine is the annealing temperature. Th
 
 In addition to using the calculator, if you have a PCR machine that can do a gradient of temperatures, you can set the annealing temperature step to a gradient of about ±5°C from the annealing temperature suggested by the above calculation. If you run this gradient protocol with a single positive control sample for the gene of interest, you can see the temperature that produced the best band on the resulting gel.
 
-In addition to this simple protocol, there are more complicated PCR protocols \(often listed in the genotyping section of Jackson's website\), like where the annealing temperature rises slightly each cycle. They have never worked very well for me, so I just use the simple ones.
+In addition to this simple protocol, there are more complicated PCR protocols \(often listed in the genotyping section of Jackson's website\), like where the annealing temperature rises slightly each cycle. They have never worked very well for me, so I just use the simple ones. We tried them again and they work fine.
+
+### PCR Amplification using KAPA Hot Start
+
+_This follows the protocol that JAX uses for genotyping mice. It is a touchdown prtocol that covers most primers and is faster than using Promega Green Mix
+
+First, you need to mix your DNA into individual PCR mixes. Mix a master mix of everything except for the DNA.
+
+This recipe is for a single DNA sample, so multiply this by how many samples you have. In addition, sometimes you'll have more than two primers; this is okay, just reduce the amount of water so that the whole mix still comes out to 23 uL per sample.
+
+| Reagent | Amount \(per rxn\) | Stock Conc. | Final Conc. |
+| --- | --- | --- | --- |
+| Forward Primer | 1.25 uL | 10 uM | 0.5 uM |
+| Reverse Primer | 1.25 uL | 10 uM | 0.5 uM |
+| KAPA HS Mix | 12.5 uL | 2X | 1X |
+| Nuclease-free water | to 23 uL | - | - |
+
+Aliquot 23 uL of this master mix into PCR tubes, then add 2.0 uL of each DNA sample to a separate tube, for a total of 25 uL per reaction.
+
+Close the caps of the PCR tubes and place them into the PCR machine. Close and tighten the lid of the machine to keep the caps of the tubes on \(the tubes get very hot during cycling, so if the caps aren't secured they can burst off and your reaction liquid inside can evaporate\).
+
+Set the PCR machine to use the JAX_KAPA protocol saved in the machine already.
+
+When the PCR is done, the machine will hold the reactions at 4°C. If you need to remove them but don't want to run them on a gel just yet, they can be stored at 4°C in the fridge.
+
+#### JAX PCR Protocol
+
+| Step | Temperature \(°C\) | Time \(m:ss\) |
+| --- | --- | --- |
+| initialization | 94 | 3:00 |
+| - | - | start loop 10x (Touchdown) |
+| denaturation | 94 | 0:15 |
+| annealing | 65 (-0.5C/cycle) | 0:15 |
+| elongation | 68 | 0:15 |
+| - | - | end loop |
+| - | - | start loop 28x |
+| denaturation | 94 | 0:15 |
+| annealing | 60 | 0:15 |
+| elongation | 72 | 0:15 |
+| final elongation | 72 | 1:00 |
+| hold | 4 | ∞ |
 
 ### Making a gel
 
